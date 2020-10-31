@@ -1,37 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Raffaello Seri
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Econometrics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Università degli Studi dell'Insubria
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ??.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Statistics and econometrics
+- Numerical analysis
+- Operations research
+- Mathematical psychology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Science, major in Mathematics
+    institution: Université Paris Dauphine, Paris (France)
+    year: 2005
+  - course: PhD in Management and Industrial Engineering
+    institution: Politecnico di Milano, Milano (Italy)
+    year: 1999
+  - course: DEA MASE
+    institution: Université Paris Dauphine/ENSAE, Paris (France)
+    year: 1999
+  - course: MSc in Management and Industrial Engineering
+    institution: Politecnico di Milano, Milano (Italy)
+    year: 1996
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +44,46 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/rfl_seri
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/raffaelloseri
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1646-3547
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/6f3dh/
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/search/?searchtype=author&query=Seri%2C+R
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.uni-trier.de/pers/hd/s/Seri:Raffaello
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Raffaello_Seri
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.ca/citations?user=bjN-A28AAAAJ&hl=en
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/raffaello-seri/stats/
+- icon: philpapers
+  icon_pack: ai
+  link: https://philpapers.org/s/Raffaello+Seri
+- icon: impactstory
+  icon_pack: ai
+  link: https://impactstory.org/u/0000-0003-1646-3547
+- icon: figshare
+  icon_pack: ai
+  link: https://figshare.com/authors/Raffaello_Seri/4782855
+- icon: academia
+  icon_pack: ai
+  link: https://uninsubria.academia.edu/RaffaelloSeri
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +103,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+??
