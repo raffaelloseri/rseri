@@ -1,6 +1,6 @@
 ---
 title: Uniformity of Points
-summary: An example of using the in-built project page.
+summary:
 
 tags:
 - Numerical Analysis

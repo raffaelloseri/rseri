@@ -42,4 +42,4 @@ where $\Theta$ is a Borel subset of $\mathbb{R}^{p}$ and  $\mathbb{P}$ is a prob
 \end{equation}
 be simpler than the original one and that the sequence $\mathbb{P}_{n}$ converge to $\mathbb{P}$ in some sense, for example in the sense of narrow convergence.
 If a sample of realizations of the random variable $Y$ is available, the expectation can be approximated through the empirical mean. This is the basis of the so-called $M-$estimation used in Statistics and Econometrics, that is, estimation obtained by optimizing a function of the sample with respect to one or several parameters and of the sample average approximation method used in Stochastic Programming.
-This project aims at studying conditions under which the solution of the approximating problem converges almost surely to the solution of the original problem.
+This project aims at studying conditions under which the solution of the original problem can be approximated by the solution of the approximating problem.
