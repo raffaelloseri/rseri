@@ -35,6 +35,6 @@ url_video: ""
 slides: example
 ---
 
-<img src="/assets/images/Project001.gif" title="The convex hull of 300 points on the sphere" />
+<img src="assets/images/Project001.gif" title="The convex hull of 300 points on the sphere" />
 
 ??
