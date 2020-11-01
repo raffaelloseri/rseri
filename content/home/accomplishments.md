@@ -5,7 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Education"
+# title = "Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -19,33 +20,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Université Paris Dauphine"
+  organization_url = "https://www.dauphine.fr/en/welcome.html"
+  title = "PhD in Sciences, major in Mathematics, under the supervision of Christian Hess"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = ""
+  date_start = "1999-09-01"
+  date_end = "2005-05-01"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Université Paris Dauphine/ENSAE"
+  organization_url = ""
+  title = "DEA MASE (Mathématiques Appliquées aux Sciences Économiques) under the supervision of Christian Gouriéroux"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "1998-09-01"
+  date_end = "1999-08-01"
+  description = ""
+
+[[item]]
+  organization = "Politecnico di Milano"
+  organization_url = "https://www.polimi.it"
+  title = "PhD in Management and Industrial Engineering under the supervision of Rocco Mosconi"
+  url = ""
+  certificate_url = ""
+  date_start = "1996-09-01"
+  date_end = "1999-12-21"
+  description = ""
+
+[[item]]
+  organization = "Politecnico di Milano"
+  organization_url = "https://www.polimi.it"
+  title = "MSc in Management and Industrial Engineering"
+  url = ""
+  certificate_url = ""
+  date_start = "1991-09-01"
+  date_end = "1996-07-01"
   description = ""
 
 +++
