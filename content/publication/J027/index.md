@@ -14,7 +14,7 @@ authors:
 - Hiring Decisions Forecasting Collaboration
 - Eric Luis Uhlmann
 - admin
-date: "2020-01-29T00:00:00Z"
+date: "2020-07-16T00:00:00Z"
 doi: "10.1016/j.obhdp.2020.07.002"
 featured: true
 image:
