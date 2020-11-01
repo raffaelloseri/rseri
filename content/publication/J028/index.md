@@ -1,5 +1,5 @@
 ---
-abstract:
+abstract: *Purpose* – This viewpoint article is concerned with an attempt to advance organisational plasticity (OP) modelling concepts by using a novel community modelling framework (PhiloLab) from the social simulation community to drive the process of idea generation. In addition, the authors want to feed back their experience with PhiloLab as they believe that this way of idea generation could also be of interest to the wider evidence-based human resource management (EBHRM) community.
 authors:
 - Peer-Olaf Siebers
 - Dinuka Herath
@@ -26,7 +26,7 @@ publication_types:
 - "2"
 publishDate: "2020-08-26T00:00:00Z"
 slides: ""
-summary: 
+summary:
 tags:
 - "Statistics"
 title: "On the quest for defining organisational plasticity: a community modelling experiment"
