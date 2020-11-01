@@ -25,8 +25,8 @@ date_format = "2 Jan 2006"
   title = "Second Summer School 'Economic Behaviours: Models, Measurements, and Policies'"
   url = "https://ebmp2020.lakecomoschool.org/"
   certificate_url = ""
-  date_start = "2020-06-29"
-  date_end = "2020-07-03"
+  date_start = "2022-06-29"
+  date_end = "2022-07-03"
   description = "Organized with Francesco Guala, Caterina Marchionni and Ivan Moscati, together with Lake Como School of Advanced Studies and INEM (International Network for Economic Method)."
 
 [[item]]
@@ -35,8 +35,8 @@ date_format = "2 Jan 2006"
   title = "Summer School 'Bioeconomy school: from basic science to a new economy'"
   url = "https://bsne.lakecomoschool.org/"
   certificate_url = ""
-  date_start = "2020-05-25"
-  date_end = "2020-05-30"
+  date_start = "2021-05-24"
+  date_end = "2021-05-28"
   description = "Organized with Fabrizio Adani, Garabed Antranikian, Diego Bosco, Marcella Bracale, Loredano Pollegioni, Andreas Pyka, Daniela Ubiali, Andrea Vezzulli."
 
 [[item]]
