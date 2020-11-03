@@ -9,7 +9,7 @@ date: "2019-08-09T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Chebyshev minimizers over grids of points
+  caption: 
   focal_point: Smart
 
 links:

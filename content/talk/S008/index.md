@@ -25,7 +25,7 @@ publishDate: "2002-01-01T00:00:00Z"
 slides: ""
 summary: "Seminar"
 tags:
-- Numerical analysis
+- Numerical Analysis
 title: "Monte Carlo and quasi-Monte Carlo Methods for Domain Approximation"
 url_code: ""
 url_pdf: ""

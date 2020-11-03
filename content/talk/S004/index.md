@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: In this paper, we prove a new version of the Birkhoff ergodic theorem (BET) for random variables depending on a parameter (alias integrands). This involves variational convergences, namely epigraphical, hypographical and uniform convergence and requires a suitable definition of the conditional expectation of integrands. We also have to establish the measurability of the epigraphical lower and upper limits with respect to the $\sigma$-field of invariant subsets. From the main result, applications to uniform versions of the BET to sequences of random sets and to the strong consistency of estimators are briefly derived.
 all_day: true
 authors:
 - Christine Choirat
@@ -21,12 +21,13 @@ links:
 location: Paris, France
 math: true
 projects:
-- ""
-publishDate: "1998-01-01T00:00:00Z"
+- "Project005"
+publishDate: "2000-01-01T00:00:00Z"
 slides: ""
 summary: "Seminar"
 tags:
-- Probability theory
+- Probability Theory
+- Convex Analysis
 title: "A Functional Version of the Birkhoff Ergodic Theorem for a Normal Integrand: A Variational Approach"
 url_code: ""
 url_pdf: ""

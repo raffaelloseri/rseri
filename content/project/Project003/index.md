@@ -1,6 +1,6 @@
 ---
 title: Inference for Simulation Models
-summary: An example of using the in-built project page.
+summary: 
 tags:
 - Management
 - Industrial Economics

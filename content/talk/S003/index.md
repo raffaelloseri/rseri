@@ -7,7 +7,7 @@ authors:
 - admin
 date: "1998-03-20"
 date_end: ""
-event: AiIG Quantitative Methods Net
+event: AiIG (Associazione Italiana di Ingegneria Gestionale) Quantitative Methods Net
 event_url: ""
 featured: false
 image:
@@ -27,6 +27,7 @@ slides: ""
 summary: "Seminar"
 tags:
 - Econometrics
+- Industrial Economics
 title: La co-evoluzione delle competenze e delle strutture di mercato. Analisi e problemi di modellizzazione dal punto di vista dell'indagine empirica
 url_code: ""
 url_pdf: ""
