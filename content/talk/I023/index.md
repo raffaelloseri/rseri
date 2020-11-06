@@ -21,13 +21,13 @@ links:
 location: Barcelona, Spain
 math: true
 projects:
-- ""
+- "Project005"
 publishDate: "2004-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
 - Statistics
-- Convex analysis
+- Convex Analysis
 title: "Generic Epigraphical Laws of Large Numbers"
 url_code: ""
 url_pdf: ""

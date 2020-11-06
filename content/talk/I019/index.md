@@ -26,9 +26,9 @@ publishDate: "2004-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Experimental economics
-- Mathematical psychology
-- Operations research
+- Experimental Economics
+- Mathematical Psychology
+- Operations Research
 title: "An Experimental Study on Saaty Pairwise Comparison Scale"
 url_code: ""
 url_pdf: ""
