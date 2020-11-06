@@ -20,13 +20,12 @@ links:
 location: London, United Kingdom
 math: true
 projects:
-- "Project001"
+- ""
 publishDate: "2002-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Statistics
-- Numerical analysis
+- Industrial Economics
 title: "Adoption of Interrelated Technologies: An Operational Framework"
 url_code: ""
 url_pdf: ""

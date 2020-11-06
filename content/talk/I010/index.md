@@ -25,7 +25,7 @@ publishDate: "2002-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Mathematical biology
+- Mathematical Biology
 title: "Persistence: Characterizations, Measures and Testing"
 url_code: ""
 url_pdf: ""

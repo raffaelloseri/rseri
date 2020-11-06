@@ -5,7 +5,7 @@ authors:
 - Renata Rotondi
 - admin
 date: "2003-10-09"
-date_end: "2003-10-09"
+date_end: ""
 event: Giornata di Statistica Bayesiana Nonparametrica presso il CNR-IMATI
 event_url: ""
 featured: false

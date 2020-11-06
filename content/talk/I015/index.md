@@ -25,7 +25,8 @@ publishDate: "2004-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Mathematical psychology
+- Operations Research
+- Mathematical Psychology
 title: "Analytic Hierarchy Process, A Psychometric Approach"
 url_code: ""
 url_pdf: ""

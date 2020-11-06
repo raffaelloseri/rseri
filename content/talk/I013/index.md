@@ -26,7 +26,7 @@ slides: ""
 summary: "International conference"
 tags:
 - Statistics
-- Numerical analysis
+- Numerical Analysis
 title: "Statistical Properties of Generalized Discrepancies"
 url_code: ""
 url_pdf: ""

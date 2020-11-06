@@ -21,12 +21,12 @@ links:
 location: Varese, Italy
 math: true
 projects:
-- ""
+- "Project005"
 publishDate: "2002-01-01T00:00:00Z"
 slides: ""
 summary: "Seminar"
 tags:
-- Probability theory
+- Probability Theory
 title: "A Functional Version of the Birkhoff Ergodic Theorem for a Normal Integrand: A Variational Approach"
 url_code: ""
 url_pdf: ""

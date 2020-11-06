@@ -6,7 +6,7 @@ authors:
 - admin
 date: "2003-09-10"
 date_end: ""
-event: Seminar at ETHZ
+event: Seminar at the Department of Environmental Systems Science at ETHZ
 event_url: ""
 featured: false
 image:

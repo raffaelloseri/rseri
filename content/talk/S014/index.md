@@ -25,7 +25,7 @@ publishDate: "2004-01-01T00:00:00Z"
 slides: ""
 summary: "Seminar"
 tags:
-- Probability theory
+- Probability Theory
 title: "Variations around an Ergodic Theorem"
 url_code: ""
 url_pdf: ""

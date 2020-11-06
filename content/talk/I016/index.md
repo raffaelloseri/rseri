@@ -26,7 +26,7 @@ slides: ""
 summary: "International conference"
 tags:
 - Statistics
-- Stochastic geometry
+- Geometry
 title: "Confidence Sets for the Aumann Mean of a Random Closed Set"
 url_code: ""
 url_pdf: ""

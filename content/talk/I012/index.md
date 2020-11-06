@@ -25,7 +25,7 @@ publishDate: "2002-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Numerical analysis
+- Numerical Analysis
 - Statistics
 title: Statistical Properties of Generalized Discrepancies
 url_code: ""
