@@ -6,7 +6,7 @@ authors:
 - Christine Choirat
 - admin
 date: "2004-12-16"
-date_end: "2004-12-16"
+date_end: ""
 event: "III Workshop LABSI on Experimental Economics: Methods and Applications"
 event_url: ""
 featured: false
@@ -26,9 +26,9 @@ publishDate: "2004-01-01T00:00:00Z"
 slides: ""
 summary: "National conference"
 tags:
-- Experimental economics
-- Mathematical psychology
-- Operations research
+- Experimental Economics
+- Mathematical Psychology
+- Operations Research
 title: "Estimation of Separable Representations in Psychophysical Experiments"
 url_code: ""
 url_pdf: ""

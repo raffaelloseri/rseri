@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ??.
+bio: My research interests include statistics, numerical analysis, operations research, psychology, economics and management.
 
 interests:
 - Statistics and econometrics
@@ -103,4 +103,4 @@ user_groups:
 - Visitors
 ---
 
-??
+I am a professor of econometrics, but my research is at the intersection of statistics, numerical analysis, operations research, psychology, economics and management.

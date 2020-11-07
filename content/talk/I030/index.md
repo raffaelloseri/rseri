@@ -7,7 +7,7 @@ authors:
 date: "2005-06-02"
 date_end: "2005-06-03"
 event: JAE (Journal of Applied Econometrics) Conference, Changing Structures in International and Financial Markets and the Effects on Financial Decision Making
-event_url: "https://www.mbcolbia.com/eventi/convegno-frontiers-time-series-analysis"
+event_url: "http://www.greta.it/jae/jae.htm"
 featured: false
 image:
   caption: ''

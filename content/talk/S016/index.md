@@ -27,7 +27,7 @@ slides: ""
 summary: "Seminar"
 tags:
 - Statistics
-- Mathematical psychology
+- Mathematical Psychology
 title: "Estimation of Separable Representations in Psychophysical Experiments"
 url_code: ""
 url_pdf: ""

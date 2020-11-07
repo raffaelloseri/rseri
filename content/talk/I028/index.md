@@ -21,13 +21,13 @@ links:
 location: Stockholm, Sweden
 math: true
 projects:
-- ""
+- "Project005"
 publishDate: "2005-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Operations research
-- Convex analysis
+- Operations Research
+- Convex Analysis
 title: "Generic Approximation of Stochastic Programming Problems"
 url_code: ""
 url_pdf: ""

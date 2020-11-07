@@ -26,7 +26,7 @@ slides: ""
 summary: "Seminar"
 tags:
 - Statistics
-- Numerical analysis
+- Numerical Analysis
 title: "Generalized Discrepancies and Goodness-of-Fit Tests"
 url_code: ""
 url_pdf: ""

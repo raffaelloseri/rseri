@@ -26,9 +26,9 @@ publishDate: "2004-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Experimental economics
-- Mathematical psychology
-- Operations research
+- Experimental Economics
+- Mathematical Psychology
+- Operations Research
 title: "Estimation of Separable Representations in Psychophysical Experiments"
 url_code: ""
 url_pdf: ""
