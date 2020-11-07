@@ -52,5 +52,5 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-<a href="https://plu.mx/plum/a/?doi=10.1371/journal.pone.0056506" class="plumx-plum-print-popup"></a>
+<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1371/journal.pone.0056506" class="plumx-details"></a>
