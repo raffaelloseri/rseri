@@ -2,12 +2,12 @@
 abstract: ""
 all_day: true
 authors:
+- Michele Bernasconi
 - Christine Choirat
-- Christian Hess
 - admin
-date: "2007-11-12"
-date_end: ""
-event: Seminar at the Department of Quantitative Economics, Faculty of Economics and Business Administration
+date: "2007-07-03"
+date_end: "2007-07-06"
+event: "38th European Mathematical Psychology Group Meeting"
 event_url: ""
 featured: false
 image:
@@ -18,17 +18,16 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Maastricht, The Netherlands
+location: Luxembourg, Luxembourg
 math: true
 projects:
-- "Project005"
+- "Project002"
 publishDate: "2007-01-01T00:00:00Z"
 slides: ""
-summary: "Seminar"
+summary: "International conference"
 tags:
-- Statistics
-- Convex analysis
-title: "On the use of epiconvergence in statistical estimation and stochastic programming"
+- Mathematical psychology
+title: "Measurement by Subjective Estimation: Testing for Separable Representations"
 url_code: ""
 url_pdf: ""
 url_slides: ""

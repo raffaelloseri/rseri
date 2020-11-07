@@ -5,9 +5,9 @@ authors:
 - Christine Choirat
 - Christian Hess
 - admin
-date: "2007-11-12"
-date_end: ""
-event: Seminar at the Department of Quantitative Economics, Faculty of Economics and Business Administration
+date: "2007-08-27"
+date_end: "2007-08-31"
+event: "SPXI (11th Conference on Stochastic Programming)"
 event_url: ""
 featured: false
 image:
@@ -18,17 +18,17 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Maastricht, The Netherlands
+location: Wien, Austria
 math: true
 projects:
 - "Project005"
 publishDate: "2007-01-01T00:00:00Z"
 slides: ""
-summary: "Seminar"
+summary: "International conference"
 tags:
-- Statistics
+- Operations research
 - Convex analysis
-title: "On the use of epiconvergence in statistical estimation and stochastic programming"
+title: "Generic Approximation of Stochastic Programming Problems"
 url_code: ""
 url_pdf: ""
 url_slides: ""
