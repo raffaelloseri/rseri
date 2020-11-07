@@ -31,10 +31,5 @@ url_source: ""
 url_video: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+<a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-66948-9_11" class="plumx-details"></a>

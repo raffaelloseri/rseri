@@ -20,7 +20,7 @@ links:
 location: Pamplona, Spain
 math: true
 projects:
-- ""
+- "Project005"
 publishDate: "2006-01-01T00:00:00Z"
 slides: ""
 summary: "Seminar"

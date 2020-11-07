@@ -103,4 +103,4 @@ user_groups:
 - Visitors
 ---
 
-I am a professor of econometrics, but my research is at the intersection of statistics, numerical analysis, operations research, psychology, economics and management.
+I am a professor of econometrics. My research is at the intersection of statistics, numerical analysis, operations research, psychology, economics and management.
