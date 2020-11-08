@@ -9,7 +9,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: "Project003"
+projects: [Project003]
 publication: '*Agent-Based Simulation of Organizational Behavior. New Frontiers of Social Science Research*, edited by D. Secchi and M. Neumann, Springer International Publishing Cham, pp. 265-286'
 publication_short: ""
 publication_types:
