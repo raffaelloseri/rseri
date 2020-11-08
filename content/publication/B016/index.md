@@ -10,7 +10,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: "Project003"
 publication: '*Simulating Social Complexity - A Handbook*, 2nd edition, edited by B. Edmonds and R. Meyer, Springer-Verlag Berlin Heidelberg, pp. 229-251'
 publication_short: ""
 publication_types:
