@@ -100,7 +100,7 @@ address = {street = "Via Monte Generoso 71", city = "Varese", region = "VA", pos
 coordinates = {latitude = "45.798035", longitude = "8.852472"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building ??"
+directions = "Enter building and go upstairs"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
