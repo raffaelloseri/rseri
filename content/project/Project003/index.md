@@ -1,6 +1,6 @@
 ---
 title: Inference for Simulation Models
-summary: 
+summary:
 tags:
 - Management
 - Industrial Economics
@@ -32,4 +32,4 @@ url_video: ""
 slides: example
 ---
 
-??
+Still to be written

@@ -9,7 +9,7 @@ date: "2019-08-09T00:00:00Z"
 external_link: ""
 
 image:
-  caption: 
+  caption:
   focal_point: Smart
 
 links:
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-??
+Still to be written
