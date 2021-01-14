@@ -28,7 +28,7 @@ summary: "National conference"
 tags:
 - Experimental economics
 - Mathematical psychology
-title: "Psychological distorsions in multiple-criteria decision making"
+title: "Psychological distortions in multiple-criteria decision making"
 url_code: ""
 url_pdf: ""
 url_slides: ""
