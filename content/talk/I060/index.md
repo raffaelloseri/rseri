@@ -2,12 +2,11 @@
 abstract: ""
 all_day: true
 authors:
-- Michele Bernasconi
-- Christine Choirat
+- Davide Secchi
 - admin
-date: "2009-02-02"
-date_end: ""
-event: Seminario del Dipartimento di Scienze Economiche, Università di Verona
+date: "2009-07-29"
+date_end: "2009-08-01"
+event: "CogSci 2009, Annual Meeting of the Cognitive Science Society"
 event_url: ""
 featured: false
 image:
@@ -18,18 +17,17 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Verona, Italy
+location: Amsterdam, The Netherlands
 math: true
 projects:
-- "Project002"
+- ""
 publishDate: "2009-01-01T00:00:00Z"
 slides: ""
-summary: "Seminar"
+summary: "International conference"
 tags:
 - Statistics
-- Mathematical psychology
-- Experimental economics
-title: "The Analytic Hierarchy Process and the Theory of Measurement"
+- Management
+title: "When Do You Take Advice? A Model of Ethical Judgement"
 url_code: ""
 url_pdf: ""
 url_slides: ""

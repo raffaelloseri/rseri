@@ -5,9 +5,9 @@ authors:
 - Michele Bernasconi
 - Christine Choirat
 - admin
-date: "2009-02-02"
+date: "2009-10-27"
 date_end: ""
-event: Seminario del Dipartimento di Scienze Economiche, Università di Verona
+event: Seminario del Dipartimento di Scienze Economiche, Università di Brescia
 event_url: ""
 featured: false
 image:
@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Verona, Italy
+location: Brescia, Italy
 math: true
 projects:
 - "Project002"

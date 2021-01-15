@@ -5,9 +5,9 @@ authors:
 - Michele Bernasconi
 - Christine Choirat
 - admin
-date: "2009-02-02"
-date_end: ""
-event: Seminario del Dipartimento di Scienze Economiche, Università di Verona
+date: "2009-05-14"
+date_end: "2009-05-15"
+event: 2009 Florence Behavioural and Experimental Economics Workshop - I Workshop degli Economisti Sperimentali e Comportamentali Italiani
 event_url: ""
 featured: false
 image:
@@ -18,13 +18,13 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Verona, Italy
+location: Firenze, Italy
 math: true
 projects:
 - "Project002"
 publishDate: "2009-01-01T00:00:00Z"
 slides: ""
-summary: "Seminar"
+summary: "National conference"
 tags:
 - Statistics
 - Mathematical psychology

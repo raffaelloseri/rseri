@@ -2,12 +2,11 @@
 abstract: ""
 all_day: true
 authors:
-- Michele Bernasconi
 - Christine Choirat
 - admin
-date: "2009-02-02"
-date_end: ""
-event: Seminario del Dipartimento di Scienze Economiche, Università di Verona
+date: "2009-05-28"
+date_end: "2009-05-29"
+event: First Gretl Conference
 event_url: ""
 featured: false
 image:
@@ -18,18 +17,18 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Verona, Italy
+location: Bilbao, Spain
 math: true
 projects:
-- "Project002"
+- ""
 publishDate: "2009-01-01T00:00:00Z"
 slides: ""
-summary: "Seminar"
+summary: "International conference"
 tags:
 - Statistics
-- Mathematical psychology
-- Experimental economics
-title: "The Analytic Hierarchy Process and the Theory of Measurement"
+- Econometrics
+- Computer science
+title: "On embedding Gretl in a Python module"
 url_code: ""
 url_pdf: ""
 url_slides: ""
