@@ -7,7 +7,7 @@ authors:
 - admin
 date: "2009-02-02"
 date_end: ""
-event: Seminario del Dipartimento di Scienze Economiche, Università di Verona
+event: "Seminario del Dipartimento di Scienze Economiche, Università di Verona"
 event_url: ""
 featured: false
 image:

@@ -7,7 +7,7 @@ authors:
 - admin
 date: "2009-10-20"
 date_end: ""
-event: Seminario del Dipartimento di Ingegneria Gestionale, Politecnico di Milano
+event: "Seminario del Dipartimento di Ingegneria Gestionale, Politecnico di Milano"
 event_url: ""
 featured: false
 image:

@@ -7,7 +7,7 @@ authors:
 - admin
 date: "2010-04-23"
 date_end: "2010-04-24"
-event: "The Organisation, Economics and Policy of Scientific Research"
+event: "Workshop "The Organisation, Economics and Policy of Scientific Research""
 event_url: ""
 featured: false
 image:

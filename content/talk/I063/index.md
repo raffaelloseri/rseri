@@ -7,7 +7,7 @@ authors:
 - admin
 date: "2009-08-23"
 date_end: "2009-08-27"
-event: EEA-ESEM 2009, European Economic Association/Econometric Society European Meeting
+event: "EEA-ESEM 2009, European Economic Association/Econometric Society European Meeting"
 event_url: ""
 featured: false
 image:
