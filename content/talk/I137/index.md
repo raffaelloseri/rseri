@@ -17,7 +17,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: London, UK
+location: London, United Kingdom
 math: true
 projects:
 - "Project003"
