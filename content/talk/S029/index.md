@@ -3,11 +3,11 @@ abstract: ""
 all_day: true
 authors:
 - Michele Bernasconi
-- Christine Choirat
+- Luca Corazzini
 - admin
-date: "2011-08-22"
-date_end: "2011-08-26"
-event: "17th ILAS Conference 'Pure and Applied Linear Algebra: The new Generation'"
+date: "2011-12-16"
+date_end: ""
+event: "Seminar at Ghent University"
 event_url: ""
 featured: false
 image:
@@ -18,16 +18,17 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Braunschweig, Germany
+location: Gent, Belgium
 math: true
 projects:
 - ""
 publishDate: "2011-01-01T00:00:00Z"
 slides: ""
-summary: "International conference"
+summary: "Seminar"
 tags:
-- Linear algebra
-title: "Differentials of eigenvalues and eigenvectors under nonstandard normalizations with applications to search engine rankings"
+- Experimental economics
+- Public economics
+title: "Tax evasion: Does the fiscal burden matter? Lessons from behavioral economics"
 url_code: ""
 url_pdf: ""
 url_slides: ""

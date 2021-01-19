@@ -5,9 +5,9 @@ authors:
 - Michele Bernasconi
 - Christine Choirat
 - admin
-date: "2011-08-22"
-date_end: "2011-08-26"
-event: "17th ILAS Conference 'Pure and Applied Linear Algebra: The new Generation'"
+date: "2012-06-07"
+date_end: "2012-06-12"
+event: "ASIC 2012, Eleventh Annual Summer Interdisciplinary Conference"
 event_url: ""
 featured: false
 image:
@@ -18,16 +18,17 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Braunschweig, Germany
+location: Cala Gonone, Italy
 math: true
 projects:
-- ""
-publishDate: "2011-01-01T00:00:00Z"
+- "Project002"
+publishDate: "2012-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Linear algebra
-title: "Differentials of eigenvalues and eigenvectors under nonstandard normalizations with applications to search engine rankings"
+- Operations research
+- Mathematical psychology
+title: "Separable representations in mathematical psychology and decision making"
 url_code: ""
 url_pdf: ""
 url_slides: ""

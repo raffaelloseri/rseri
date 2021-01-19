@@ -2,12 +2,11 @@
 abstract: ""
 all_day: true
 authors:
-- Michele Bernasconi
 - Christine Choirat
 - admin
-date: "2011-08-22"
-date_end: "2011-08-26"
-event: "17th ILAS Conference 'Pure and Applied Linear Algebra: The new Generation'"
+date: "2012-12-01"
+date_end: "2012-12-03"
+event: "CFE'12 (Computational and Financial Econometrics) and ERCIM'12"
 event_url: ""
 featured: false
 image:
@@ -18,16 +17,17 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Braunschweig, Germany
+location: Oviedo, Spain
 math: true
 projects:
 - ""
-publishDate: "2011-01-01T00:00:00Z"
+publishDate: "2012-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Linear algebra
-title: "Differentials of eigenvalues and eigenvectors under nonstandard normalizations with applications to search engine rankings"
+- Stochastic geometry
+- Statistics
+title: "Further results on the confidence sets for the Aumann mean of a random closed set"
 url_code: ""
 url_pdf: ""
 url_slides: ""

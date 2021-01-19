@@ -5,9 +5,9 @@ authors:
 - Michele Bernasconi
 - Christine Choirat
 - admin
-date: "2011-08-22"
-date_end: "2011-08-26"
-event: "17th ILAS Conference 'Pure and Applied Linear Algebra: The new Generation'"
+date: "2012-06-18"
+date_end: "2012-06-22"
+event: "SIAM/LA, 2012 SIAM Conference on Applied Linear Algebra"
 event_url: ""
 featured: false
 image:
@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Braunschweig, Germany
+location: Valencia, Spain
 math: true
 projects:
 - ""
@@ -27,7 +27,7 @@ slides: ""
 summary: "International conference"
 tags:
 - Linear algebra
-title: "Differentials of eigenvalues and eigenvectors under nonstandard normalizations with applications to search engine rankings"
+title: "Differentials of eigenvalues and eigenvectors under nonstandard normalizations with applications"
 url_code: ""
 url_pdf: ""
 url_slides: ""
