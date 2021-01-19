@@ -11,7 +11,7 @@ authors:
 date: "2011-05-30"
 date_end: "2011-06-04"
 event: "XXXI Conference in Harmonic Analysis"
-event_url: ""
+event_url: "http://www.mat.uniroma2.it/~picard/Convegni/Roma_2011/"
 featured: false
 image:
   caption: ''
