@@ -3,7 +3,6 @@ abstract: In this paper, we prove a new version of the Birkhoff ergodic theorem 
 authors:
 - Christine Choirat
 - Christian Hess
-- admin
 date: "2003-01-01T00:00:00Z"
 doi: "10.1214/aop/1046294304"
 featured: false
