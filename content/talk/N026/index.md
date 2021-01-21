@@ -22,13 +22,13 @@ links:
   location: Gran Canaria, Spain
 math: true
 projects:
-- "Project001"
+- ""
 publishDate: "2012-01-01T00:00:00Z"
 slides: ""
 summary: "National conference"
 tags:
-- Numerical analysis
-- Harmonic analysis
+- Organizational behavior
+- Experimental economics
 title: "Ratchet effect and conscientiousness in a dynamic setting: a laboratory experiment"
 url_code: ""
 url_pdf: ""
