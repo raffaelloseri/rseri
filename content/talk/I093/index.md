@@ -22,7 +22,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-  location: Pamplona, Spain
+location: Pamplona, Spain
 math: true
 projects:
 - ""

@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-  location: Gran Canaria, Spain
+location: Gran Canaria, Spain
 math: true
 projects:
 - ""

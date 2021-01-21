@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-  location: Bologna, Italy
+location: Bologna, Italy
 math: true
 projects:
 - "Project001"

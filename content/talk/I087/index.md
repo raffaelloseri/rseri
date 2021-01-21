@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-  location: Alba di Canazei, Italy
+location: Alba di Canazei, Italy
 math: true
 projects:
 - "Project001"

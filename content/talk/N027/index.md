@@ -17,7 +17,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-  location: Roma, Italy
+location: Roma, Italy
 math: true
 projects:
 - ""

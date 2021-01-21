@@ -17,7 +17,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-  location: Kos, Greece
+location: Kos, Greece
 math: true
 projects:
 - "Project001"
