@@ -19,7 +19,7 @@ links:
 location: Bournemouth, United Kingdom
 math: true
 projects:
-- "Project002"
+- "Project003"
 publishDate: "2014-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
