@@ -26,7 +26,7 @@ slides: ""
 summary: "International conference"
 tags:
 - Organizational behavior
-title: "`How many times should my simulation run?` Power analysis for Agent-Based Modeling"
+title: "'How many times should my simulation run?' Power analysis for Agent-Based Modeling"
 url_code: ""
 url_pdf: ""
 url_slides: ""
