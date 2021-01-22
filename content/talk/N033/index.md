@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Pisa, Italy / online
+location: Pisa, Italy (online)
 math: true
 projects:
 - ""

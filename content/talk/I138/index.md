@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Dublin, Ireland
+location: Dublin, Ireland (online)
 math: true
 projects:
 - "Project003"
