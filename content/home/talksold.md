@@ -10,19 +10,6 @@ weight = 71  # Order that this section will appear.
 title = "Past Talks"
 subtitle = ""
 
-<script>
-  (function() {
-    var cx = '006346710622437628329:tdbwt2rsqrs';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
-
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
