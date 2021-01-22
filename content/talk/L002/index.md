@@ -16,16 +16,15 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Villa del Grumello, Como, Italy
+location: Como, Italy
 math: true
 projects:
 - Project002
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
-summary: ""
+summary: "Guest lecture"
 tags:
 - Mathematical psychology
-- Lecture
 title: "Theory of Measurement and Decision Making II. Sensation Measurement"
 url_code: ""
 url_pdf: ""

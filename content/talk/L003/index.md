@@ -16,13 +16,13 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Villa del Grumello, Como, Italy
+location: Como, Italy
 math: true
 projects:
 - Project003
 publishDate: "2018-01-01T00:00:00Z"
 slides: ""
-summary: "Short course"
+summary: "Guest lecture"
 tags:
 - Industrial economics
 - Management

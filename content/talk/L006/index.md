@@ -6,7 +6,7 @@ authors:
 - admin
 date: "2019-09-05T10:15:00Z"
 date_end: "2019-09-05T11:30:00Z"
-event: Introduzione alla Bioeconomia
+event: "Introduzione alla Bioeconomia"
 event_url: ""
 featured: false
 image:
@@ -21,11 +21,10 @@ location: Varese, Italy
 math: true
 projects:
 - ""
-publishDate: "2004-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 slides: ""
-summary: ""
+summary: "Guest lecture"
 tags:
-- Presentation
 - Bioeconomy
 title: "Mercati per prodotti bio-based: aspetti ambientali ed imprenditoriali"
 url_code: ""
