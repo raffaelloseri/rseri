@@ -2,13 +2,11 @@
 abstract: ""
 all_day: true
 authors:
-- admin
 - Mario Martinoli
-- Davide Secchi
-- Samuele Centorrino
-date: "2020-06-09"
+- admin
+date: "2021-01-21"
 date_end: ""
-event: "Webinar on the Boundaries of ABM, Università degli Studi dell'Insubria"
+event: "Seminario del Dipartimento di Economia e Management dell’Università di Pisa"
 event_url: ""
 featured: false
 image:
@@ -19,18 +17,17 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Varese, Italy
+location: Pisa, Italy / online
 math: true
 projects:
-- "Project003"
-publishDate: "2020-01-01T00:00:00Z"
+- "Project002"
+publishDate: "2021-01-01T00:00:00Z"
 slides: ""
 summary: "Seminar"
 tags:
 - Statistics
-- Mathematical psychology
-- Experimental economics
-title: "Calibration of Agent-Based simulation Models via Model Confidence Sets"
+- Econometrics
+title: "Nonparametric moment-based estimation of simulated models without optimization"
 url_code: ""
 url_pdf: ""
 url_slides: ""
