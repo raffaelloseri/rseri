@@ -2,7 +2,7 @@
 abstract: ""
 all_day: true
 authors:
-- Carlo Brambilla
+- Christine Choirat
 - admin
 date: "2016-09-12"
 date_end: "2016-09-13"
@@ -25,8 +25,8 @@ publishDate: "2016-01-01T00:00:00Z"
 slides: ""
 summary: "National conference"
 tags:
-- Industrial economics
-title: "Structural change and efficiency in the Italian banking system: An assessment using DEA, 1979-2010"
+- Statistics
+title: "Asymptotic properties of growth rates"
 url_code: ""
 url_pdf: ""
 url_slides: ""
