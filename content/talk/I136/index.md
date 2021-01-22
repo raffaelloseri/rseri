@@ -2,12 +2,12 @@
 abstract: ""
 all_day: true
 authors:
-- Kristina Stumpf
 - Davide Secchi
 - admin
-date: "2020-12-04"
-date_end: "2020-12-06"
-event: EURAM 2020, 20th Annual Conference of the European Academy of Management
+- Kristina Stumpf
+date: "2020-07-02"
+date_end: "2020-07-04"
+event: "36th EGOS (European Group for Organizational Studies) Colloquium"
 event_url: ""
 featured: false
 image:
@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Dublin, Ireland
+location: Hamburg, Germany (online)
 math: true
 projects:
 - "Project003"
@@ -27,7 +27,7 @@ slides: ""
 summary: "International conference"
 tags:
 - Management
-title: Analyzing the Gender Pay Gap with Agent-Based Modeling
+title: "A complex adaptive approach to the gender pay gap"
 url_code: ""
 url_pdf: ""
 url_slides: ""

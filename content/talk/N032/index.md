@@ -6,7 +6,7 @@ authors:
 - admin
 date: "2020-01-17T14:00:00Z"
 date_end: "2020-01-17T14:30:00Z"
-event: 1st Meeting of the NetCIEx (Network on Counterfactual Impact Evaluation)
+event: "1st Meeting of the NetCIEx (Network on Counterfactual Impact Evaluation)"
 event_url: ""
 featured: false
 image:

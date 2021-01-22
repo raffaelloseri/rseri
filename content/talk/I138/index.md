@@ -2,13 +2,12 @@
 abstract: ""
 all_day: true
 authors:
-- Samuele Centorrino
-- Mario Martinoli
+- Kristina Stumpf
 - Davide Secchi
 - admin
-date: "2019-05-03"
-date_end: "2019-05-04"
-event: "Fourth Agent-Based Models of Organizational Behavior (ABMO4) Workshop: Modeling Organizational and Institutional Complexity"
+date: "2020-12-04"
+date_end: "2020-12-06"
+event: "EURAM 2020, 20th Annual Conference of the European Academy of Management"
 event_url: ""
 featured: false
 image:
@@ -19,17 +18,16 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Bolzano, Italy
+location: Dublin, Ireland
 math: true
 projects:
 - "Project003"
-publishDate: "2018-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
 - Organizational behavior
-- Statistics
-title: "A simulated minimum-distance method for the calibration of ABMs"
+title: "Analyzing the gender pay gap with Agent-Based Modeling"
 url_code: ""
 url_pdf: ""
 url_slides: ""

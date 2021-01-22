@@ -2,13 +2,12 @@
 abstract: ""
 all_day: true
 authors:
-- Samuele Centorrino
 - Mario Martinoli
 - Davide Secchi
 - admin
-date: "2019-12-14"
-date_end: "2019-12-16"
-event: CFE'19 Computational and Financial Econometrics and ERCIM'19
+date: "2019-06-26"
+date_end: "2019-06-28"
+event: "EURAM 2019, 19th Annual Conference of the European Academy of Management"
 event_url: ""
 featured: false
 image:
@@ -19,7 +18,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: London, United Kingdom
+location: Lisbon, Portugal
 math: true
 projects:
 - "Project003"
@@ -29,7 +28,7 @@ summary: "International conference"
 tags:
 - Management
 - Econometrics
-title: Model calibration and validation via confidence sets
+title: "Spot the differences! The Simulated Minimum-Distance Method"
 url_code: ""
 url_pdf: ""
 url_slides: ""

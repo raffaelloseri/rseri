@@ -2,12 +2,10 @@
 abstract: ""
 all_day: true
 authors:
-- Mario Martinoli
-- Davide Secchi
 - admin
-date: "2019-06-26"
-date_end: "2019-06-28"
-event: EURAM 2019, 19th Annual Conference of the European Academy of Management
+date: "2018-07-01"
+date_end: "2018-07-06"
+event: "MCQMC 2018, 13th International Conference in Monte Carlo & Quasi-Monte Carlo Methods in Scientific Computing"
 event_url: ""
 featured: false
 image:
@@ -18,17 +16,17 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Lisbon, Portugal
+location: Rennes, France
 math: true
 projects:
-- "Project003"
-publishDate: "2019-01-01T00:00:00Z"
+- "Project001"
+publishDate: "2018-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Management
-- Econometrics
-title: Spot the differences! The Simulated Minimum-Distance Method
+- Numerical analysis
+- Statistics
+title: "The asymptotic distribution of Riesz' energy"
 url_code: ""
 url_pdf: ""
 url_slides: ""
