@@ -24,13 +24,13 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
+[content.filters]
+  tag = ""
+  category = ""
+  publication_type = ""
+  exclude_featured = false
+  exclude_past = false
+  exclude_future = false
 
 [design]
   # Toggle between the various page layout types.
