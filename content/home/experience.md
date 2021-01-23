@@ -31,8 +31,8 @@ date_format = "Jan 2006"
     company = "ICERM, Brown University"
     company_url = "https://icerm.brown.edu/"
     location = "Providence (USA)"
-    date_start = "2018-03-31"
-    date_end = "2018-02-01"
+    date_start = "2018-02-01"
+    date_end = "2018-03-31"
     description = ""
 
 [[experience]]
