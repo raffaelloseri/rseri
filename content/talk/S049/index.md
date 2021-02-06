@@ -6,8 +6,8 @@ authors:
 - admin
 date: "2021-02-09"
 date_end: ""
-event: "LEM Seminar at Sant'Anna"
-event_url: ""
+event: "Institute of Economics Seminar Series, Scuola Superiore Sant’Anna"
+event_url: "https://www.santannapisa.it/it/event/asymptotic-properties-plug-estimator-discrete-entropy-under-dependence"
 featured: false
 image:
   caption: ''
