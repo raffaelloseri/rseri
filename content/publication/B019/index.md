@@ -1,5 +1,5 @@
 ---
-abstract:
+abstract: "This chapter is a review of some simulation models, with special reference to social sciences. Three critical aspects are identified, i.e. randomness, emergence and causation, that may help understand the evolution and the main characteristics of these simulation models. Several examples illustrate the concepts of the paper."
 authors:
 - admin
 - Davide Secchi
@@ -18,7 +18,7 @@ publication_types:
 - "6"
 publishDate: "2021-01-01T00:00:00Z"
 slides: ""
-summary:
+summary: "This chapter is a review of some simulation models, with special reference to social sciences. Three critical aspects are identified, i.e. randomness, emergence and causation, that may help understand the evolution and the main characteristics of these simulation models. Several examples illustrate the concepts of the paper."
 tags:
 - "Management"
 title: "Randomness, Emergence and Causation: A Historical Perspective of Simulation in the Social Sciences"
