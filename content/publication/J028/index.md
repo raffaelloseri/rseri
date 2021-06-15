@@ -20,7 +20,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Evidence-based HRM: a Global Forum for Empirical Scholarship, ??*, ??-??'
+publication: '*Evidence-based HRM: a Global Forum for Empirical Scholarship, 9*(2), 126-138'
 publication_short: ""
 publication_types:
 - "2"
