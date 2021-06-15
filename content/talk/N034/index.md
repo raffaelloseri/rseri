@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: "In 1857, the German economist Ernst Engel published an article, "
 all_day: true
 authors:
 - admin
