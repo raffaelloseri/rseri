@@ -1,5 +1,5 @@
 ---
-abstract: "In 1857, the German economist Ernst Engel published an article, "
+abstract: "In 1857, the German economist Ernst Engel published an article, under the title 'Die vorherrschenden Gewerbszweige in den Gerichtsämtern mit Beziehung auf die Productions- und Consumtionsverhältnisse des Königreichs Sachsen'
 all_day: true
 authors:
 - admin
