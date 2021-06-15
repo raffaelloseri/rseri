@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Member of the Research Centre for Computational & Organisational Cognition"
-  company = "Università degli Studi dell'Insubria"
+  company = "Syddansk Universitet"
   company_url = "https://www.sdu.dk/en/om_sdu/institutter_centre/c_corg"
   location = "Slagelse (Denmark)"
   date_start = "2018-07-01"
