@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: "In 1857, the German economist Ernst Engel published an article, under the title "Die vorherrschenden Gewerbszweige in den Gerichtsämtern mit Beziehung auf die Productions- und Consumtionsverhältnisse des Königreichs Sachsen", in the journal "Zeitschrift des Statistischen Bureaus des Königlich Sächsischen Ministeriums des Innern".  This article was at the origin of the so-called Engel’s Law.  Engel republished his findings in several other forms: one time in French in "Bulletin de l'institut international destatistique" in 1887, as a book in German in 1895, again in German in "Bulletin de l'institut international de statistique" in 1895. Despite the difficulty in accessing a copy of the original article, several authors cited it. In this paper, we identify some recurring errors in these citations of the 1857 paper and we try to reconstruct their origin."
 all_day: true
 authors:
 - admin
