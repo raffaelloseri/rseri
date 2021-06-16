@@ -26,7 +26,7 @@ slides: ""
 summary: "International conference"
 tags:
 - Statistics
-title: "??"
+title: "Nonparametric Moment-based Estimation of Simulated Models via Regularized Regression"
 url_code: ""
 url_pdf: ""
 url_slides: ""
