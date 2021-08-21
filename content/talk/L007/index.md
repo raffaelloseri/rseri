@@ -25,7 +25,7 @@ slides: ""
 summary: "Guest lecture"
 tags:
 - Mathematical psychology
-title: "??"
+title: "Economics and psychology"
 url_code: ""
 url_pdf: ""
 url_slides: ""
