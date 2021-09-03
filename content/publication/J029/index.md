@@ -10,7 +10,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project003]
 publication: '*IEEE Transactions on Information Theory, ??*(??), ??-??'
 publication_short: ""
 publication_types:

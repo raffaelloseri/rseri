@@ -12,7 +12,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project003]
 publication: '*Econometrics and Statistics, 20*(October 2021), 62-86'
 publication_short: ""
 publication_types:
