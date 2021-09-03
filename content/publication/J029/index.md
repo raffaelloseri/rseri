@@ -4,7 +4,7 @@ authors:
 - admin
 - Mario Martinoli
 date: "2021-08-05T00:00:00Z"
-doi: "??"
+doi: "10.1109/TIT.2021.3109307"
 featured: true
 image:
   caption: ''
