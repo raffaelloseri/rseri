@@ -29,7 +29,7 @@ _[Al via il progetto Rich: una filiera sostenibile per valorizzare i rifiuti org
 
 _[Progetto RICH](https://www.chimicaverdelombardia.it/progetto-rich/)_
 
-+[Fondazione Cariplo punta sull’economia circolare: anche l’Università dell’Insubria tra gli enti finanziati, 22 December 2020](https://www.varesenews.it/2020/12/fondazione-cariplo-punta-sulleconomia-circolare-anche-luniversita-dellinsubria-gli-enti-finanziati/1289335/)_
++ [Fondazione Cariplo punta sull’economia circolare: anche l’Università dell’Insubria tra gli enti finanziati, 22 December 2020](https://www.varesenews.it/2020/12/fondazione-cariplo-punta-sulleconomia-circolare-anche-luniversita-dellinsubria-gli-enti-finanziati/1289335/)_
 
 ## [Summer School "Bioeconomy school: from basic science to a new economy"](https://bsne.lakecomoschool.org/)
 
