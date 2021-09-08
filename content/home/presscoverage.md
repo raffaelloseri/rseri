@@ -19,7 +19,17 @@ weight = 92
 +++
 ## [RICH Project]()
 
-_["Economia circolare dei rifiuti: il prezioso lavoro della mosca soldato Hermetia nel progetto RICH, 23 April 2021](https://www.uninsubria.it/notizie/economia-circolare-dei-rifiuti-il-prezioso-lavoro-della-mosca-soldato-hermetia-nel-progetto)_
+_[Economia circolare dei rifiuti: il prezioso lavoro della mosca soldato Hermetia nel progetto RICH, 23 April 2021](https://www.uninsubria.it/notizie/economia-circolare-dei-rifiuti-il-prezioso-lavoro-della-mosca-soldato-hermetia-nel-progetto)_
 
-+ []()
-+ Politiche per la legalità, di contrasto alla corruzione e all'evasione fiscale - 5 hrs (A.Y. 2016-17)
+
+## [Summer School "Bioeconomy school: from basic science to a new economy"](https://bsne.lakecomoschool.org/)
+
+_[L’Università dell’Insubria partecipa alla terza edizione della giornata nazionale della Bioeconomia, 27 May 2021](https://www.uninsubria.it/eventi/l%E2%80%99universit%C3%A0-dell%E2%80%99insubria-partecipa-alla-terza-edizione-della-giornata-nazionale-della)_
+
+## [Summer School «Economic Behaviours: Models, Measurements, and Policies»](http://ebmp.lakecomoschool.org)
+
+_[Conclusa la Summer School «Economic Behaviours: Models, Measurements, and Policies», 11 July 2019](https://www.uninsubria.it/notizie/conclusa-la-summer-school-%C2%ABeconomic-behaviours-models-measurements-and-policies%C2%BB)_
+
+## [Summer School "The Evolution of the Economic Theory of Decision-making"](http://etdm.lakecomoschool.org)
+
+_[Conclusa la Summer School "The Evolution of the Economic Theory of Decision-making" a Villa del Grumello, Como, 2 September 2017](https://www.uninsubria.it/notizie/conclusa-la-summer-school-evolution-economic-theory-decision-making-villa-del-grumello-como)_
