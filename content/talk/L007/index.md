@@ -16,7 +16,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Paris, France
+location: Paris, France (online)
 math: true
 projects:
 - Project002
