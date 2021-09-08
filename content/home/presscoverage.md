@@ -35,6 +35,8 @@ weight = 92
 
 + [L’Università dell’Insubria partecipa alla terza edizione della giornata nazionale della Bioeconomia, 27 May 2021](https://www.uninsubria.it/eventi/l%E2%80%99universit%C3%A0-dell%E2%80%99insubria-partecipa-alla-terza-edizione-della-giornata-nazionale-della)
 
++ [«La rivoluzione è iniziata, si chiama bioeconomia», La Provincia di Como, 25 Maggio 2021](/static/PC001.pdf)
+
 ## [Summer School «Economic Behaviours: Models, Measurements, and Policies»](http://ebmp.lakecomoschool.org)
 
 + [Conclusa la Summer School «Economic Behaviours: Models, Measurements, and Policies», 11 July 2019](https://www.uninsubria.it/notizie/conclusa-la-summer-school-%C2%ABeconomic-behaviours-models-measurements-and-policies%C2%BB)
