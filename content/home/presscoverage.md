@@ -19,26 +19,26 @@ weight = 92
 +++
 ## RICH (Turning Rubbish Into biobased materials: a sustainable CHain for the full valorization of organic waste) Project
 
-_[Economia circolare dei rifiuti: il prezioso lavoro della mosca soldato Hermetia nel progetto RICH, 23 April 2021](https://www.uninsubria.it/notizie/economia-circolare-dei-rifiuti-il-prezioso-lavoro-della-mosca-soldato-hermetia-nel-progetto)_
++ [Economia circolare dei rifiuti: il prezioso lavoro della mosca soldato Hermetia nel progetto RICH, 23 April 2021](https://www.uninsubria.it/notizie/economia-circolare-dei-rifiuti-il-prezioso-lavoro-della-mosca-soldato-hermetia-nel-progetto)
 
-_[I rifiuti organici diventano biomateriali, con la mosca soldato: studio dell’Insubria, 22 April 2021](https://www.malpensa24.it/i-rifiuti-organici-diventano-biomateriali-con-la-mosca-soldato-studio-dellinsubria/)_
++ [I rifiuti organici diventano biomateriali, con la mosca soldato: studio dell’Insubria, 22 April 2021](https://www.malpensa24.it/i-rifiuti-organici-diventano-biomateriali-con-la-mosca-soldato-studio-dellinsubria/)
 
-_[Economia circolare dei rifiuti: il lavoro della mosca soldato Hermetia illucens, 22 April 2021](http://www.bizzozero.net/accade-a-bizzozero/5-notizie/6741-economia-circolare-dei-rifiuti-il-lavoro-della-mosca-soldato-hermetia-illucens)_
++ [Economia circolare dei rifiuti: il lavoro della mosca soldato Hermetia illucens, 22 April 2021](http://www.bizzozero.net/accade-a-bizzozero/5-notizie/6741-economia-circolare-dei-rifiuti-il-lavoro-della-mosca-soldato-hermetia-illucens)
 
-_[Al via il progetto Rich: una filiera sostenibile per valorizzare i rifiuti organici e produrre biomateriali, 6 April 2021](https://www.uninsubria.it/notizie/al-il-progetto-rich-una-filiera-sostenibile-valorizzare-i-rifiuti-organici-e-produrre)_
++ [Al via il progetto Rich: una filiera sostenibile per valorizzare i rifiuti organici e produrre biomateriali, 6 April 2021](https://www.uninsubria.it/notizie/al-il-progetto-rich-una-filiera-sostenibile-valorizzare-i-rifiuti-organici-e-produrre)
 
-_[Progetto RICH](https://www.chimicaverdelombardia.it/progetto-rich/)_
++ [Progetto RICH](https://www.chimicaverdelombardia.it/progetto-rich/)
 
 + [Fondazione Cariplo punta sull’economia circolare: anche l’Università dell’Insubria tra gli enti finanziati, 22 December 2020](https://www.varesenews.it/2020/12/fondazione-cariplo-punta-sulleconomia-circolare-anche-luniversita-dellinsubria-gli-enti-finanziati/1289335/)
 
 ## [Summer School "Bioeconomy school: from basic science to a new economy"](https://bsne.lakecomoschool.org/)
 
-_[L’Università dell’Insubria partecipa alla terza edizione della giornata nazionale della Bioeconomia, 27 May 2021](https://www.uninsubria.it/eventi/l%E2%80%99universit%C3%A0-dell%E2%80%99insubria-partecipa-alla-terza-edizione-della-giornata-nazionale-della)_
++ [L’Università dell’Insubria partecipa alla terza edizione della giornata nazionale della Bioeconomia, 27 May 2021](https://www.uninsubria.it/eventi/l%E2%80%99universit%C3%A0-dell%E2%80%99insubria-partecipa-alla-terza-edizione-della-giornata-nazionale-della)
 
 ## [Summer School «Economic Behaviours: Models, Measurements, and Policies»](http://ebmp.lakecomoschool.org)
 
-_[Conclusa la Summer School «Economic Behaviours: Models, Measurements, and Policies», 11 July 2019](https://www.uninsubria.it/notizie/conclusa-la-summer-school-%C2%ABeconomic-behaviours-models-measurements-and-policies%C2%BB)_
++ [Conclusa la Summer School «Economic Behaviours: Models, Measurements, and Policies», 11 July 2019](https://www.uninsubria.it/notizie/conclusa-la-summer-school-%C2%ABeconomic-behaviours-models-measurements-and-policies%C2%BB)
 
 ## [Summer School "The Evolution of the Economic Theory of Decision-making"](http://etdm.lakecomoschool.org)
 
-_[Conclusa la Summer School "The Evolution of the Economic Theory of Decision-making" a Villa del Grumello, Como, 2 September 2017](https://www.uninsubria.it/notizie/conclusa-la-summer-school-evolution-economic-theory-decision-making-villa-del-grumello-como)_
++ [Conclusa la Summer School "The Evolution of the Economic Theory of Decision-making" a Villa del Grumello, Como, 2 September 2017](https://www.uninsubria.it/notizie/conclusa-la-summer-school-evolution-economic-theory-decision-making-villa-del-grumello-como)
