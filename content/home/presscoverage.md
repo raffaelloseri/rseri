@@ -17,7 +17,7 @@ weight = 92
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-## [RICH Project]()
+## RICH Project
 
 _[Economia circolare dei rifiuti: il prezioso lavoro della mosca soldato Hermetia nel progetto RICH, 23 April 2021](https://www.uninsubria.it/notizie/economia-circolare-dei-rifiuti-il-prezioso-lavoro-della-mosca-soldato-hermetia-nel-progetto)_
 
