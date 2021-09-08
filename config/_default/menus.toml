@@ -33,10 +33,10 @@
 #  url = "courses/"
 #  weight = 50
 
-[[main]]
-  name = "Press Coverage"
-  url = "#post"
-  weight = 50
+#[[main]]
+#  name = "Press Coverage"
+#  url = "#post"
+#  weight = 55
 
 [[main]]
   name = "Contact"
