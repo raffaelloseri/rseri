@@ -34,7 +34,7 @@
 #  weight = 50
 
 [[main]]
-  name = "Press Coverage"
+  name = "Press coverage"
   url = "#post"
   weight = 55
 
