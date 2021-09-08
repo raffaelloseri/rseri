@@ -17,10 +17,19 @@ weight = 92
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-## RICH Project
+## RICH (Turning Rubbish Into biobased materials: a sustainable CHain for the full valorization of organic waste) Project
 
 _[Economia circolare dei rifiuti: il prezioso lavoro della mosca soldato Hermetia nel progetto RICH, 23 April 2021](https://www.uninsubria.it/notizie/economia-circolare-dei-rifiuti-il-prezioso-lavoro-della-mosca-soldato-hermetia-nel-progetto)_
 
+_[I rifiuti organici diventano biomateriali, con la mosca soldato: studio dell’Insubria, 22 April 2021](https://www.malpensa24.it/i-rifiuti-organici-diventano-biomateriali-con-la-mosca-soldato-studio-dellinsubria/)_
+
+_[Economia circolare dei rifiuti: il lavoro della mosca soldato Hermetia illucens, 22 April 2021](http://www.bizzozero.net/accade-a-bizzozero/5-notizie/6741-economia-circolare-dei-rifiuti-il-lavoro-della-mosca-soldato-hermetia-illucens)_
+
+_[Al via il progetto Rich: una filiera sostenibile per valorizzare i rifiuti organici e produrre biomateriali, 6 April 2021](https://www.uninsubria.it/notizie/al-il-progetto-rich-una-filiera-sostenibile-valorizzare-i-rifiuti-organici-e-produrre)_
+
+_[Progetto RICH](https://www.chimicaverdelombardia.it/progetto-rich/)_
+
+_[Fondazione Cariplo punta sull’economia circolare: anche l’Università dell’Insubria tra gli enti finanziati, 22 December 2020](https://www.varesenews.it/2020/12/fondazione-cariplo-punta-sulleconomia-circolare-anche-luniversita-dellinsubria-gli-enti-finanziati/1289335/)_
 
 ## [Summer School "Bioeconomy school: from basic science to a new economy"](https://bsne.lakecomoschool.org/)
 
