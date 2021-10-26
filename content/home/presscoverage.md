@@ -31,6 +31,10 @@ weight = 92
 
 + [Fondazione Cariplo punta sull’economia circolare: anche l’Università dell’Insubria tra gli enti finanziati, *Varese News*, 22 December 2020](https://www.varesenews.it/2020/12/fondazione-cariplo-punta-sulleconomia-circolare-anche-luniversita-dellinsubria-gli-enti-finanziati/1289335/)
 
+## HAPPY (Happy: Health, Accessibility, Public transport Policies for elderlY) Project
+
++ [Progetto Happy: sapersi muovere autonomamente con i mezzi pubblici rende più felici gli over 65enni, *Uninsubria.it*, 26 October 2021](https://www.uninsubria.it/eventi/progetto-happy-gli-over-65enni-la-mobilit%C3%A0-fa-bene-alla-salute-e-migliora-la-qualit%C3%A0-della)
+
 
 ## [Summer School "Bioeconomy school: from basic science to a new economy"](https://bsne.lakecomoschool.org/)
 
