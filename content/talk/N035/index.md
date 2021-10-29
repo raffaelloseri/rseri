@@ -18,7 +18,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Varese, Italy (online)
+location: Roma, Italy (online)
 math: true
 projects:
 - ""
