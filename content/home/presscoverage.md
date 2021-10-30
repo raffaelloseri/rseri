@@ -36,6 +36,12 @@ weight = 92
 
 + [Progetto Happy: sapersi muovere autonomamente con i mezzi pubblici rende più felici gli over 65enni, *Uninsubria.it*, 26 October 2021](https://www.uninsubria.it/eventi/progetto-happy-gli-over-65enni-la-mobilit%C3%A0-fa-bene-alla-salute-e-migliora-la-qualit%C3%A0-della)
 
++ [Progetto Happy: sapersi muovere autonomamente con i mezzi pubblici rende più felici gli over 65enni, *Varese News*, 25 October 2021](https://www.varesenews.it/2021/10/progetto-happy-sapersi-muovere-autonomamente-mezzi-pubblici-rende-piu-felici-gli-over-65enni/1393237/)
+
++ [Over 65, felicità e mezzi pubblici sono collegati? Una conferenza sul progetto "Happy", *Prima Saronno*, 25 October 2021](https://primasaronno.it/attualita/over-65-felicita-e-mezzi-pubblici-sono-collegati-una-conferenza-sul-progetto-happy/)
+
++ [Over 65, felicità e mezzi pubblici sono collegati? Una conferenza sul progetto "Happy", *GeosNews*, 25 October 2021](https://it.geosnews.com/p/it/lombardia/va/varese/over-65-felicit-e-mezzi-pubblici-sono-collegati-una-conferenza-sul-progetto-happy_35934824)
+
 
 ## [Summer School "Bioeconomy school: from basic science to a new economy"](https://bsne.lakecomoschool.org/)
 
