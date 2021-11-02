@@ -32,4 +32,4 @@ url_video: ""
 ---
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
-<a href="https://plu.mx/plum/a/?doi=10.1108/EBHRM-09-2019-0079" class="plumx-details"></a>
+<a href="https://plu.mx/plum/a/?doi=10.1109/TIT.2021.3109307" class="plumx-details"></a>
