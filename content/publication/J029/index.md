@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Project003]
-publication: '*IEEE Transactions on Information Theory, ??*(??), ??-??'
+publication: '*IEEE Transactions on Information Theory, 67*(12), 7659-7683'
 publication_short: ""
 publication_types:
 - "2"
