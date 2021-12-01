@@ -58,3 +58,9 @@ weight = 92
 ## [Summer School "The Evolution of the Economic Theory of Decision-making"](http://etdm.lakecomoschool.org)
 
 + [Conclusa la Summer School "The Evolution of the Economic Theory of Decision-making" a Villa del Grumello, Como, *Uninsubria.it*, 2 September 2017](https://www.uninsubria.it/notizie/conclusa-la-summer-school-evolution-economic-theory-decision-making-villa-del-grumello-como)
+
+## Major "Economics of Innovation" in MSc "Global Entrepreneurship, Economics and Management"
+
++ [Studente di Economics of Innovation sul podio di un hackathon durante l'Erasmus a Kaunas, in Lituania, *Uninsubria.it*, 1 December 2021](https://www.uninsubria.it/hackaton-caprino)
+
++ [Erasmus student from Economics of Innovation climbs on the podium at the Innovation Hackathon in Kaunas: Congratulations to Gianpaolo Caprino, *Uninsubria.it*, 1 December 2021] (https://www.uninsubria.eu/hackaton-caprino)
