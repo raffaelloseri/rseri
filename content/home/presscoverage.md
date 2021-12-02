@@ -61,6 +61,6 @@ weight = 92
 
 ## Major "Economics of Innovation" in MSc "Global Entrepreneurship, Economics and Management"
 
-+ [Studente di Economics of Innovation sul podio di un hackathon durante l'Erasmus a Kaunas, in Lituania, *Uninsubria.it*, 1 December 2021](https://www.uninsubria.it/hackaton-caprino)
++ [Studente di Economics of Innovation sul podio di un hackathon durante l'Erasmus a Kaunas, in Lituania, *Uninsubria.it*, 1 December 2021](https://www.uninsubria.it/hackathon-caprino)
 
-+ [Erasmus student from Economics of Innovation climbs on the podium at the Innovation Hackathon in Kaunas: Congratulations to Gianpaolo Caprino, *Uninsubria.it*, 1 December 2021](https://www.uninsubria.eu/hackaton-caprino)
++ [Erasmus student from Economics of Innovation climbs on the podium at the Innovation Hackathon in Kaunas: Congratulations to Gianpaolo Caprino, *Uninsubria.it*, 1 December 2021](https://www.uninsubria.eu/hackathon-caprino)
