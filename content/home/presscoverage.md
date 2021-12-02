@@ -63,4 +63,4 @@ weight = 92
 
 + [Studente di Economics of Innovation sul podio di un hackathon durante l'Erasmus a Kaunas, in Lituania, *Uninsubria.it*, 1 December 2021](https://www.uninsubria.it/hackathon-caprino)
 
-+ [Erasmus student from Economics of Innovation climbs on the podium at the Innovation Hackathon in Kaunas: Congratulations to Gianpaolo Caprino, *Uninsubria.it*, 1 December 2021](https://www.uninsubria.eu/hackathon-caprino)
++ [Erasmus student from Economics of Innovation climbs on the podium at the Innovation Hackathon in Kaunas: Congratulations to Gianpaolo Caprino, *Uninsubria.eu*, 1 December 2021](https://www.uninsubria.eu/hackathon-caprino)
