@@ -14,7 +14,7 @@ authors:
 - Davide Secchi
 date: "2020-08-26T00:00:00Z"
 doi: "10.1108/EBHRM-09-2019-0079"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""

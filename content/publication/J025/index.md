@@ -5,7 +5,7 @@ authors:
 - admin
 date: "2019-01-01T00:00:00Z"
 doi: "10.1137/17M1156769"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""
