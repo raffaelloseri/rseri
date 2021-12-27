@@ -61,6 +61,10 @@ weight = 92
 
 ## Major "Economics of Innovation" in MSc "Global Entrepreneurship, Economics and Management"
 
-+ [Studente di Economics of Innovation sul podio di un hackathon durante l'Erasmus a Kaunas, in Lituania, *Uninsubria.it*, 1 December 2021](https://www.uninsubria.it/hackathon-caprino)
++ [Economics of Innovation e ricerca internazionale: l'Insubria nel percorso di Pamela Efua Ofori, *Uninsubria.it*, 22 December 2021](https://web.archive.org/web/20211227082046/https://www.uninsubria.it/notizie/economics-innovation-e-ricerca-internazionale-l%E2%80%99insubria-nel-percorso-di-pamela-efua-ofori)
 
-+ [Erasmus student from Economics of Innovation climbs on the podium at the Innovation Hackathon in Kaunas: Congratulations to Gianpaolo Caprino, *Uninsubria.eu*, 1 December 2021](https://www.uninsubria.eu/hackathon-caprino)
++ [The international path of a student of Economics of Innovation, *Uninsubria.eu*, 22 December 2021](https://web.archive.org/web/20211227082535/https://www.uninsubria.eu/news/international-path-student-economics-innovation)
+
++ [Studente di Economics of Innovation sul podio di un hackathon durante l'Erasmus a Kaunas, in Lituania, *Uninsubria.it*, 1 December 2021](https://web.archive.org/web/20211202215322/https://www.uninsubria.it/notizie/studente-di-economics-innovation-sul-podio-di-un-hackathon-durante-lerasmus-lituania)
+
++ [Erasmus student from Economics of Innovation climbs on the podium at the Innovation Hackathon in Kaunas: Congratulations to Gianpaolo Caprino, *Uninsubria.eu*, 1 December 2021](https://web.archive.org/web/20211202141324/https://www.uninsubria.eu/news/erasmus-student-economics-innovation-climbs-podium-innovation-hackathon-kaunas-congratulations)
