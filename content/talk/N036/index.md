@@ -5,8 +5,8 @@ authors:
 - Mario Martinoli
 - Fulvio Corsi
 - admin
-date: "2022-01-20T14:00:00Z"
-date_end: "2022-01-21T14:30:00Z"
+date: "2022-01-20"
+date_end: "2022-01-21"
 event: "3rd IWEEE 2022 (Italian Workshop of Econometrics and Empirical Economics): High-dimensional and Multivariate Econometrics: Theory and Practice"
 event_url: ""
 featured: false
