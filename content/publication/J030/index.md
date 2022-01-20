@@ -9,7 +9,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project001]
 publication: '*Computational Statistics and Data Analysis, ??*, ??'
 publication_short: ""
 publication_types:
