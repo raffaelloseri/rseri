@@ -8,7 +8,7 @@ authors:
 date: "2022-01-20"
 date_end: "2022-01-21"
 event: "3rd IWEEE 2022 (Italian Workshop of Econometrics and Empirical Economics): High-dimensional and Multivariate Econometrics: Theory and Practice"
-event_url: ""
+event_url: "https://www.side-iea.it/events/conferences/3rd-italian-workshop-econometrics-and-empirical-economics-iweee2022"
 featured: false
 image:
   caption: ''
