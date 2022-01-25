@@ -30,3 +30,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+
+
+<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
+<a href="https://plu.mx/plum/a/?doi=" class="plumx-details"></a>
