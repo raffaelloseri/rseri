@@ -3,7 +3,7 @@ abstract: Under general conditions, the asymptotic distribution of degenerate se
 authors:
 - admin
 date: "2022-01-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.csda.2022.107437"
 featured: false
 image:
   caption: ''
@@ -33,4 +33,4 @@ url_video: ""
 
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
-<a href="https://plu.mx/plum/a/?doi=" class="plumx-details"></a>
+<a href="https://plu.mx/plum/a/?doi=10.1016/j.csda.2022.107437" class="plumx-details"></a>
