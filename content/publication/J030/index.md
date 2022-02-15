@@ -23,7 +23,7 @@ tags:
 title: "Computing the Asymptotic Distribution of Second-order $U$- and $V$-statistics"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://authors.elsevier.com/sd/article/S0167-9473(22)00017-2"
 url_poster: ""
 url_project: ""
 url_slides: ""
