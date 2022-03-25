@@ -23,10 +23,10 @@ date_format = "2 Jan 2006"
   organization = "Villa del Grumello, Como (Italy)"
   organization_url = "https://www.villadelgrumello.it/it/"
   title = "Second Summer School 'Economic Behaviours: Models, Measurements, and Policies'"
-  url = "https://ebmp2020.lakecomoschool.org/"
+  url = "https://ebmp2022.lakecomoschool.org/"
   certificate_url = ""
-  date_start = "2022-06-29"
-  date_end = "2022-07-03"
+  date_start = "2022-06-27"
+  date_end = "2022-07-01"
   description = "Organized with Francesco Guala, Caterina Marchionni and Ivan Moscati, together with Lake Como School of Advanced Studies and INEM (International Network for Economic Method)."
 
 [[item]]
