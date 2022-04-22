@@ -27,7 +27,7 @@ date_format = "2 Jan 2006"
   certificate_url = ""
   date_start = "2022-09-25"
   date_end = "2022-09-27"
-  description = "Organized within PRIN 20177FX2A7."
+  description = "Organized within PRIN 20177FX2A7 (PI Alessio Moneta)."
 
 [[item]]
   organization = "Villa del Grumello, Como (Italy)"
