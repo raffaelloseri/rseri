@@ -20,6 +20,16 @@ date_format = "2 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Centro Congressi le Benedettine, Pisa (Italy)"
+  organization_url = ""
+  title = "Model Evaluation and Causal Search: Empirical and Experimental Approaches"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-09-25"
+  date_end = "2022-09-27"
+  description = "Organized within PRIN 20177FX2A7."
+
+[[item]]
   organization = "Villa del Grumello, Como (Italy)"
   organization_url = "https://www.villadelgrumello.it/it/"
   title = "Second Summer School 'Economic Behaviours: Models, Measurements, and Policies'"
