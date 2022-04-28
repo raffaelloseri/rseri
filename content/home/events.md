@@ -21,13 +21,13 @@ date_format = "2 Jan 2006"
 
 [[item]]
   organization = "Centro Congressi le Benedettine, Pisa (Italy)"
-  organization_url = ""
+  organization_url = "https://www.unipi.it/index.php/unipieventi/Luogo/273-centro-congressi-le-benedettine"
   title = "Model Evaluation and Causal Search: Empirical and Experimental Approaches"
-  url = ""
+  url = "https://sites.google.com/view/model-evaluation-causal-search/home"
   certificate_url = ""
   date_start = "2022-09-25"
   date_end = "2022-09-27"
-  description = "Organized within PRIN 20177FX2A7 (PI Alessio Moneta)."
+  description = "Organized within PRIN 20177FX2A7 (PI Alessio Moneta) by Fulvio Corsi, Francesco Feri, Rachele Foschi, Alexia Gaudeul, Alessio Moneta, Raffaello Seri."
 
 [[item]]
   organization = "Villa del Grumello, Como (Italy)"
