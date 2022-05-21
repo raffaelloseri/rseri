@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Project003]
-publication: '*Complexity and Emergence*, edited by S. Albeverio, E. Mastrogiacomo, E. Rosazza Gianin and S. Ugolini, Springer Proceedings in Mathematics & Statistics 383, Springer, pp. ??-??'
+publication: '*Complexity and Emergence, Lake Como School of Advanced Studies, Italy, July 22–27, 2018*, edited by S. Albeverio, E. Mastrogiacomo, E. Rosazza Gianin and S. Ugolini, Springer Proceedings in Mathematics & Statistics 383, Springer, pp. 163-195'
 publication_short: ""
 publication_types:
 - "6"
