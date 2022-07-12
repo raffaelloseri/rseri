@@ -43,6 +43,11 @@ weight = 92
 + [Over 65, felicità e mezzi pubblici sono collegati? Una conferenza sul progetto "Happy", *GeosNews*, 25 October 2021](https://it.geosnews.com/p/it/lombardia/va/varese/over-65-felicit-e-mezzi-pubblici-sono-collegati-una-conferenza-sul-progetto-happy_35934824)
 
 
+## [Second Summer School «Economic Behaviours: Models, Measurements, and Policies»](http://ebmp2022.lakecomoschool.org)
+
++ [Ventidue studenti e docenti internazionali per la Summer School Economic Behaviours a Como, *Uninsubria.it*, 12 July 2022](https://www.uninsubria.it/summer-school-Economic-Behaviours)
+
+
 ## [Summer School "Bioeconomy school: from basic science to a new economy"](https://bsne.lakecomoschool.org/)
 
 + [L’Università dell’Insubria partecipa alla terza edizione della giornata nazionale della Bioeconomia, *Uninsubria.it*, 27 May 2021](https://www.uninsubria.it/eventi/l%E2%80%99universit%C3%A0-dell%E2%80%99insubria-partecipa-alla-terza-edizione-della-giornata-nazionale-della)
