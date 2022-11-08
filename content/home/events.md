@@ -19,7 +19,7 @@ date_format = "2 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Villa del Grumello, Como (Italy)"
+  organization = "Villa del Grumello, Como (Italy) "
   organization_url = "https://www.villadelgrumello.it/it/"
   title = "Summer School 'The Bioeconomy Transformation: Science, Economics, Business and Society'"
   url = ""
