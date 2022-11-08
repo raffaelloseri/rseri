@@ -6,7 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 51  # Order that this section will appear.
 
 title = "Organization of Events"
-# title = "Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
