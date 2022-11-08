@@ -20,6 +20,16 @@ date_format = "2 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Villa del Grumello, Como (Italy)"
+  organization_url = "https://www.villadelgrumello.it/it/"
+  title = "Summer School 'The Bioeconomy Transformation: Science, Economics, Business and Society'"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-06-05"
+  date_end = "2023-06-09"
+  description = "Organized with Loredano Pollegioni, Daniela Ubiali, Andrea Vezzulli, together with Lake Como School of Advanced Studies."
+
+[[item]]
   organization = "Centro Congressi le Benedettine, Pisa (Italy)"
   organization_url = "https://www.unipi.it/index.php/unipieventi/Luogo/273-centro-congressi-le-benedettine"
   title = "Model Evaluation and Causal Search: Empirical and Experimental Approaches"
@@ -47,7 +57,7 @@ date_format = "2 Jan 2006"
   certificate_url = ""
   date_start = "2021-05-24"
   date_end = "2021-05-28"
-  description = "Organized with Fabrizio Adani, Garabed Antranikian, Diego Bosco, Marcella Bracale, Loredano Pollegioni, Andreas Pyka, Daniela Ubiali, Andrea Vezzulli."
+  description = "Organized with Fabrizio Adani, Garabed Antranikian, Diego Bosco, Marcella Bracale, Loredano Pollegioni, Andreas Pyka, Daniela Ubiali, Andrea Vezzulli, together with Lake Como School of Advanced Studies."
 
 [[item]]
   organization = "Villa del Grumello, Como (Italy)"
