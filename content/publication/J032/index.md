@@ -1,5 +1,5 @@
 ---
-abstract: *Significance*
+abstract: *Significance* The extent to which results from complex datasets generalize across contexts is critically important to numerous scientific fields as well as to practitioners who rely on such analyses to guide important strategic decisions.
 authors:
 - Andrew Delios
 - Elena Giulia Clemente
@@ -29,7 +29,7 @@ publication_types:
 - "2"
 publishDate: "2022-07-19T00:00:00Z"
 slides: ""
-summary: *Significance*
+summary: *Significance* The extent to which results from complex datasets generalize across contexts is critically important to numerous scientific fields as well as to practitioners who rely on such analyses to guide important strategic decisions. 
 tags:
 - "Statistics"
 title: "Examining the context sensitivity of research findings from archival data"
