@@ -1,5 +1,5 @@
 ---
-abstract:
+abstract: *Significance*
 authors:
 - Andrew Delios
 - Elena Giulia Clemente
@@ -29,7 +29,7 @@ publication_types:
 - "2"
 publishDate: "2022-07-19T00:00:00Z"
 slides: ""
-summary:
+summary: *Significance*
 tags:
 - "Statistics"
 title: "Examining the context sensitivity of research findings from archival data"
