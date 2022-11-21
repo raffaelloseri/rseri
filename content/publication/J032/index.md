@@ -15,7 +15,6 @@ authors:
 - Generalizability Tests Forecasting Collaboration
 - Eric Luis Uhlmann
 - admin
-
 date: "2022-07-19T00:00:00Z"
 doi: "10.1073/pnas.2120377119"
 featured: false
