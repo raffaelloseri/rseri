@@ -23,7 +23,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Proceedings of the National Academy of Sciences, 119(30)*, e2120377119'
+publication: '*Proceedings of the National Academy of Sciences, 119*(30), e2120377119'
 publication_short: ""
 publication_types:
 - "2"
