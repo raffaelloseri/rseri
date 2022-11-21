@@ -1,5 +1,5 @@
 ---
-abstract: *Significance* The extent to which results from complex datasets generalize across contexts is critically important to numerous scientific fields as well as to practitioners who rely on such analyses to guide important strategic decisions.
+abstract: This initiative examined systematically the extent to which a large set of archival research findings generalizes across contexts. We repeated the key analyses for 29 original strategic management effects in the same context (direct reproduction) as well as in 52 novel time periods and geographies; 45% of the reproductions returned results matching the original reports together with 55% of tests in different spans of years and 40% of tests in novel geographies. Some original findings were associated with multiple new tests. Reproducibility was the best predictor of generalizability—for the findings that proved directly reproducible, 84% emerged in other available time periods and 57% emerged in other geographies. Overall, only limited empirical evidence emerged for context sensitivity. In a forecasting survey, independent scientists were able to anticipate which effects would find support in tests in new samples.
 authors:
 - Andrew Delios
 - Elena Giulia Clemente
@@ -29,7 +29,7 @@ publication_types:
 - "2"
 publishDate: "2022-07-19T00:00:00Z"
 slides: ""
-summary: *Significance* The extent to which results from complex datasets generalize across contexts is critically important to numerous scientific fields as well as to practitioners who rely on such analyses to guide important strategic decisions. 
+summary: This initiative examined systematically the extent to which a large set of archival research findings generalizes across contexts. We repeated the key analyses for 29 original strategic management effects in the same context (direct reproduction) as well as in 52 novel time periods and geographies; 45% of the reproductions returned results matching the original reports together with 55% of tests in different spans of years and 40% of tests in novel geographies. Some original findings were associated with multiple new tests. Reproducibility was the best predictor of generalizability—for the findings that proved directly reproducible, 84% emerged in other available time periods and 57% emerged in other geographies. Overall, only limited empirical evidence emerged for context sensitivity. In a forecasting survey, independent scientists were able to anticipate which effects would find support in tests in new samples.
 tags:
 - "Statistics"
 title: "Examining the context sensitivity of research findings from archival data"
