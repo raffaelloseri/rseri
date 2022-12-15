@@ -69,6 +69,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Raffaello_Seri
+- icon: scopus
+  icon_pack: ai
+  link: https://www.scopus.com/authid/detail.uri?authorId=23991655500
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=bjN-A28AAAAJ&hl=en
@@ -96,9 +99,6 @@ social:
 - icon: ieee
   icon_pack: ai
   link: https://ieeexplore.ieee.org/author/37085763383
-- icon: scopus
-  icon_pack: fas
-  link: https://www.scopus.com/authid/detail.uri?authorId=23991655500
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
