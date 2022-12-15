@@ -97,7 +97,7 @@ social:
   icon_pack: ai
   link: https://ieeexplore.ieee.org/author/37085763383
 - icon: scopus
-  icon_pack: ai
+  icon_pack: fas
   link: https://www.scopus.com/authid/detail.uri?authorId=23991655500
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
