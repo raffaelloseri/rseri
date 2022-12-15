@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: mastodon
+  icon_pack: fab
+  link: https://econtwitter.net/@rseri
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rfl_seri
@@ -96,9 +99,6 @@ social:
 - icon: scopus
   icon_pack: ai
   link: https://www.scopus.com/authid/detail.uri?authorId=23991655500
-- icon: mastodon
-  icon_pack: fab
-  link: https://econtwitter.net/@rseri
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
