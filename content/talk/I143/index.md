@@ -7,7 +7,7 @@ authors:
 - admin
 date: "2022-09-25"
 date_end: "2022-09-27"
-event: "Workshop "Model Evaluation and Causal Search: Empirical and Experimental Approaches""
+event: "Workshop Model Evaluation and Causal Search: Empirical and Experimental Approaches"
 event_url: "https://sites.google.com/view/model-evaluation-causal-search/home"
 featured: false
 image:
