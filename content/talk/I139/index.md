@@ -7,7 +7,7 @@ authors:
 date: "2020-12-19"
 date_end: "2020-12-21"
 event: "13th International Conference of the ERCIM WG on Computational and Methodological Statistics"
-event_url: ""
+event_url: "http://www.cmstatistics.org/CMStatistics2020/"
 featured: false
 image:
   caption: ''
