@@ -3,10 +3,10 @@ abstract: ""
 all_day: true
 authors:
 - Mario Martinoli
-- Fulvio Corsi
 - admin
-date: "2022-12-19"
-date_end: ""
+- Fulvio Corsi
+date: "2022-12-19 12:30"
+date_end: "2022-12-19 13:30"
 event: "Economics Online Seminars at Uninsubria"
 event_url: ""
 featured: false
