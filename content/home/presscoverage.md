@@ -37,30 +37,31 @@ weight = 92
 
 + [Università dell'Insubria, Economia tra i 180 dipartimenti d'eccellenza: "Risultato eccezionale", *ComoZero*, 2 January 2023](https://web.archive.org/web/20230103111903/https://comozero.it/attualita/universita-dellinsubria-il-economia-tra-i-180-dipartimenti-deccellenza-risultato-eccezionale/)
 
+
 ## RICH (Turning Rubbish Into biobased materials: a sustainable CHain for the full valorization of organic waste) Project
-
-+ [Economia circolare dei rifiuti: il prezioso lavoro della mosca soldato *Hermetia* nel progetto RICH, *Uninsubria.it*, 23 April 2021](https://www.uninsubria.it/notizie/economia-circolare-dei-rifiuti-il-prezioso-lavoro-della-mosca-soldato-hermetia-nel-progetto)
-
-+ [I rifiuti organici diventano biomateriali, con la mosca soldato: studio dell'Insubria, *Malpensa24*, 22 April 2021](https://www.malpensa24.it/i-rifiuti-organici-diventano-biomateriali-con-la-mosca-soldato-studio-dellinsubria/)
-
-+ [Economia circolare dei rifiuti: il lavoro della mosca soldato *Hermetia illucens*, *Bizzozero.net*, 22 April 2021](http://www.bizzozero.net/accade-a-bizzozero/5-notizie/6741-economia-circolare-dei-rifiuti-il-lavoro-della-mosca-soldato-hermetia-illucens)
-
-+ [Al via il progetto Rich: una filiera sostenibile per valorizzare i rifiuti organici e produrre biomateriali, *Uninsubria.it*, 6 April 2021](https://www.uninsubria.it/notizie/al-il-progetto-rich-una-filiera-sostenibile-valorizzare-i-rifiuti-organici-e-produrre)
 
 + [Progetto RICH, *Chimica Verde Lombardia*](https://www.chimicaverdelombardia.it/progetto-rich/)
 
 + [Fondazione Cariplo punta sull'economia circolare: anche l'Università dell'Insubria tra gli enti finanziati, *Varese News*, 22 December 2020](https://www.varesenews.it/2020/12/fondazione-cariplo-punta-sulleconomia-circolare-anche-luniversita-dellinsubria-gli-enti-finanziati/1289335/)
 
++ [Al via il progetto Rich: una filiera sostenibile per valorizzare i rifiuti organici e produrre biomateriali, *Uninsubria.it*, 6 April 2021](https://www.uninsubria.it/notizie/al-il-progetto-rich-una-filiera-sostenibile-valorizzare-i-rifiuti-organici-e-produrre)
+
++ [Economia circolare dei rifiuti: il lavoro della mosca soldato *Hermetia illucens*, *Bizzozero.net*, 22 April 2021](http://www.bizzozero.net/accade-a-bizzozero/5-notizie/6741-economia-circolare-dei-rifiuti-il-lavoro-della-mosca-soldato-hermetia-illucens)
+
++ [I rifiuti organici diventano biomateriali, con la mosca soldato: studio dell'Insubria, *Malpensa24*, 22 April 2021](https://www.malpensa24.it/i-rifiuti-organici-diventano-biomateriali-con-la-mosca-soldato-studio-dellinsubria/)
+
++ [Economia circolare dei rifiuti: il prezioso lavoro della mosca soldato *Hermetia* nel progetto RICH, *Uninsubria.it*, 23 April 2021](https://www.uninsubria.it/notizie/economia-circolare-dei-rifiuti-il-prezioso-lavoro-della-mosca-soldato-hermetia-nel-progetto)
+
 
 ## HAPPY (Happy: Health, Accessibility, Public transport Policies for elderlY) Project
-
-+ [Progetto Happy: sapersi muovere autonomamente con i mezzi pubblici rende più felici gli over 65enni, *Uninsubria.it*, 26 October 2021](https://www.uninsubria.it/eventi/progetto-happy-gli-over-65enni-la-mobilit%C3%A0-fa-bene-alla-salute-e-migliora-la-qualit%C3%A0-della)
 
 + [Progetto Happy: sapersi muovere autonomamente con i mezzi pubblici rende più felici gli over 65enni, *Varese News*, 25 October 2021](https://www.varesenews.it/2021/10/progetto-happy-sapersi-muovere-autonomamente-mezzi-pubblici-rende-piu-felici-gli-over-65enni/1393237/)
 
 + [Over 65, felicità e mezzi pubblici sono collegati? Una conferenza sul progetto "Happy", *Prima Saronno*, 25 October 2021](https://primasaronno.it/attualita/over-65-felicita-e-mezzi-pubblici-sono-collegati-una-conferenza-sul-progetto-happy/)
 
 + [Over 65, felicità e mezzi pubblici sono collegati? Una conferenza sul progetto "Happy", *GeosNews*, 25 October 2021](https://it.geosnews.com/p/it/lombardia/va/varese/over-65-felicit-e-mezzi-pubblici-sono-collegati-una-conferenza-sul-progetto-happy_35934824)
+
++ [Progetto Happy: sapersi muovere autonomamente con i mezzi pubblici rende più felici gli over 65enni, *Uninsubria.it*, 26 October 2021](https://www.uninsubria.it/eventi/progetto-happy-gli-over-65enni-la-mobilit%C3%A0-fa-bene-alla-salute-e-migliora-la-qualit%C3%A0-della)
 
 
 ## [Second Summer School «Economic Behaviours: Models, Measurements, and Policies»](http://ebmp2022.lakecomoschool.org)
@@ -70,9 +71,9 @@ weight = 92
 
 ## [Summer School "Bioeconomy school: from basic science to a new economy"](https://bsne.lakecomoschool.org/)
 
-+ [L'Università dell'Insubria partecipa alla terza edizione della giornata nazionale della Bioeconomia, *Uninsubria.it*, 27 May 2021](https://www.uninsubria.it/eventi/l%E2%80%99universit%C3%A0-dell%E2%80%99insubria-partecipa-alla-terza-edizione-della-giornata-nazionale-della)
-
 + [«La rivoluzione è iniziata, si chiama bioeconomia», *La Provincia di Como*, 25 May 2021](/PC001.pdf)
+
++ [L'Università dell'Insubria partecipa alla terza edizione della giornata nazionale della Bioeconomia, *Uninsubria.it*, 27 May 2021](https://www.uninsubria.it/eventi/l%E2%80%99universit%C3%A0-dell%E2%80%99insubria-partecipa-alla-terza-edizione-della-giornata-nazionale-della)
 
 
 ## [Summer School «Economic Behaviours: Models, Measurements, and Policies»](http://ebmp.lakecomoschool.org)
@@ -84,14 +85,15 @@ weight = 92
 
 + [Conclusa la Summer School "The Evolution of the Economic Theory of Decision-making" a Villa del Grumello, Como, *Uninsubria.it*, 2 September 2017](https://www.uninsubria.it/notizie/conclusa-la-summer-school-evolution-economic-theory-decision-making-villa-del-grumello-como)
 
+
 ## Major "Economics of Innovation" in MSc "Global Entrepreneurship, Economics and Management"
 
-+ [Congratulazioni ai nostri primi laureati GEEM in Double Degree con l'Università di Bordeaux, *Uninsubria.it*, 1 April 2022](https://web.archive.org/web/20220402072110/https://www.uninsubria.it/notizie/congratulazioni-ai-nostri-primi-laureati-geem-double-degree-con-luniversit%C3%A0-di-bordeaux)
++ [Studente di Economics of Innovation sul podio di un hackathon durante l'Erasmus a Kaunas, in Lituania, *Uninsubria.it*, 1 December 2021](https://web.archive.org/web/20211202215322/https://www.uninsubria.it/notizie/studente-di-economics-innovation-sul-podio-di-un-hackathon-durante-lerasmus-lituania)
+
++ [Erasmus student from Economics of Innovation climbs on the podium at the Innovation Hackathon in Kaunas: Congratulations to Gianpaolo Caprino, *Uninsubria.eu*, 1 December 2021](https://web.archive.org/web/20211202141324/https://www.uninsubria.eu/news/erasmus-student-economics-innovation-climbs-podium-innovation-hackathon-kaunas-congratulations)
 
 + [Economics of Innovation e ricerca internazionale: l'Insubria nel percorso di Pamela Efua Ofori, *Uninsubria.it*, 22 December 2021](https://web.archive.org/web/20211227082046/https://www.uninsubria.it/notizie/economics-innovation-e-ricerca-internazionale-l%E2%80%99insubria-nel-percorso-di-pamela-efua-ofori)
 
 + [The international path of a student of Economics of Innovation, *Uninsubria.eu*, 22 December 2021](https://web.archive.org/web/20211227082535/https://www.uninsubria.eu/news/international-path-student-economics-innovation)
 
-+ [Studente di Economics of Innovation sul podio di un hackathon durante l'Erasmus a Kaunas, in Lituania, *Uninsubria.it*, 1 December 2021](https://web.archive.org/web/20211202215322/https://www.uninsubria.it/notizie/studente-di-economics-innovation-sul-podio-di-un-hackathon-durante-lerasmus-lituania)
-
-+ [Erasmus student from Economics of Innovation climbs on the podium at the Innovation Hackathon in Kaunas: Congratulations to Gianpaolo Caprino, *Uninsubria.eu*, 1 December 2021](https://web.archive.org/web/20211202141324/https://www.uninsubria.eu/news/erasmus-student-economics-innovation-climbs-podium-innovation-hackathon-kaunas-congratulations)
++ [Congratulazioni ai nostri primi laureati GEEM in Double Degree con l'Università di Bordeaux, *Uninsubria.it*, 1 April 2022](https://web.archive.org/web/20220402072110/https://www.uninsubria.it/notizie/congratulazioni-ai-nostri-primi-laureati-geem-double-degree-con-luniversit%C3%A0-di-bordeaux)
