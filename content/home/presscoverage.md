@@ -46,12 +46,17 @@ weight = 92
 
 + [Al via il progetto Rich: una filiera sostenibile per valorizzare i rifiuti organici e produrre biomateriali, *Uninsubria.it*, 6 April 2021](https://www.uninsubria.it/notizie/al-il-progetto-rich-una-filiera-sostenibile-valorizzare-i-rifiuti-organici-e-produrre)
 
++ [Economia circolare dei rifiuti: in uno studio dell’Insubria il prezioso lavoro della mosca soldato *Hermetia illucens*, *ComoCity.it*, 22 April 2021](https://www.comocity.it/economia-circolare-dei-rifiuti-in-uno-studio-dellinsubria-il-prezioso-lavoro-della-mosca-soldato-hermetia-illucens/)
+
 + [Economia circolare dei rifiuti: il lavoro della mosca soldato *Hermetia illucens*, *Bizzozero.net*, 22 April 2021](http://www.bizzozero.net/accade-a-bizzozero/5-notizie/6741-economia-circolare-dei-rifiuti-il-lavoro-della-mosca-soldato-hermetia-illucens)
 
 + [I rifiuti organici diventano biomateriali, con la mosca soldato: studio dell'Insubria, *Malpensa24*, 22 April 2021](https://www.malpensa24.it/i-rifiuti-organici-diventano-biomateriali-con-la-mosca-soldato-studio-dellinsubria/)
 
 + [Economia circolare dei rifiuti: il prezioso lavoro della mosca soldato *Hermetia* nel progetto RICH, *Uninsubria.it*, 23 April 2021](https://www.uninsubria.it/notizie/economia-circolare-dei-rifiuti-il-prezioso-lavoro-della-mosca-soldato-hermetia-nel-progetto)
 
++ [Biomateriali da scarti grazie alle larve: un progetto all’UnInsubria, *Il Giornale del Ticino*, 25 April 2021](https://ilgiornaledelticino.ch/biomateriali-da-scarti-grazie-alle-larve-un-progetto-alluninsubria/)
+
++ [Progetto di studio dell’Università dell’Insubria: l’economia circolare dei rifiuti per un futuro sostenibile, *CorriereUniv*, 26 April 2021](https://corriereuniv.it/progetto-di-studio-delluniversita-dellinsubria-leconomia-circolare-dei-rifiuti-per-un-futuro-sostenibile/)
 
 ## HAPPY (Happy: Health, Accessibility, Public transport Policies for elderlY) Project
 
