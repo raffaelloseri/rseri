@@ -6,8 +6,8 @@ authors:
 - Mario Martinoli
 - Alessio Moneta
 - admin
-date: "2023-02-22T15:00:00Z"
-date_end: "2023-02-22T16:00:00Z"
+date: "2023-02-22"
+date_end: "2023-02-22"
 event: "Helsinki GSE Seminars"
 event_url: ""
 featured: false
@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Varese, Italy
+location: Helsinki, Finland
 math: true
 projects:
 - "Project003"
