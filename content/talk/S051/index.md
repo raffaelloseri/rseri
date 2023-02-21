@@ -6,7 +6,7 @@ authors:
 - Fulvio Corsi
 - admin
 date: "2022-12-19"
-date_end: "2022-12-19"
+date_end: ""
 event: "Economics Online Seminars at Uninsubria"
 event_url: ""
 featured: false

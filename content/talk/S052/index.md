@@ -6,8 +6,8 @@ authors:
 - Mario Martinoli
 - Alessio Moneta
 - admin
-date: "2023-02-22"
-date_end: "2023-02-22"
+date: "2023-02-22T15:00:00Z"
+date_end: ""
 event: "Helsinki GSE Seminars"
 event_url: ""
 featured: false
