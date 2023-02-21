@@ -9,7 +9,7 @@ authors:
 date: "2023-02-22T15:00:00Z"
 date_end: ""
 event: "Helsinki GSE Seminars"
-event_url: ""
+event_url: "https://www.helsinkigse.fi/events/mario-martinoli"
 featured: false
 image:
   caption: ''
