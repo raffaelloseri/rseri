@@ -102,3 +102,5 @@ weight = 92
 + [The international path of a student of Economics of Innovation, *Uninsubria.eu*, 22 December 2021](https://web.archive.org/web/20211227082535/https://www.uninsubria.eu/news/international-path-student-economics-innovation)
 
 + [Congratulazioni ai nostri primi laureati GEEM in Double Degree con l'Università di Bordeaux, *Uninsubria.it*, 1 April 2022](https://web.archive.org/web/20220402072110/https://www.uninsubria.it/notizie/congratulazioni-ai-nostri-primi-laureati-geem-double-degree-con-luniversit%C3%A0-di-bordeaux)
+
++ ["Varese pensi in grande. Solo così può crescere" / "A supporto del territorio", *La Prealpina*, 15 April 2023](/Pr001.pdf)
