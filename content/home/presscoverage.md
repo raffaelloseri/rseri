@@ -37,6 +37,8 @@ weight = 92
 
 + [Università dell'Insubria, Economia tra i 180 dipartimenti d'eccellenza: "Risultato eccezionale", *ComoZero*, 2 January 2023](https://web.archive.org/web/20230103111903/https://comozero.it/attualita/universita-dellinsubria-il-economia-tra-i-180-dipartimenti-deccellenza-risultato-eccezionale/)
 
++ ["Varese pensi in grande. Solo così può crescere" / "A supporto del territorio", *La Prealpina*, 15 April 2023](/Pr001.pdf)
+
 
 ## RICH (Turning Rubbish Into biobased materials: a sustainable CHain for the full valorization of organic waste) Project
 
