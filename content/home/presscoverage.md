@@ -37,7 +37,7 @@ weight = 92
 
 + [Università dell'Insubria, Economia tra i 180 dipartimenti d'eccellenza: "Risultato eccezionale", *ComoZero*, 2 January 2023](https://web.archive.org/web/20230103111903/https://comozero.it/attualita/universita-dellinsubria-il-economia-tra-i-180-dipartimenti-deccellenza-risultato-eccezionale/)
 
-+ ["Varese pensi in grande. Solo così può crescere" / "A supporto del territorio", *La Prealpina*, 15 April 2023](/Pr001.pdf)
++ ["Varese pensi in grande. Solo così può crescere", *La Prealpina*, 15 April 2023](https://web.archive.org/web/20230418094808/https://www.prealpina.it/pages/insubria-varese-pensi-in-grande-solo-cosi-puo-crescere-302477.html)
 
 
 ## RICH (Turning Rubbish Into biobased materials: a sustainable CHain for the full valorization of organic waste) Project
@@ -105,4 +105,4 @@ weight = 92
 
 + [Congratulazioni ai nostri primi laureati GEEM in Double Degree con l'Università di Bordeaux, *Uninsubria.it*, 1 April 2022](https://web.archive.org/web/20220402072110/https://www.uninsubria.it/notizie/congratulazioni-ai-nostri-primi-laureati-geem-double-degree-con-luniversit%C3%A0-di-bordeaux)
 
-+ ["Varese pensi in grande. Solo così può crescere" / "A supporto del territorio", *La Prealpina*, 15 April 2023](/Pr001.pdf)
++ ["Varese pensi in grande. Solo così può crescere", *La Prealpina*, 15 April 2023](https://web.archive.org/web/20230418094808/https://www.prealpina.it/pages/insubria-varese-pensi-in-grande-solo-cosi-puo-crescere-302477.html)
