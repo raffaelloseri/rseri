@@ -3,9 +3,9 @@ abstract: ""
 all_day: false
 authors:
 - admin
-date: "2023-06-05T"
-date_end: "2023-06-09T"
-event: "The Bioeconomy Transformation: Science, Economics, Business and Society, Villa del Grumello, Como (Italy) 5 Jun 2023 – 9 Jun 2023"
+date: "2023-06-05T00:00:00Z"
+date_end: "2023-06-09T00:00:00Z"
+event: "The Bioeconomy Transformation: Science, Economics, Business and Society, Villa del Grumello, Como (Italy), 5 Jun 2023 – 9 Jun 2023"
 event_url: "https://bsne.lakecomoschool.org/"
 featured: false
 image:

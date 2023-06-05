@@ -3,8 +3,8 @@ abstract: ""
 all_day: false
 authors:
 - admin
-date: "2021-05-24T"
-date_end: "2021-05-28T"
+date: "2021-05-24T00:00:00Z"
+date_end: "2021-05-28T00:00:00Z"
 event: "Bioeconomy school: from basic science to a new economy, Villa del Grumello, Como (Italy) 24 May 2021 – 28 May 2021"
 event_url: "https://bsne.lakecomoschool.org/"
 featured: false
