@@ -3,9 +3,9 @@ abstract: ""
 all_day: false
 authors:
 - admin
-date: "2021-05-24T"
-date_end: "2021-05-28T"
-event: "Bioeconomy school: from basic science to a new economy, Villa del Grumello, Como (Italy) 24 May 2021 – 28 May 2021"
+date: "2023-06-05T"
+date_end: "2023-06-09T"
+event: "The Bioeconomy Transformation: Science, Economics, Business and Society, Villa del Grumello, Como (Italy) 5 Jun 2023 – 9 Jun 2023"
 event_url: "https://bsne.lakecomoschool.org/"
 featured: false
 image:
@@ -16,16 +16,16 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Como, Italy (online)
+location: Como, Italy
 math: true
 projects:
 - Project004
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 slides: ""
 summary: "Guest lecture"
 tags:
 - Economics of Innovation
-title: "Principle of economics / Externalities: problems and solutions"
+title: "Externalities: problems and solutions"
 url_code: ""
 url_pdf: ""
 url_slides: ""
