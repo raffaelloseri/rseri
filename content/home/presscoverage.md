@@ -44,7 +44,17 @@ weight = 92
 
 ## ProPla (Proteins from Plastics) Project
 
-+ [ProPla – Proteins from Plastics, 1 March 2023](https://www.theproteinfactory2.it/propla)
++ [ProPla – Proteins from Plastics, *The Protein Factory 2.0*, 1 March 2023](https://www.theproteinfactory2.it/propla)
+
++ [Il progetto ProPla: un processo sostenibile per il riutilizzo delle microplastiche, *La Statale News*, 17 April 2023](https://lastatalenews.unimi.it/progetto-propla-processo-sostenibile-per-riutilizzo-microplastiche)
+
++ [Progetto ProPla, Proteins from Plastics: Team di ricerca coordinato dal Prof. Loredano Pollegioni, *Uninsubria.it*, 4 May 2023](https://archivio.uninsubria.it/notizie/progetto-propla-proteins-plastics-team-di-ricerca-coordinato-dal-prof-loredano-pollegioni)
+
++ [Il progetto "ProPla": un processo sostenibile per eliminare le microplastiche dall'acqua e produrre aminoacidi, *CNR News*, 4 May 2023](https://www.cnr.it/it/news/11900/il-progetto-propla-un-processo-sostenibile-per-eliminare-le-microplastiche-dall-acqua-e-produrre-aminoacidi)
+
++ [Così le microplastiche diventano aminoacidi, *Il Giorno*, 5 May 2023](https://www.ilgiorno.it/legnano/cronaca/cosi-le-microplastiche-diventano-aminoacidi-142f962d)
+
++ [La ricerca italiana al lavoro per produrre aminoacidi dalle mircoplastiche disperse nell’acqua, *greenreport.it*, 9 May 2023](https://greenreport.it/news/economia-ecologica/la-ricerca-italiana-al-lavoro-per-produrre-aminoacidi-dalle-mircoplastiche-disperse-nellacqua/)
 
 + [Come trasformare le micro-plastiche in proteine, *Smart City*, 15 June 2023](https://www.radio24.ilsole24ore.com/programmi/smart-city/puntata/come-trasformare-le-microplastiche-in-proteine-185004-2414312449552691)
 
