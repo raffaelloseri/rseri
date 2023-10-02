@@ -42,6 +42,11 @@ weight = 92
 + [Sandro Mendonça ospite del Dipartimento di Eccellenza di Economia: L'Università fa crescere il territorio, *Uninsubria.it*, 17 April 2023](http://web.archive.org/web/20230418112306/https://www.uninsubria.it/notizie/sandro-mendon%C3%A7a-ospite-del-dipartimento-di-eccellenza-di-economia-luniversit%C3%A0-fa-crescere-il)
 
 
+## ProPla (Happy: Health, Accessibility, Public transport Policies for elderlY) Project
+
++ [Più PROteine dalla PLAstica, *Varese Focus*, 20 September 2023](https://www.varesefocus.it/vf/dx/Pi%C3%B9-PROteine-dalla-PLAstica-20-Sep-23)
+
+
 ## RICH (Turning Rubbish Into biobased materials: a sustainable CHain for the full valorization of organic waste) Project
 
 + [Progetto RICH, *Chimica Verde Lombardia*](https://www.chimicaverdelombardia.it/progetto-rich/)
