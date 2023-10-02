@@ -42,7 +42,11 @@ weight = 92
 + [Sandro Mendonça ospite del Dipartimento di Eccellenza di Economia: L'Università fa crescere il territorio, *Uninsubria.it*, 17 April 2023](http://web.archive.org/web/20230418112306/https://www.uninsubria.it/notizie/sandro-mendon%C3%A7a-ospite-del-dipartimento-di-eccellenza-di-economia-luniversit%C3%A0-fa-crescere-il)
 
 
-## ProPla (Happy: Health, Accessibility, Public transport Policies for elderlY) Project
+## ProPla (Proteins from Plastics) Project
+
++ [ProPla – Proteins from Plastics, 1 March 2023](https://www.theproteinfactory2.it/propla)
+
++ [Come trasformare le micro-plastiche in proteine, *Smart City*, 15 June 2023](https://www.radio24.ilsole24ore.com/programmi/smart-city/puntata/come-trasformare-le-microplastiche-in-proteine-185004-2414312449552691)
 
 + [Più PROteine dalla PLAstica, *Varese Focus*, 20 September 2023](https://www.varesefocus.it/vf/dx/Pi%C3%B9-PROteine-dalla-PLAstica-20-Sep-23)
 
