@@ -37,6 +37,6 @@ This problem is especially salient for bioeconomy-related innovations, because o
 
 ![demo](/RICH-Logo.jpg)
 
-![demo](/ProPla-Logo.jpg)
+![demo](/ProPla-Logo.jpeg)
 
 ??
