@@ -36,7 +36,6 @@ However, what is the greatest strength of this new paradigm is also its weakness
 This problem is especially salient for bioeconomy-related innovations, because of the pervasiveness of their fields of application (that may span across different industries) and because of the type of knowledge (mainly scientific and codified) they rely on. This implies that the future of bioeconomy will be heavily shaped not only by the new discoveries in the related scientific disciplines and in their applications, but also by the design and implementation of public policies (concerning, e.g., the incentives, regulations, standards, intellectual property rights, etc.) and by the emergence of new markets and business models requiring actors with novel, advanced and heterogeneous competences.
 
 ![demo](/RICH-Logo.jpg)
-{width="200" alt="Gravel Calls" class="center"}
 
 ![demo](/ProPla-Logo.jpeg)
 
