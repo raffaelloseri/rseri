@@ -46,4 +46,10 @@ RICH project investigates the use of the larvae of black soldier fly, *Hermetia 
 
 {{< figure src="/ProPla-Logo.jpeg" width="500" alt="ProPla Logo" class="center" >}}
 
-??
+**ProPla Project "Proteins from Plastics"**
+
+The project addresses the problem of microplastics focusing on their recovery and valorization through a pre-competitive, multidisciplinary, and interdisciplinary approach.
+
+ProPla aims to develop an innovative biotechnological application to recover PET microplastics (microPET) from wastewater and exploit the power of protein engineering and systems biology approaches to generate a novel bacterial strain able to convert microPET into amino acids (plastic-eating activity) or high-value compounds (protein, lipid, chitin) through appropriately "modified" insects. The goal is a paradigm shift, i.e., to enhance an environmental contaminant, potentially harmful even to human health, by converting it into a resource to produce goods useful to society, through a totally "green" approach.
+
+
