@@ -39,6 +39,6 @@ This problem is especially salient for bioeconomy-related innovations, because o
 
 ??
 
-![demo](/ProPla-Logo.jpeg)
+{{< figure src="/ProPla-Logo.jpg" width="500" alt="ProPla Logo" class="center" >}}
 
 ??
