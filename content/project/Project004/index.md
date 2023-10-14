@@ -37,7 +37,7 @@ This problem is especially salient for bioeconomy-related innovations, because o
 
 ![demo](/RICH-Logo.jpg)
 
-{{< figure src="./RICH-Logo.jpg" width="200" alt="Gravel Calls" class="center" >}}
+{{< figure src="/RICH-Logo.jpg" width="200" alt="Gravel Calls" class="center" >}}
 
 ??
 
