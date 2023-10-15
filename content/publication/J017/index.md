@@ -14,7 +14,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project001]
 publication: '*Annali della Scuola normale superiore di Pisa - Classe di scienze. Serie V, 13*(4), 889-923'
 publication_short: ""
 publication_types:

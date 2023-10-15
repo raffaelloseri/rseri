@@ -11,7 +11,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project002]
 publication: '*Journal of Mathematical Psychology, 55*(2), 152-165'
 publication_short: ""
 publication_types:

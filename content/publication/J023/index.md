@@ -10,7 +10,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project003]
 publication: '*Computational and Mathematical Organization Theory, 23*(1), 94-121'
 publication_short: ""
 publication_types:

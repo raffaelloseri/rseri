@@ -11,7 +11,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project002]
 publication: '*European Journal of Operational Research, 232*(3), 584-592'
 publication_short: ""
 publication_types:

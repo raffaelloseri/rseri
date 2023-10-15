@@ -10,7 +10,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project001]
 publication: '*Mathematics of Computation, 82*(284), 2137-2156'
 publication_short: ""
 publication_types:

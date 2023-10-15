@@ -11,7 +11,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project002]
 publication: '*Management Science, 56*(4), 699-711'
 publication_short: ""
 publication_types:
