@@ -7,7 +7,7 @@ authors:
 - admin
 date: "2023-10-20"
 date_end: ""
-event: "HLRS Talks"
+event: "HLRS (High-Performance Computing Center Stuttgart, University of Stuttgart) Talks"
 event_url: "https://philo.hlrs.de/?p=315"
 featured: false
 image:
