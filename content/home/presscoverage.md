@@ -25,7 +25,7 @@ weight = 92
 
 + [Insubria, Economia è un'eccellenza: fondi in arrivo, *LaPrealpina.it*, 30 December 2022](https://web.archive.org/web/20230103111229/https://www.prealpina.it/pages/insubria-economia-tra-le-eccellenze-scelte-dal-ministero-293757.html)
 
-+ [Il dipartimento di Economia dell'Università dell'Insubria è tra le eccellenze per la ricerca selezionate dal Ministero, *VareseNews*, 30 December 2022](https://web.archive.org/web/20230103111508/https://www.varesenews.it/2022/12/dipartimento-economia-delluniversita-dellinsubria-le-eccellenze-selezionate-dal-ministero/)
++ [Il dipartimento di Economia dell'Università dell'Insubria è tra le eccellenze per la ricerca selezionate dal Ministero, *Varese News*, 30 December 2022](https://web.archive.org/web/20230103111508/https://www.varesenews.it/2022/12/dipartimento-economia-delluniversita-dellinsubria-le-eccellenze-selezionate-dal-ministero/)
 
 + [Insubria, il Ministero seleziona Economia tra le eccellenze, *CiaoComo*, 30 December 2022](https://web.archive.org/web/20230103111646/https://www.ciaocomo.it/2022/12/30/insubria-il-ministero-seleziona-economia-tra-le-eccellenze/)
 
@@ -41,8 +41,19 @@ weight = 92
 
 + [Sandro Mendonça ospite del Dipartimento di Eccellenza di Economia: L'Università fa crescere il territorio, *Uninsubria.it*, 17 April 2023](http://web.archive.org/web/20230418112306/https://www.uninsubria.it/notizie/sandro-mendon%C3%A7a-ospite-del-dipartimento-di-eccellenza-di-economia-luniversit%C3%A0-fa-crescere-il)
 
+## Piano di Governo del Territorio, Comune di Varese, 2023-2025
 
-## ProPla (Proteins from Plastics) Project
++ [Il Dipartimento di Economia impegnato nell’analisi economica e sociale del territorio per il Piano di governo del Comune di Varese, *Uninsubria.it*, 6 Ottobre 2023](https://www.uninsubria.it/ateneo/ci-presentiamo/comunicazione/tutte-le-notizie/il-dipartimento-di-economia-impegnato)
+
++ [Comune e Università dell’Insubria alleati per progettare la Varese del futuro, *Malpensa24*, 6 Ottobre 2023](https://www.malpensa24.it/pgt-varese-insubria-2/)
+
++ [L’Università dell’Insubria collabora al PGT di Varese: con uno studio su demografia ed economia della città, *Varese News*, 6 Ottobre 2023](https://www.varesenews.it/2023/10/linsubria-collabora-al-pgt-di-varese-con-uno-studio-sul-territorio/1731863/)
+
++ [Varese: PGT, all’Insubria il "polso" della città, *Rete55*, 6 Ottobre 2023](https://www.rete55.it/notizie/economia/varese-pgt-allinsubria-il-polso-della-citta/)
+
++ [Varese, l’Insubria studia il Pgt, *La Prealpina*, 6 Ottobre 2023](https://www.prealpina.it/pages/varese-linsubria-studia-il-pgt-315882.html)
+
+## ProPla (Proteins from Plastics) Project, 2023
 
 + [ProPla – Proteins from Plastics, *The Protein Factory 2.0*, 1 March 2023](https://www.theproteinfactory2.it/propla)
 
@@ -61,7 +72,9 @@ weight = 92
 + [Più PROteine dalla PLAstica, *Varese Focus*, 20 September 2023](https://www.varesefocus.it/vf/dx/Pi%C3%B9-PROteine-dalla-PLAstica-20-Sep-23)
 
 
-## RICH (Turning Rubbish Into biobased materials: a sustainable CHain for the full valorization of organic waste) Project
+## RICH (Turning Rubbish Into biobased materials: a sustainable CHain for the full valorization of organic waste) Project, 2021
+
++ [Turning Rubbish Into biobased materials: a sustainable CHain for the full valorization of organic waste (RICH), *The Protein Factory 2.0*](https://www.theproteinfactory2.it/valorizationorganicwaste)
 
 + [Progetto RICH, *Chimica Verde Lombardia*](https://www.chimicaverdelombardia.it/progetto-rich/)
 
@@ -92,24 +105,24 @@ weight = 92
 + [Progetto Happy: sapersi muovere autonomamente con i mezzi pubblici rende più felici gli over 65enni, *Uninsubria.it*, 26 October 2021](https://www.uninsubria.it/eventi/progetto-happy-gli-over-65enni-la-mobilit%C3%A0-fa-bene-alla-salute-e-migliora-la-qualit%C3%A0-della)
 
 
-## [Second Summer School «Economic Behaviours: Models, Measurements, and Policies»](http://ebmp2022.lakecomoschool.org)
+## [Second Summer School «Economic Behaviours: Models, Measurements, and Policies»](http://ebmp2022.lakecomoschool.org), 2022
 
 + [Ventidue studenti e docenti internazionali per la Summer School Economic Behaviours a Como, *Uninsubria.it*, 12 July 2022](https://www.uninsubria.it/summer-school-Economic-Behaviours)
 
 
-## [Summer School "Bioeconomy school: from basic science to a new economy"](https://bsne.lakecomoschool.org/)
+## [Summer School "Bioeconomy school: from basic science to a new economy"](https://bsne.lakecomoschool.org/), 2021
 
 + [«La rivoluzione è iniziata, si chiama bioeconomia», *La Provincia di Como*, 25 May 2021](/PC001.pdf)
 
 + [L'Università dell'Insubria partecipa alla terza edizione della giornata nazionale della Bioeconomia, *Uninsubria.it*, 27 May 2021](https://www.uninsubria.it/eventi/l%E2%80%99universit%C3%A0-dell%E2%80%99insubria-partecipa-alla-terza-edizione-della-giornata-nazionale-della)
 
 
-## [Summer School «Economic Behaviours: Models, Measurements, and Policies»](http://ebmp.lakecomoschool.org)
+## [Summer School «Economic Behaviours: Models, Measurements, and Policies»](http://ebmp.lakecomoschool.org), 2019
 
 + [Conclusa la Summer School «Economic Behaviours: Models, Measurements, and Policies», *Uninsubria.it*, 11 July 2019](https://www.uninsubria.it/notizie/conclusa-la-summer-school-%C2%ABeconomic-behaviours-models-measurements-and-policies%C2%BB)
 
 
-## [Summer School "The Evolution of the Economic Theory of Decision-making"](http://etdm.lakecomoschool.org)
+## [Summer School "The Evolution of the Economic Theory of Decision-making"](http://etdm.lakecomoschool.org), 2017
 
 + [Conclusa la Summer School "The Evolution of the Economic Theory of Decision-making" a Villa del Grumello, Como, *Uninsubria.it*, 2 September 2017](https://www.uninsubria.it/notizie/conclusa-la-summer-school-evolution-economic-theory-decision-making-villa-del-grumello-como)
 
