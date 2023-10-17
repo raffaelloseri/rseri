@@ -43,6 +43,10 @@ weight = 92
 
 ## Piano di Governo del Territorio, Comune di Varese, 2023-2025
 
++ [Il Pgt di Varese pronto nel 2025. Nel team di lavoro anche l’Università dell’Insubria, *Malpensa24*, 7 Settembre 2023](https://www.malpensa24.it/pgt-varese-insubria/)
+
++ [Piano di Governo del Territorio. Presentata oggi la squadra di professionisti che lavorerà con l’amministrazione e i tecnici del Comune alla redazione del nuovo strumento urbanistico di Varese, *VareseInforma*, 8 Settembre 2023](https://www.vareseinforma.it/piano-di-governo-del-territorio-presentata-oggi-la-squadra-di-professionisti-che-lavorera-con-lamministrazione-e-i-tecnici-del-comune-alla-redazione-del-nuovo-strumento-urbanistico-di-varese/)
+
 + [Il Dipartimento di Economia impegnato nell’analisi economica e sociale del territorio per il Piano di governo del Comune di Varese, *Uninsubria.it*, 6 Ottobre 2023](https://www.uninsubria.it/ateneo/ci-presentiamo/comunicazione/tutte-le-notizie/il-dipartimento-di-economia-impegnato)
 
 + [Comune e Università dell’Insubria alleati per progettare la Varese del futuro, *Malpensa24*, 6 Ottobre 2023](https://www.malpensa24.it/pgt-varese-insubria-2/)
