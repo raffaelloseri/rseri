@@ -10,7 +10,7 @@ date: "2019-08-09T00:00:00Z"
 external_link: ""
 
 image:
-  caption:
+  caption: RICH production process
   focal_point: Smart
 
 links:
