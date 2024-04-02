@@ -3,6 +3,7 @@ abstract: ""
 all_day: true
 authors:
 - Michele Bernasconi
+- Giulio Cinquanta
 - admin
 date: "2024-04-09"
 date_end: ""
