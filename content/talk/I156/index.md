@@ -2,9 +2,10 @@
 abstract: ""
 all_day: true
 authors:
+- Damiano Di Francesco
+- Alessio Moneta
 - Mario Martinoli
 - admin
-- Fulvio Corsi
 date: "2024-06-25"
 date_end: "2024-06-27"
 event: "Annual Conference of the International Association for Applied Econometrics - IAAE 2024"
@@ -28,7 +29,7 @@ summary: "International conference"
 tags:
 - Statistics
 - Econometrics
-title: "Generalized Optimization Algorithms for Complex Models"
+title: "Estimation of DSGE models by non-Gaussian Vector Autoregressions"
 url_code: ""
 url_pdf: ""
 url_slides: ""
