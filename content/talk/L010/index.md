@@ -26,7 +26,7 @@ summary: "Guest lecture"
 tags:
 - Machine learning
 - Econometrics
-title: "TBD"
+title: "Equifinality and model selection in econometrics"
 url_code: ""
 url_pdf: ""
 url_slides: ""
