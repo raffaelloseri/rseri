@@ -51,7 +51,7 @@ weight = 92
 
 + [Comune e Università dell’Insubria alleati per progettare la Varese del futuro, *Malpensa24*, 6 Ottobre 2023](https://www.malpensa24.it/pgt-varese-insubria-2/)
 
-+ [L’Università dell’Insubria collabora al PGT di Varese: con uno studio su demografia ed economia della città, *Varese News*, 6 Ottobre 2023](https://www.varesenews.it/2023/10/linsubria-collabora-al-pgt-di-varese-con-uno-studio-sul-territorio/1731863/)
++ [L’Università dell’Insubria collabora al PGT di Varese: con uno studio su demografia ed economia della città, *Varese News*, 6 Ottobre 2023](https://web.archive.org/web/20240629212245/https://www.varesenews.it/2023/10/linsubria-collabora-al-pgt-di-varese-con-uno-studio-sul-territorio/1731863/)
 
 + [Varese: PGT, all’Insubria il "polso" della città, *Rete55*, 6 Ottobre 2023](https://www.rete55.it/notizie/economia/varese-pgt-allinsubria-il-polso-della-citta/)
 
@@ -59,22 +59,23 @@ weight = 92
 
 ## ProPla (Proteins from Plastics) Project, 2023
 
-+ [ProPla – Proteins from Plastics, *The Protein Factory 2.0*, 1 March 2023](https://www.theproteinfactory2.it/propla)
++ [ProPla – Proteins from Plastics, *The Protein Factory 2.0*, 1 March 2023](https://web.archive.org/web/20231003100832/https://www.theproteinfactory2.it/propla)
 
-+ [Il progetto ProPla: un processo sostenibile per il riutilizzo delle microplastiche, *La Statale News*, 17 April 2023](https://lastatalenews.unimi.it/progetto-propla-processo-sostenibile-per-riutilizzo-microplastiche)
++ [Il progetto ProPla: un processo sostenibile per il riutilizzo delle microplastiche, *La Statale News*, 17 April 2023](https://web.archive.org/web/20240629190856/https://lastatalenews.unimi.it/progetto-propla-processo-sostenibile-per-riutilizzo-microplastiche)
 
 + [Progetto ProPla, Proteins from Plastics: Team di ricerca coordinato dal Prof. Loredano Pollegioni, *Uninsubria.it*, 4 May 2023](https://archivio.uninsubria.it/notizie/progetto-propla-proteins-plastics-team-di-ricerca-coordinato-dal-prof-loredano-pollegioni)
 
 + [Il progetto "ProPla": un processo sostenibile per eliminare le microplastiche dall'acqua e produrre aminoacidi, *CNR News*, 4 May 2023](https://www.cnr.it/it/news/11900/il-progetto-propla-un-processo-sostenibile-per-eliminare-le-microplastiche-dall-acqua-e-produrre-aminoacidi)
 
-+ [Così le microplastiche diventano aminoacidi, *Il Giorno*, 5 May 2023](https://www.ilgiorno.it/legnano/cronaca/cosi-le-microplastiche-diventano-aminoacidi-142f962d)
++ [Così le microplastiche diventano aminoacidi, *Il Giorno*, 5 May 2023](https://web.archive.org/web/20240629195026/https://www.ilgiorno.it/legnano/cronaca/cosi-le-microplastiche-diventano-aminoacidi-142f962d)
 
-+ [La ricerca italiana al lavoro per produrre aminoacidi dalle mircoplastiche disperse nell’acqua, *greenreport.it*, 9 May 2023](https://greenreport.it/news/economia-ecologica/la-ricerca-italiana-al-lavoro-per-produrre-aminoacidi-dalle-mircoplastiche-disperse-nellacqua/)
++ [La ricerca italiana al lavoro per produrre aminoacidi dalle microplastiche disperse nell’acqua, *greenreport.it*, 9 May 2023](https://greenreport.it/news/economia-ecologica/la-ricerca-italiana-al-lavoro-per-produrre-aminoacidi-dalle-mircoplastiche-disperse-nellacqua/)
 
 + [Come trasformare le micro-plastiche in proteine, *Smart City*, 15 June 2023](https://www.radio24.ilsole24ore.com/programmi/smart-city/puntata/come-trasformare-le-microplastiche-in-proteine-185004-2414312449552691)
 
 + [Più PROteine dalla PLAstica, *Varese Focus*, 20 September 2023](https://www.varesefocus.it/vf/dx/Pi%C3%B9-PROteine-dalla-PLAstica-20-Sep-23)
 
++ [La plastica non è più indistruttibile e il merito è dei batteri ingegnerizzati, *tuttoscienze, La Stampa*, 26 June 2024](https://web.archive.org/web/20240629170403/https://www.lastampa.it/tuttoscienze/2024/06/26/news/la_plastica_non_e_piu_indistruttibile_e_il_merito_e_dei_batteri_ingegnerizzati-14423309/)
 
 ## RICH (Turning Rubbish Into biobased materials: a sustainable CHain for the full valorization of organic waste) Project, 2021
 
