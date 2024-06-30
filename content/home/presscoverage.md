@@ -43,19 +43,19 @@ weight = 92
 
 ## Piano di Governo del Territorio, Comune di Varese, 2023-2025
 
-+ [Il Pgt di Varese pronto nel 2025. Nel team di lavoro anche l’Università dell’Insubria, *Malpensa24*, 7 Settembre 2023](https://www.malpensa24.it/pgt-varese-insubria/)
++ [Il Pgt di Varese pronto nel 2025. Nel team di lavoro anche l’Università dell’Insubria, *Malpensa24*, 7 Settembre 2023](https://web.archive.org/web/20240629214903/https://www.malpensa24.it/pgt-varese-insubria/)
 
 + [Piano di Governo del Territorio. Presentata oggi la squadra di professionisti che lavorerà con l’amministrazione e i tecnici del Comune alla redazione del nuovo strumento urbanistico di Varese, *VareseInforma*, 8 Settembre 2023](https://www.vareseinforma.it/piano-di-governo-del-territorio-presentata-oggi-la-squadra-di-professionisti-che-lavorera-con-lamministrazione-e-i-tecnici-del-comune-alla-redazione-del-nuovo-strumento-urbanistico-di-varese/)
 
 + [Il Dipartimento di Economia impegnato nell’analisi economica e sociale del territorio per il Piano di governo del Comune di Varese, *Uninsubria.it*, 6 Ottobre 2023](https://www.uninsubria.it/ateneo/ci-presentiamo/comunicazione/tutte-le-notizie/il-dipartimento-di-economia-impegnato)
 
-+ [Comune e Università dell’Insubria alleati per progettare la Varese del futuro, *Malpensa24*, 6 Ottobre 2023](https://www.malpensa24.it/pgt-varese-insubria-2/)
++ [Comune e Università dell’Insubria alleati per progettare la Varese del futuro, *Malpensa24*, 6 Ottobre 2023](https://web.archive.org/web/20231207235313/https://www.malpensa24.it/pgt-varese-insubria-2/)
 
 + [L’Università dell’Insubria collabora al PGT di Varese: con uno studio su demografia ed economia della città, *Varese News*, 6 Ottobre 2023](https://web.archive.org/web/20240629212245/https://www.varesenews.it/2023/10/linsubria-collabora-al-pgt-di-varese-con-uno-studio-sul-territorio/1731863/)
 
 + [Varese: PGT, all’Insubria il "polso" della città, *Rete55*, 6 Ottobre 2023](https://www.rete55.it/notizie/economia/varese-pgt-allinsubria-il-polso-della-citta/)
 
-+ [Varese, l’Insubria studia il Pgt, *La Prealpina*, 6 Ottobre 2023](https://www.prealpina.it/pages/varese-linsubria-studia-il-pgt-315882.html)
++ [Varese, l’Insubria studia il Pgt, *La Prealpina*, 6 Ottobre 2023](https://web.archive.org/web/20240629220240/https://www.prealpina.it/pages/varese-linsubria-studia-il-pgt-315882.html)
 
 ## ProPla (Proteins from Plastics) Project, 2023
 
