@@ -6,10 +6,10 @@ authors:
 - Davide Secchi
 - admin
 - Andrea Vezzulli
-date: "2024-03-15"
-date_end: "2024-03-15"
-event: "1st InExEc (Insubria Experimental Economics) Meeting"
-event_url: ""
+date: "2024-05-23"
+date_end: "2024-05-24"
+event: "LX Riunione scientifica Società Italiana di Economia, Demografia e Statistica (SIEDS)"
+event_url: "https://drive.google.com/file/d/12P6AH-sGYpSr7fl6cEAFDi7Rd8j0BYBC/view"
 featured: false
 image:
   caption: ''
@@ -19,7 +19,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: Varese, Italy
+location: Castellanza, Italy
 math: true
 projects:
 - "Project004"
@@ -29,7 +29,7 @@ summary: ""
 tags:
 - Bioeconomy
 - Marketing
-title: "Nudging sustainability: exploring bioplastic preferences through hypothetical consumer choices"
+title: "Nudging sustainability: exploring bioplastic preferences"
 url_code: ""
 url_pdf: ""
 url_slides: ""
