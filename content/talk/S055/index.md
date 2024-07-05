@@ -1,12 +1,12 @@
 ---
 abstract: ""
-all_day: false
+all_day: true
 authors:
 - Elisa Pontivi
 - Davide Secchi
 - admin
 - Andrea Vezzulli
-date: "2024-03-15 13:00"
+date: "2024-03-15"
 date_end: ""
 event: "1st InExEc (Insubria Experimental Economics) Meeting"
 event_url: ""

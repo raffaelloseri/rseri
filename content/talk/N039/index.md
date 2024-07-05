@@ -1,6 +1,6 @@
 ---
 abstract: ""
-all_day: false
+all_day: true
 authors:
 - Elisa Pontivi
 - Davide Secchi
