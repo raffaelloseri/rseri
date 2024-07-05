@@ -6,8 +6,8 @@ authors:
 - Davide Secchi
 - admin
 - Andrea Vezzulli
-date: "2024-03-15"
-date_end: "2024-03-15"
+date: "2024-03-15 13:00"
+date_end: ""
 event: "1st InExEc (Insubria Experimental Economics) Meeting"
 event_url: ""
 featured: false
