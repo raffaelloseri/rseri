@@ -29,7 +29,7 @@ summary: ""
 tags:
 - Bioeconomy
 - Marketing
-title: "Nudging sustainability: exploring bioplastic preferences"
+title: "Nudging sustainability: exploring bioplastic preferences through consumer choices"
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -9,7 +9,7 @@ authors:
 date: "2024-05-23"
 date_end: "2024-05-24"
 event: "LX Riunione scientifica Società Italiana di Economia, Demografia e Statistica (SIEDS)"
-event_url: "https://drive.google.com/file/d/12P6AH-sGYpSr7fl6cEAFDi7Rd8j0BYBC/view"
+event_url: "http://www.sieds.it/index.php/page-programma/"
 featured: false
 image:
   caption: ''
@@ -29,7 +29,7 @@ summary: ""
 tags:
 - Bioeconomy
 - Marketing
-title: "Nudging sustainability: exploring bioplastic preferences"
+title: "Nudging sustainability: exploring bioplastic preferences through consumer choices"
 url_code: ""
 url_pdf: ""
 url_slides: ""
