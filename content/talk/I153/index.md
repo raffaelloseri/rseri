@@ -7,7 +7,7 @@ authors:
 - admin
 date: "2024-05-28"
 date_end: "2024-05-31"
-event: "7th International Conference  Economic Philosophy"
+event: "7th International Conference Economic Philosophy"
 event_url: "https://7philoeco.sciencesconf.org/"
 featured: false
 image:
