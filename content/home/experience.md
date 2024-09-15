@@ -87,7 +87,7 @@ date_format = "Jan 2006"
       company_url = "https://www.uninsubria.it/"
       location = "Varese (Italy)"
       date_start = "2003-11-01"
-      date_end = "2014-01-31"
+      date_end = "2004-01-31"
       description = ""
 
       [[experience]]
