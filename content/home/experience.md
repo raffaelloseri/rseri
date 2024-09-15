@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Member of the Research Centre for Computational & Organisational Cognition"
   company = "Syddansk Universitet"
-  company_url = "https://www.sdu.dk/en/om_sdu/institutter_centre/c_corg"
+  company_url = "https://www.sdu.dk/en/om-sdu/institutter-centre/iks/forskning/forskningsgrupper/corg"
   location = "Slagelse (Denmark)"
   date_start = "2018-07-01"
   date_end = ""
