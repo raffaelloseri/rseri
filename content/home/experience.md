@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Director of InsIDE (Insubria Information & Data for Economics) Lab"
+  company = "DiEco, Università degli Studi dell'Insubria"
+  company_url = ""
+  location = "Varese (Italy)"
+  date_start = "2023-03-28"
+  date_end = ""
+  description = ""
+
+
+[[experience]]
   title = "Member of the Research Centre for Computational & Organisational Cognition"
   company = "Syddansk Universitet"
   company_url = "https://www.sdu.dk/en/om_sdu/institutter_centre/c_corg"
@@ -37,7 +47,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Full professor"
-  company = "DiECO, Università degli Studi dell'Insubria"
+  company = "DiEco, Università degli Studi dell'Insubria"
   company_url = "https://www.uninsubria.it/"
   location = "Varese (Italy)"
   date_start = "2017-02-01"
@@ -55,7 +65,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Associate professor"
-  company = "DiECO, Università degli Studi dell'Insubria"
+  company = "DiEco, Università degli Studi dell'Insubria"
   company_url = "https://www.uninsubria.it/"
   location = "Varese (Italy)"
   date_start = "2014-10-01"
@@ -64,7 +74,7 @@ date_format = "Jan 2006"
 
   [[experience]]
     title = "Assistant professor"
-    company = "DiECO, Università degli Studi dell'Insubria"
+    company = "DiEco, Università degli Studi dell'Insubria"
     company_url = "https://www.uninsubria.it/"
     location = "Varese (Italy)"
     date_start = "2004-02-01"
@@ -73,7 +83,7 @@ date_format = "Jan 2006"
 
     [[experience]]
       title = "Post-doc"
-      company = "DiECO, Università degli Studi dell'Insubria"
+      company = "DiEco, Università degli Studi dell'Insubria"
       company_url = "https://www.uninsubria.it/"
       location = "Varese (Italy)"
       date_start = "2003-11-01"
