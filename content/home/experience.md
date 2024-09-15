@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   [[experience]]
     title = "Member of the Center for Nonlinear and Complex Systems"
     company = "Università degli Studi dell'Insubria"
-    company_url = "https://www.uninsubria.it/"
+    company_url = "https://www.researchgate.net/lab/Center-for-Nonlinear-and-Complex-Systems-Giorgio-Mantica"
     location = "Como (Italy)"
     date_start = "2016-01-01"
     date_end = ""
