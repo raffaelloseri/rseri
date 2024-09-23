@@ -18,6 +18,17 @@ date_format = "2 Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Villa del Grumello, Como (Italy)"
+  organization_url = "https://www.villadelgrumello.it/it/"
+  title = "Summer School 'The Bioeconomy Transformation: Science, Economics, Business and Society'"
+  url = ""
+  certificate_url = ""
+  date_start = "2025-04-14"
+  date_end = "2023-04-18"
+  description = "Organized with Loredano Pollegioni, Daniela Ubiali, Andrea Vezzulli, together with the Lake Como School of Advanced Studies."
+
 [[item]]
   organization = "Villa del Grumello, Como (Italy)"
   organization_url = "https://www.villadelgrumello.it/it/"
