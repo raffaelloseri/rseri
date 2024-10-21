@@ -8,7 +8,7 @@ authors:
 - admin
 date: "2024-12-06"
 date_end: "2024-12-07"
-event: "35th (EC)<sup>2</sup> (European Conferences of the Econom[etr]ics Community) "Unravelling Misspecification and Identification in Econometrics""
+event: ""
 event_url: "https://sites.google.com/view/ec2-2024-amsterdam/home"
 featured: false
 image:
