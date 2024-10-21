@@ -8,7 +8,7 @@ authors:
 - admin
 date: "2024-12-06"
 date_end: "2024-12-07"
-event: ""
+event: "35th (EC)<sup>2</sup> (European Conferences of the Econom[etr]ics Community)"
 event_url: "https://sites.google.com/view/ec2-2024-amsterdam/home"
 featured: false
 image:
