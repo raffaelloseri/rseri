@@ -1,21 +1,28 @@
 ---
 abstract: This initiative examined systematically the extent to which a large set of archival research findings generalizes across contexts. We repeated the key analyses for 29 original strategic management effects in the same context (direct reproduction) as well as in 52 novel time periods and geographies; 45% of the reproductions returned results matching the original reports together with 55% of tests in different spans of years and 40% of tests in novel geographies. Some original findings were associated with multiple new tests. Reproducibility was the best predictor of generalizability—for the findings that proved directly reproducible, 84% emerged in other available time periods and 57% emerged in other geographies. Overall, only limited empirical evidence emerged for context sensitivity. In a forecasting survey, independent scientists were able to anticipate which effects would find support in tests in new samples.
 authors:
-- Andrew Delios
-- Elena Giulia Clemente
-- Tao Wu
-- Hongbin Tan
-- Yong Wang
-- Michael Gordon
-- Domenico Viganola
-- Zhaowei Chen
-- Anna Dreber
-- Magnus Johannesson
-- Thomas Pfeiffer
-- Generalizability Tests Forecasting Collaboration
-- Eric Luis Uhlmann
+- Daniele Bruno
+- Marco Orlando
+- Edoardo Testa
+- Marco Carnevale Miino
+- Giulia Pesaro
+- Matteo Miceli
+- Loredano Pollegioni
+- Vincenzina Barbera
+- Elisa Fasoli
+- Lorenza Draghi
+- Alberto Pietro Damiano Baltrocchi
+- Navarro Ferronato
 - admin
-date: "2022-07-19T00:00:00Z"
+- Elena Maggi
+- Silvia Caccia
+- Morena Casartelli
+- Gianluca Molla
+- Maurizio Galimberti
+- Vincenzo Torretta
+- Andrea Vezzulli
+- Gianluca Tettamanti
+date: "2024-10-27T00:00:00Z"
 doi: "10.1073/pnas.2120377119"
 featured: false
 image:
