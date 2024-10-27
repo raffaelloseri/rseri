@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: The transition from a linear to a circular production system involves transforming waste (such as the organic fraction of municipal solid waste, OFMSW) into valuable resources. 
 authors:
 - Daniele Bruno
 - Marco Orlando
