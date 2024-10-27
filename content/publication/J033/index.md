@@ -1,5 +1,5 @@
 ---
-abstract: The transition from a linear to a circular production system involves transforming waste (such as the organic fraction of municipal solid waste, OFMSW) into valuable resources. 
+abstract: The transition from a linear to a circular production system involves transforming waste (such as the organic fraction of municipal solid waste, OFMSW) into valuable resources. Insect-mediated bioconversion, particularly using black soldier fly (BSF) larvae, can offer a promising opportunity to convert OFMSW into protein-rich biomass. However, current regulatory restrictions limit the use of insect proteins for animal feed, prompting the exploration of other applications, such as the production of bioplastics. 
 authors:
 - Daniele Bruno
 - Marco Orlando
