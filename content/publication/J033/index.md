@@ -1,45 +1,38 @@
 ---
-abstract: The transition from a linear to a circular production system involves transforming waste (such as the organic fraction of municipal solid waste, OFMSW) into valuable resources. Insect-mediated bioconversion, particularly using black soldier fly (BSF) larvae, can offer a promising opportunity to convert OFMSW into protein-rich biomass. However, current regulatory restrictions limit the use of insect proteins for animal feed, prompting the exploration of other applications, such as the production of bioplastics. Here, we explored an innovative and integrated circular supply chain model which aims to valorise the OFMSW through BSF larvae for the production of biobased materials with high technological value. BSF larvae reared on the OFMSW showed excellent growth performance and bioconversion rate of the substrate. The use of well-suited extraction methods allowed the isolation of high-purity lipids, proteins, and chitin fractions, suitable building blocks to produce biobased materials. In particular, the protein fraction was used to develop biodegradable plastic films which showed potential for replacing traditional petroleum-based materials, with the promise to be fully recycle back to amino acids, thus promoting a circular economy process. Socioeconomic analysis highlighted values generated along the entire supply chain, and life cycle assessment pointed out that lipid extraction was the most challenging step: implementation of more sustainable methods is thus needed to reduce the overall environmental impact of the proposed chain. In conclusion, this study represents a proof of concept gathering evidence to support the feasibility of an alternative supply chain that can promote circular economy while valorising organic waste.
+abstract: This initiative examined systematically the extent to which a large set of archival research findings generalizes across contexts. We repeated the key analyses for 29 original strategic management effects in the same context (direct reproduction) as well as in 52 novel time periods and geographies; 45% of the reproductions returned results matching the original reports together with 55% of tests in different spans of years and 40% of tests in novel geographies. Some original findings were associated with multiple new tests. Reproducibility was the best predictor of generalizability—for the findings that proved directly reproducible, 84% emerged in other available time periods and 57% emerged in other geographies. Overall, only limited empirical evidence emerged for context sensitivity. In a forecasting survey, independent scientists were able to anticipate which effects would find support in tests in new samples.
 authors:
-- Daniele Bruno
-- Marco Orlando
-- Edoardo Testa
-- Marco Carnevale Miino
-- Giulia Pesaro
-- Matteo Miceli
-- Loredano Pollegioni
-- Vincenzina Barbera
-- Elisa Fasoli
-- Lorenza Draghi
-- Alberto Pietro Damiano Baltrocchi
-- Navarro Ferronato
+- Andrew Delios
+- Elena Giulia Clemente
+- Tao Wu
+- Hongbin Tan
+- Yong Wang
+- Michael Gordon
+- Domenico Viganola
+- Zhaowei Chen
+- Anna Dreber
+- Magnus Johannesson
+- Thomas Pfeiffer
+- Generalizability Tests Forecasting Collaboration
+- Eric Luis Uhlmann
 - admin
-- Elena Maggi
-- Silvia Caccia
-- Morena Casartelli
-- Gianluca Molla
-- Maurizio Galimberti
-- Vincenzo Torretta
-- Andrea Vezzulli
-- Gianluca Tettamanti
-date: "2024-01-01T00:00:00Z"
-doi: ""
-featured: true
+date: "2022-07-19T00:00:00Z"
+doi: "10.1073/pnas.2120377119"
+featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: [Project001]
-publication: '*Waste Management, ??*, ??-??'
+projects: []
+publication: '*Proceedings of the National Academy of Sciences, 119*(30), e2120377119'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2024-10-27T00:00:00Z"
+publishDate: "2022-07-19T00:00:00Z"
 slides: ""
-summary: The transition from a linear to a circular production system involves transforming waste (such as the organic fraction of municipal solid waste, OFMSW) into valuable resources. Insect-mediated bioconversion, particularly using black soldier fly (BSF) larvae, can offer a promising opportunity to convert OFMSW into protein-rich biomass. However, current regulatory restrictions limit the use of insect proteins for animal feed, prompting the exploration of other applications, such as the production of bioplastics. Here, we explored an innovative and integrated circular supply chain model which aims to valorise the OFMSW through BSF larvae for the production of biobased materials with high technological value. BSF larvae reared on the OFMSW showed excellent growth performance and bioconversion rate of the substrate. The use of well-suited extraction methods allowed the isolation of high-purity lipids, proteins, and chitin fractions, suitable building blocks to produce biobased materials. In particular, the protein fraction was used to develop biodegradable plastic films which showed potential for replacing traditional petroleum-based materials, with the promise to be fully recycle back to amino acids, thus promoting a circular economy process. Socioeconomic analysis highlighted values generated along the entire supply chain, and life cycle assessment pointed out that lipid extraction was the most challenging step: implementation of more sustainable methods is thus needed to reduce the overall environmental impact of the proposed chain. In conclusion, this study represents a proof of concept gathering evidence to support the feasibility of an alternative supply chain that can promote circular economy while valorising organic waste.
+summary: This initiative examined systematically the extent to which a large set of archival research findings generalizes across contexts. We repeated the key analyses for 29 original strategic management effects in the same context (direct reproduction) as well as in 52 novel time periods and geographies; 45% of the reproductions returned results matching the original reports together with 55% of tests in different spans of years and 40% of tests in novel geographies. Some original findings were associated with multiple new tests. Reproducibility was the best predictor of generalizability—for the findings that proved directly reproducible, 84% emerged in other available time periods and 57% emerged in other geographies. Overall, only limited empirical evidence emerged for context sensitivity. In a forecasting survey, independent scientists were able to anticipate which effects would find support in tests in new samples.
 tags:
-- "Environmental Science"
-title: "Valorisation of Organic Waste Through Black Soldier Fly: On the Way of a Real Circular Bioeconomy Process"
+- "Statistics"
+title: "Examining the context sensitivity of research findings from archival data"
 url_code: ""
 url_dataset: ""
 url_pdf: ""
