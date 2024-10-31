@@ -23,7 +23,7 @@ authors:
 - Andrea Vezzulli
 - Gianluca Tettamanti
 date: "2024-10-27T00:00:00Z"
-doi: ""
+doi: "10.1016/j.wasman.2024.10.030"
 featured: false
 image:
   caption: ''
