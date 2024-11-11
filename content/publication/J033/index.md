@@ -30,7 +30,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Waste Management, ??*(??), ??'
+publication: '*Waste Management, 191*(2025), 123--134'
 publication_short: ""
 publication_types:
 - "2"
