@@ -22,7 +22,7 @@ authors:
 - Vincenzo Torretta
 - Andrea Vezzulli
 - Gianluca Tettamanti
-date: "2024-10-27T00:00:00Z"
+date: "2025"
 doi: "10.1016/j.wasman.2024.10.030"
 featured: false
 image:
