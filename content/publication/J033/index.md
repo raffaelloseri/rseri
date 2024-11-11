@@ -29,7 +29,7 @@ image:
   caption: ''
   focal_point: ""
   preview_only: false
-projects: []
+projects: [Project002]
 publication: '*Waste Management, 191*(2025), 123--134'
 publication_short: ""
 publication_types:
