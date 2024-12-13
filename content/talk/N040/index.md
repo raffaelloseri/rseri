@@ -20,7 +20,7 @@ location: Varese, Italy
 math: true
 projects:
 - ""
-publishDate: "2024-01-01"
+publishDate: "2024-12-13"
 slides: ""
 summary: ""
 tags:
