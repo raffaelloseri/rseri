@@ -1,5 +1,5 @@
 ---
-abstract: 
+abstract: Intuition often guides our thinking effectively, but it can also lead to consequential reasoning errors, underpinning poor decisions and biased judgments.
 authors:
 - Miroslav Sirota
 - Jakub Šrol
@@ -46,7 +46,7 @@ authors:
 - Diego Manríquez Robles
 - Javier Corredor
 - Alejandra Ciria
-- Paulo RS Ferreira
+- Paulo R. S. Ferreira
 - Danka Purić
 - Wang Zheng
 - Vaitsa Giannouli
@@ -128,7 +128,7 @@ authors:
 - Vidar Schei
 - Iris Vilares
 - Biljana Gjoneska
-- Matthew HC. Mak
+- Matthew H. C. Mak
 - Johanna Sánchez-Mora
 - Bastien Trémolière
 - Fatih Sonmez
