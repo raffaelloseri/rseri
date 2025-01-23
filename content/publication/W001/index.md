@@ -273,7 +273,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: [Project006]
-publication: '*OSF Preprint*'
+publication: '*I4R Preprint*'
 publication_short: ""
 publication_types:
 - "3"
