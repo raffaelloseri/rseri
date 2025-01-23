@@ -1,7 +1,7 @@
 ---
 abstract: 'Semantic priming has been studied for nearly 50 years across various experimental manipulations and theoretical frameworks. Although previous studies provide insight into the cognitive underpinnings of semantic representations, they have suffered from several methodological issues including small sample sizes and a lack of linguistic and cultural diversity. Here, we measured the size and the variability of the semantic priming effect across 19 languages (N = 25,163 participants analyzed) by creating the largest available database of semantic priming values based on an adaptive sampling procedure. Differences in response latencies between related word-pair conditions and unrelated word-pair conditions showed evidence for semantic priming. Model comparisons showed inclusion of a random intercept for language improved model fit, providing support for variability in semantic priming across languages. This study highlights the robustness and variability of semantic priming across languages and provides a rich, linguistically diverse dataset for further analysis.'
 authors:
-- Erin M. Buchanan
+- Erin Michelle Buchanan
 - Kelly Cuccolo
 - Tom Heyman
 - Niels van Berkel

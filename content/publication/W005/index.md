@@ -66,7 +66,7 @@ authors:
 - Johannes Breuer
 - Ryan Briggs
 - Hilmar Brohmer
-- Erin Buchanan
+- Erin Michelle Buchanan
 - Johannes Buckenmaier
 - Jeffrey Buckley
 - Jacek Buczny
@@ -87,7 +87,7 @@ authors:
 - Fadong Chen
 - Hao Chen
 - Valerii Chirkov
-- Daniela Cialfi,†
+- Daniela Cialfi
 - Beth Clarke
 - Sophie G. Coelho
 - Clara Cohen
