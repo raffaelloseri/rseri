@@ -402,7 +402,7 @@ authors:
 - Nicole Schwitter
 - Bermond Scoggins
 - Yashvin Seetahul
-- "**admin**"
+- admin
 - David R. Shanks
 - Stacy T. Shaw
 - Joseph Shaw
