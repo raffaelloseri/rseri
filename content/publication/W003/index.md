@@ -236,7 +236,7 @@ publishDate: "2025-01-20T00:00:00Z"
 slides: ""
 summary: 'Cultural logic is a set of cultural scripts and patterns organized around a central theme. The cultural logics of dignity, honor, and face describe different ways of evaluating a person’s worth and maintaining cooperation. These cultural logics vary in prevalence across cultures. In this study, we collaboratively develop and validate a measure capturing these cultural logics, which will allow us to map world cultures based on the prevalence of these logics. We will further explore the interrelations of dignity, honor, and face with prosocial behavior, values, moral beliefs, and religiosity as well as examine the generalizability of these relationships across cultures. Finally, we will explore historical antecedents (e.g., resource scarcity) and current correlates (e.g., inequality) of the country-level prevalence of these cultural logics. This study will generate a new dataset of country scores for dignity, honor, and face that will be available for future comparative research. It will also provide theoretical insights for researchers and practitioners interested in cooperation and social behavior within and between cultures.'
 tags:
-- "Psychology"
+- "Meta-science"
 title: "(In)Alienable Worth? Cultural Logics of Dignity, Honor, and Face and their Links to Prosociality Across the World"
 url_code: ""
 url_dataset: ""

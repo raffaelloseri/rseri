@@ -1,0 +1,346 @@
+---
+abstract: 'Semantic priming has been studied for nearly 50 years across various experimental manipulations and theoretical frameworks. Although previous studies provide insight into the cognitive underpinnings of semantic representations, they have suffered from several methodological issues including small sample sizes and a lack of linguistic and cultural diversity. Here, we measured the size and the variability of the semantic priming effect across 19 languages (N = 25,163 participants analyzed) by creating the largest available database of semantic priming values based on an adaptive sampling procedure. Differences in response latencies between related word-pair conditions and unrelated word-pair conditions showed evidence for semantic priming. Model comparisons showed inclusion of a random intercept for language improved model fit, providing support for variability in semantic priming across languages. This study highlights the robustness and variability of semantic priming across languages and provides a rich, linguistically diverse dataset for further analysis.'
+authors:
+- Erin M. Buchanan
+- Kelly Cuccolo
+- Tom Heyman
+- Niels van Berkel
+- Nicholas A. Coles
+- Aishwarya Iyer
+- Kim Peters
+- Anna E. van ’t Veer
+- Maria Montefinese
+- Nicholas P. Maxwell
+- Jack E. Taylor
+- Kathrene D. Valentine
+- Patrícia Arriaga
+- Krystian Barzykowski
+- Leanne Boucher
+- W. M. Collins
+- David C. Vaidis
+- Balazs Aczel
+- Ali H. Al-Hoorie
+- Ettore Ambrosini
+- Théo Besson
+- Debora I. Burin
+- Muhammad M. Butt
+- A. J. Benjamin Clarke
+- Yalda Daryani
+- Dina A. S. El-Dakhs 
+- Mahmoud M. Elsherif
+- Maria Fernández-López
+- Paulo R. d. S. Ferreira
+- Raquel M. K. Freitag
+- Carolina A. Gattei
+- Hendrik Godbersen
+- Philip A. Grim II
+- Peter Halama
+- Patrik Havan
+- Natalia C. Irrazabal
+- Chris Isloi
+- Rebecca K. Iversen
+- Yoann Julliard
+- Aslan Karaaslan
+- Michal Kohút
+- Veronika Kohútová
+- Julija Kos
+- Alexandra I. Kosachenko
+- Tiago J. S. d. Lima
+- Matthew HC Mak
+- Christina Manouilidou
+- Leonardo A. Marciaga
+- Xiaolin M. Melinna
+- Jacob F. Miranda
+- Coby Morvinski
+- Aishwarya Muppoor
+- F. E. Müjdeci
+- Yngwie A. Nielsen
+- Juan C. Oliveros
+- Jaš Onič
+- Marietta Papadatou-Pastou
+- Ishani Patel
+- Zoran Pavlović
+- Blaž Pažon
+- Gerit Pfuhl
+- Ekaterina Pronizius
+- Timo B. Roettger
+- Camilo R. Ronderos
+- Susana Ruiz-Fernandez
+- Magdalena Senderecka
+- Çağlar Solak
+- Anna Stückler
+- Raluca D. Szekely-Copîndean
+- Analí R. Taboh
+- Rémi Thériault
+- Ulrich S. Tran
+- Fabio Trecca
+- José Luis Ulloa
+- Marton A. Varga
+- Steven Verheyen
+- Tijana Vesić Pavlović
+- Giada Viviani
+- Nan Wang
+- Kristyna Zivna
+- Chen C. Yun
+- Oliver J. Clark
+- Oguz A. Acar
+- Matúš Adamkovič
+- Giulia Agnoletti
+- Atakan M. Akil
+- Zainab Alsuhaibani
+- Simona Amenta
+- Olga A. Ananyeva
+- Michael Andreychik
+- Bernhard Angele
+- Danna C. Arias Quiñones
+- Nwadiogo C. Arinze
+- Adrian D. Askelund
+- Bradley J. Baker
+- Ernest Baskin
+- Luisa Batalha
+- Carlota Batres
+- Maria S. Beato
+- Manuel Becker
+- Maja Becker
+- Maciej Behnke
+- Christophe Blaison
+- Anna M. Borghi
+- Eduard Brandstätter
+- Jacek Buczny
+- Nesrin Budak
+- Álvaro Cabana
+- Zhenguang G. Cai
+- Enrique C. Canessa
+- Ignacio Castillejo
+- Müge Cavdan
+- Luca Cecchetti
+- Sergio E. Chaigneau
+- Feria X. W. Chang
+- Christopher R. Chartier
+- Sau-Chin Chen
+- Elena Cherniaeva
+- Morten H. Christiansen
+- Hu Chuan-Peng
+- Patrycja Chwiłkowska
+- Montserrat Comesaña
+- Chin Wen Cong
+- Casey Cowan
+- Stéphane D. Dandeneau
+- Oana A. David
+- William E. Davis
+- Elif G. Demirag Burak
+- Barnaby J. W. Dixson
+- Hongfei Du
+- Rod Duclos
+- Wouter Duyck
+- Liudmila A. Efimova
+- Ciara Egan
+- Vanessa Era
+- Thomas R. Evans
+- Anna Exner
+- Gilad Feldman
+- Katharina Fellnhofer
+- Chiara Fini
+- Sarah E. Fisher
+- Heather D. Flowe
+- Patricia Garrido-Vásquez
+- Daniele Gatti
+- Jason Geller 
+- Vaitsa Giannouli
+- Anna S. Gorokhova
+- Lindsay M. Griener
+- Dmitry Grigoryev
+- Igor Grossmann
+- Mohammadhesam Hajighasemi
+- Giacomo Handjaras
+- Cathy Hauspie
+- Zhiran He
+- Renata M. Heilman
+- Amirmahdi Heydari
+- Alanna M. Hine
+- Karlijn Hoyer
+- Weronika Hryniszak
+- Janet H.-w. Hsiao
+- Guanxiong Huang
+- Keiko Ihaya
+- Ewa Ilczuk
+- Tatsunori Ishii
+- Andrei Dumbravă
+- Katarzyna Jankowiak
+- Xiaoming Jiang
+- David C. Johnson
+- Rafał Jończyk
+- Juhani Järvikivi
+- Laura Kaczer
+- Kevin L. Kamermans
+- Johannes A. Karl
+- Alexander Karner
+- Pavol Kačmár
+- Jacob J. Keech
+- M. Justin Kim
+- Max Korbmacher
+- Kathrin Kostorz
+- Marta Kowal
+- Tomas Kratochvil
+- Yoshihiko Kunisato
+- Anna O. Kuzminska
+- Lívia Körtvélyessy
+- Fatma E. Köse
+- Massimo Köster
+- Magdalena Kękuś
+- Melanie Labusch
+- Claus Lamm
+- Chaak Ming Lau
+- Julieta Laurino
+- Wilbert Law
+- Giada Lettieri
+- Carmel A. Levitan
+- Jackson G. Lu
+- Sarah E. MacPherson
+- Klara Malinakova
+- Diego Manriquez-Robles
+- Nicolás Marchant
+- Marco Marelli
+- Martín Martínez
+- Molly F. Matthews
+- Alan D. A. Mattiassi
+- Josefina Mattoli-Sánchez
+- Claudia Mazzuca
+- David P. McGovern
+- Zdenek Meier
+- Filip Melinscak
+- Michal Misiak
+- Luis C. P. Monteiro
+- David Moreau
+- Sebastian Moreno
+- Kate E. Mulgrew
+- Dominique Muller
+- Tamás Nagy
+- Marcin Naranowicz
+- Izuchukwu L. G. Ndukaihe
+- Maital Neta
+- Lukas Novak
+- Chisom E. Ogbonnaya
+- Jessica Jee Won Paek
+- Aspasia E. Paltoglou
+- Francisco J. Parada
+- Adam J. Parker
+- Mariola Paruzel-Czachura
+- Yuri G. Pavlov
+- Saeed Paydarfard
+- Dominik Pegler
+- Mehmet Peker
+- Manuel Perea
+- Stefan Pfattheicher
+- John Protzko
+- Irina S. Prusova
+- Katarzyna Pypno-Blajda
+- Zhuang Qiu
+- Ulf-Dietrich Reips
+- Gianni Ribeiro
+- Luca Rinaldi
+- S. C. Roberts
+- Tanja C. Roembke
+- Marina O. Romanova
+- Robert M. Ross
+- Jan P. Röer
+- Filiz Rızaoğlu
+- Toni T. Saari
+- Erika Sampaolo
+- Anabela C. Santos
+- F. Çağlar Sarıçiçek
+- Kyoshiro Sasaki
+- Frank Scharnowski
+- Kathleen Schmidt
+- Amir Sepehri
+- HalidO. Serçe
+- A. T. Sevincer
+- Cynthia S. Q. Siew
+- Matilde E. Simonetti
+- Miroslav Sirota
+- Agnieszka Sorokowska
+- Piotr Sorokowski
+- Ian D. Stephen
+- Laura M. Stevens
+- Suzanne L. K. Stewart
+- David Steyrl
+- Stefan Stieger
+- Anna Studzinska
+- Mar Suarez
+- Anna Szala
+- Arnaud Szmalec
+- Daniel Sznycer
+- Ewa Szumowska
+- Sinem Söylemez
+- Bahadır Söylemez
+- Kaito Takashima
+- Christian K. Tamnes
+- Joel C. R. Tan
+- Chengxiang Tang
+- Peter Tavel
+- JulianTejada
+- Benjamin C. Thompson
+- Jake G. Tiernan
+- Vicente Torres-Muñoz
+- Anna K. Touloumakos
+- Bastien Trémolière
+- Monika Tschense
+- Belgüzar N. Türkan
+- Miguel A. Vadillo
+- Caterina Vannucci
+- Michael E. W. Varnum
+- Martin R. Vasilev
+- Leigh Ann Vaughn
+- Fanny Verkampt
+- Liliana M. Villar
+- Sebastian Wallot
+- Lijun Wang
+- Ke Wang
+- Glenn P. Williams
+- David Willinger
+- Kelly Wolfe
+- Alexandra S. Wormley
+- Yuki Yamada
+- Yunkai Yang
+- Yuwei Zhou
+- Mengfan Zhang
+- Wang Zheng
+- Yueyuan Zheng
+- Chenghao Zhou
+- Radka Zidkova
+- Nina M. Zumbrunn
+- Ogeday Çoker
+- Sami Çoksan
+- Sezin Öner
+- Asil A. Özdoğru
+- Seda M. Şahin
+- Dauren Kasanov
+- Savannah C. Lewis
+- admin
+date: "2025-01-20T00:00:00Z"
+doi: "10.17605/OSF.IO/WRPJ4"
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+projects: [Project006]
+publication: '*OSF Preprint*'
+publication_short: ""
+publication_types:
+- "3"
+publishDate: "2025-01-20T00:00:00Z"
+slides: ""
+summary: 'Semantic priming has been studied for nearly 50 years across various experimental manipulations and theoretical frameworks. Although previous studies provide insight into the cognitive underpinnings of semantic representations, they have suffered from several methodological issues including small sample sizes and a lack of linguistic and cultural diversity. Here, we measured the size and the variability of the semantic priming effect across 19 languages (N = 25,163 participants analyzed) by creating the largest available database of semantic priming values based on an adaptive sampling procedure. Differences in response latencies between related word-pair conditions and unrelated word-pair conditions showed evidence for semantic priming. Model comparisons showed inclusion of a random intercept for language improved model fit, providing support for variability in semantic priming across languages. This study highlights the robustness and variability of semantic priming across languages and provides a rich, linguistically diverse dataset for further analysis.'
+tags:
+- "Meta-science"
+title: "Measuring the Semantic Priming Effect Across Many Languages"
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---

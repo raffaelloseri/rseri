@@ -207,7 +207,7 @@ publishDate: "2025-01-20T00:00:00Z"
 slides: ""
 summary: 'Intuition often guides our thinking effectively, but it can also lead to consequential reasoning errors, underpinning poor decisions and biased judgments. Little is known about how people globally self-correct such intuitive reasoning errors and what enhances their correction. Defying prevailing models of reasoning, recent research suggests that people spontaneously correct only a few errors during deliberation; however, enhancing error monitoring and motivating further effort should increase error correction. Here, we study whether these mechanisms apply to reasoning across individualistic and collectivistic cultures (expected N = 33,000 participants from 67 regions). Participants will solve problems that elicit incorrect intuitions twice: first intuitively and then reflectively, allowing them to correct initial errors, in a 2 (feedback: absent vs present) x 2 (answer justification: absent vs present) between-participants design. The study will shed more light on the nature, generalisability, and promotion of corrective behaviour, crucial for understanding and improving reasoning worldwide.'
 tags:
-- "Psychology"
+- "Meta-science"
 title: "Mapping and Increasing Error Correction Behaviour in a Culturally Diverse Sample"
 url_code: ""
 url_dataset: ""
