@@ -119,7 +119,7 @@ authors:
 - Gianni Ribeiro
 - Igor Marchetti
 - Ilaria Colpizzi
-- irem metin orta
+- Irem Metin Orta
 - Isabella Giammusso
 - Islam Borinca
 - Ivana Pedović
