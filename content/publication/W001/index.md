@@ -1,0 +1,295 @@
+---
+abstract: 'This study evaluates the effectiveness of varying levels of human and artificial intelligence (AI) integration in reproducibility assessments of quantitative social science research. We computationally reproduced quantitative results from published articles in the social sciences with 288 researchers, randomly assigned to 103 teams across three groups —- human-only teams, AI-assisted teams and teams whose task was to minimally guide an AI to conduct reproducibility checks (the “AI-led” approach). Findings reveal that when working independently, human teams matched the reproducibility success rates of teams using AI assistance, while both groups substantially outperformed AI-led approaches (with human teams achieving 57 percentage points higher success rates than AI-led teams, p < 0.001). Human teams were particularly effective at identifying serious prob- lems in the analysis: they found significantly more major errors compared to both AI-assisted teams (0.7 more errors per team, p = 0.017) and AI-led teams (1.1 more errors per team, p < 0.001). AI-assisted teams demonstrated an advantage over more automated approaches, detecting 0.4 more major errors per team than AI-led teams (p = 0.029), though still significantly fewer than human-only teams. Finally, both human and AI-assisted teams significantly outperformed AI-led approaches in both proposing (25 percentage points difference, p = 0.017) and implementing (33 percentage points difference, p = 0.005) comprehensive robustness checks. These results underscore both the strengths and limitations of AI assistance in research reproduction and suggest that despite impressive ad- vancements in AI capability, key aspects of the research publication process still require human substantial human involvement.'
+authors:
+- Abel Brodeur
+- David Valenta
+- Alexandru Marcoci
+- Juan P. Aparicio
+- Derek Mikola
+- Bruno Barbarioli
+- Rohan Alexander
+- Lachlan Deer
+- Tom Stafford
+- Lars Vilhuber
+- Gunther Bensch
+- Mohamed Abdelhady
+- Yousra Abdelmoula
+- Ghina Abdul Baki
+- Tomás Aguirre
+- Sriraj Aiyer
+- Shumi Akhtar
+- Farida Akhtar
+- Melle R. Albada
+- Micah Altman
+- David Angenendt
+- Zahra Arjmandi Lari
+- Jorge Armando De León Tejada
+- Igor Asanov
+- Anastasiya-Mariya Asanov Noha
+- Rebecca Ashong
+- Tobias Auer
+- Francisco J. Bahamonde-Birke
+- Bradley J. Baker
+- Söhnke M. Bartram
+- Dongqi Bao
+- Lucija Batinovic
+- Tommaso Batistoni
+- Monica Beeder
+- Louis-Philippe Beland
+- Carsten Bienz
+- Christ Billy Aryanto
+- Cylcia Bolibaugh
+- Carl Bonander
+- Ramiro Bravo
+- Katherine Brennan
+- Egor Bronnikov
+- Stephan Bruns
+- Nino Buliskeria
+- Sara Caicedo-Silva
+- Andrea Calef
+- Solomon Caulker
+- Simonas Cepenas
+- Arthur Chatton
+- Zirou Chen
+- Ngozi Chioma Ewurum
+- Anda-Bianca Ciocîrlan
+- Felix J. Clouth
+- Jason Collins
+- Nikolai Cook
+- Cesar Cornejo
+- João Craveiro
+- Jing Cui
+- Niveditha Chalil Vayalabron
+- Christian Czymara
+- Carlos Daniel Bermúdez Jaramillo
+- Hannes Datta
+- Lien Denoo
+- Arshia Dhaliwal
+- Nency Dhameja
+- Elodie Djemai
+- Erwan Dujeancourt
+- Uğurcan Dündar
+- Thibaut Duprey
+- Yasmine Eissa
+- Youssef El Fassi
+- Ismail El Fassi
+- Keaton Ellis
+- Ali Elminejad
+- Mahmoud Elsherif
+- Aysil Emirmahmutoglu
+- Giulian Etingin-Frati
+- Emeka Eze
+- Jan Fabian Dollbaum
+- Jan Feld Victoria
+- Andres Felipe Rengifo Jaramillo
+- Guidon Fenig
+- Victoria Fernandes
+- Lenka Fiala
+- Lukas Fink
+- Sara Fish
+- Jack Fitzgerald
+- Rachel Forshaw
+- Alexandre Fortier-Chouinard
+- Louis Fréget
+- Joris Frese
+- Jacopo Gabani
+- Sebastian Gallegos
+- Max C. Gamill
+- Attila Gáspár
+- Romain Gauriot
+- Evelina Gavrilova
+- Diogo Geraldes
+- Giulio Giacomo Cantone
+- Grant Gibson
+- Dirk Goldschmitt
+- Amélie Gourdon-Kanhukamwe
+- Andrea Gregor de Varda
+- Idaliya Grigoryeva
+- Alexi Gugushvili
+- Aaron H.A. Fletcher
+- Florian Habermann
+- Márton Hablicsek
+- Joanne Haddad
+- Jonathan D. Hall
+- Olle Hammar (olle.hammar@lnu.se)
+- Malek Hassouneh
+- Carina I. Hausladen
+- Sophie C. F. Hendrikse
+- Matthew Hepplewhite
+- Anson T. Y. Ho
+- Senan Hogan-Hennessy
+- Elliot Howley
+- Gaoyang Huang
+- Héloïse Hulstaert
+- Zlatomira G. Ilchovska
+- Niklas Jakobsson
+- Joakim Jansson
+- Ewa Jarosz
+- Hossein Jebeli
+- Yanchen Jiang
+- Hiba Junaid
+- Rohan Kalluraya
+- Edmund Kelly
+- Eva Kimel
+- Sorravich Kingsuwankul
+- Valentin Klotzbücher
+- Daniel Krähmer
+- Pijus Krūminas
+- Nicholas Kruus
+- Essi Kujansuu
+- Christoph F. Kurz
+- Stephan Küster
+- Blake Lee-Whiting
+- Felix Lewandowski
+- Tongzhe Li
+- Ruoxi Li
+- Dan Liu
+- Jiacheng Liu
+- Helix Lo
+- Katharina Loter
+- Felipe Macedo Dias
+- Christopher R. Madan
+- Nicolas Mäder
+- Marco Mandas
+- Jan Marcus
+- Diego Marino Fages
+- Xavier Martin
+- Ryan McWay
+- Daniel Medina-Gaspar
+- Sisi Meng
+- Lingyu Meng
+- Alex P. Miller
+- Thibault Mirabel
+- Dibya Deepta Mishra
+- Sumit Mishra
+- Belay W. Moges
+- Morteza Mohandes Mojarrad
+- Myra Mohnen
+- Louis-Philippe Morin
+- Fabio Motoki
+- Lucija Muehlenbachs
+- Gastón Mullin
+- Andreea Musulan
+- Sara Muzzì
+- James A. C. Myers
+- Florian Neubauer
+- Tuan Nguyen
+- Ali Niazi
+- Ardyn Nordstrom
+- Bartłomiej Nowak
+- O’Habib
+- Daneal
+- Tim Ölkers
+- Justin Ong
+- Valeria Orozco Castiblanco
+- Ömer Özak
+- Ali I. Ozkes
+- Mikael Paaso
+- Shubham Pandey
+- Varvara Papazoglou
+- Romeo Penheiro
+- Linh Pham
+- Ulrike Phieler
+- Peter Pütz
+- Quan Qi
+- Jingyi Qiu
+- David A. Reinstein
+- Juuso Repo
+- Nicolas Rudolf
+- Shree Saha
+- Orkun Saka
+- Chiara Saponaro
+- Georg Sator
+- Martijn Schoenmakers
+- admin
+- Meet Shah
+- Paul Sibille
+- Christoph Siemroth
+- Vladimir Skavysh
+- Ben Slater
+- Wenting Song
+- Stefan Staubli
+- Tobias Steindl
+- Nomwendé Steven Waongo
+- Paul Stott
+- Stephenson Strobel
+- Roshini Sudhaharan
+- Pu Sun
+- Scott D. Swain
+- Oleksandr Talavera
+- Hanz M. Tantiangco
+- Georgy Tarasenko
+- Boyd Tarlinton
+- Mariam Tarraf
+- Ken Teoh
+- Rémi Thériault
+- Bethan Thompson
+- Tonghui Tian
+- Wenjie Tian
+- Manuel Tobias Rein
+- Emmanuel Tolani
+- Nicolai Topstad Borgen
+- Solveig Topstad Borgen
+- Javier Torralba
+- Carolina Velez-Ospina
+- Man Wai Mak
+- Lukas Wallrich
+- Zeyang Wang
+- Leah Ward
+- Matthew D. Webb
+- Duncan Webb
+- Bryan S. Weber
+- Christoph Weber
+- Wei-Chien Weng
+- Christian Westheide
+- Tom Wilkinson
+- Kwong-Yu Wong
+- Marcin Wroński
+- Zhuangchen Wu
+- Qixia Wu
+- Victor Y. Wu
+- Bohan Xiao
+- Feihong Xu
+- Cong Xu
+- Pranav Yadav
+- Yu Yang Chou
+- Luther Yap
+- Myra Yazbeck
+- Zuzanna Zagrodzka
+- Tahreen Zahra
+- Mirela Zaneva
+- Xiaomeng Zhang
+- Ziwei Zhao
+- Han Zhong
+- Aras Zirgulis
+- Jiacheng Zou
+- Floris Zoutman
+- Christelle Zozoungbo
+date: "2025-01-20T00:00:00Z"
+doi: ""
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+projects: [Project006]
+publication: '*OSF Preprint*'
+publication_short: ""
+publication_types:
+- "3"
+publishDate: "2025-01-20T00:00:00Z"
+slides: ""
+summary: 'This study evaluates the effectiveness of varying levels of human and artificial intelligence (AI) integration in reproducibility assessments of quantitative social science research. We computationally reproduced quantitative results from published articles in the social sciences with 288 researchers, randomly assigned to 103 teams across three groups —- human-only teams, AI-assisted teams and teams whose task was to minimally guide an AI to conduct reproducibility checks (the “AI-led” approach). Findings reveal that when working independently, human teams matched the reproducibility success rates of teams using AI assistance, while both groups substantially outperformed AI-led approaches (with human teams achieving 57 percentage points higher success rates than AI-led teams, p < 0.001). Human teams were particularly effective at identifying serious prob- lems in the analysis: they found significantly more major errors compared to both AI-assisted teams (0.7 more errors per team, p = 0.017) and AI-led teams (1.1 more errors per team, p < 0.001). AI-assisted teams demonstrated an advantage over more automated approaches, detecting 0.4 more major errors per team than AI-led teams (p = 0.029), though still significantly fewer than human-only teams. Finally, both human and AI-assisted teams significantly outperformed AI-led approaches in both proposing (25 percentage points difference, p = 0.017) and implementing (33 percentage points difference, p = 0.005) comprehensive robustness checks. These results underscore both the strengths and limitations of AI assistance in research reproduction and suggest that despite impressive ad- vancements in AI capability, key aspects of the research publication process still require human substantial human involvement.'
+tags:
+- "Psychology"
+- "Economics"
+title: "Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science"
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: "https://econpapers.repec.org/paper/zbwi4rdps/195.htm"
+url_video: ""
+---
