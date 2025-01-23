@@ -192,7 +192,7 @@ authors:
 - Christopher R. Chartier
 - Kathleen Schmidt
 date: "2025-01-20T00:00:00Z"
-doi: "10.1016/j.wasman.2024.10.030"
+doi: "10.31234/osf.io/wegc5"
 featured: false
 image:
   caption: ''
@@ -211,10 +211,10 @@ tags:
 title: "Mapping and Increasing Error Correction Behaviour in a Culturally Diverse Sample"
 url_code: ""
 url_dataset: ""
-url_pdf: "https://osf.io/preprints/psyarxiv/wegc5"
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://osf.io/preprints/psyarxiv/wegc5"
 url_video: ""
 ---
