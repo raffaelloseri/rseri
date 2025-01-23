@@ -111,7 +111,7 @@ authors:
 - Márton Hablicsek
 - Joanne Haddad
 - Jonathan D. Hall
-- Olle Hammar (olle.hammar@lnu.se)
+- Olle Hammar
 - Malek Hassouneh
 - Carina I. Hausladen
 - Sophie C. F. Hendrikse
