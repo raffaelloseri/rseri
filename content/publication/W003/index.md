@@ -140,7 +140,6 @@ authors:
 - Krystian Barzykowski
 - Kyle J. Susa
 - Lalitha Ragul
-- Lavinia M. Pedretti
 - Leigh Ann Vaughn
 - Leopold Roth
 - Lesley-Ann Smith
@@ -169,11 +168,11 @@ authors:
 - Oluyinka Ojedokun
 - Patrícia Arriaga
 - Patrick Fonyuy Shey
-- Paulo RS Ferreira
+- Paulo R. S. Ferreira
 - Pavol Kačmár
 - Ndzetar Emmanuel Wirmum
 - Plamen Akaliyski
-- Prathibha M V
+- Prathibha M. V.
 - Rachel M. M. Wong
 - Radka Zidkova
 - admin
