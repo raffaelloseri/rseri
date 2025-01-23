@@ -179,7 +179,7 @@ authors:
 - admin
 - Raja Intan Arifah Binti Raja Reza Shah
 - Rania Miniesy
-- Robert M Ross
+- Robert M. Ross
 - Rosalie Chen
 - Paulo Manuel L. Macapagal
 - Paulina Chwiłka
@@ -203,7 +203,7 @@ authors:
 - Taylor Gogan
 - Tiffany Chin
 - Tshegofatso Mabitsela
-- Ünsal YETİM
+- Ünsal Yetim
 - Selina C. Reil
 - Vaitsa Giannouli
 - Vera Cubela Adoric
