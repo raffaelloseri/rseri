@@ -1,10 +1,10 @@
 ---
 abstract: ""
-all_day: true
+all_day: false
 authors:
 - admin
-date: "2025-02-01"
-date_end: "2025-02-01"
+date: "2025-02-01T10:00:00Z"
+date_end: "2025-02-01T10:30:00Z"
 event: "Verso il nuovo PGT"
 event_url: ""
 featured: false
