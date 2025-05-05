@@ -22,7 +22,7 @@ date_format = "2 Jan 2006"
 [[item]]
   organization = "Villa del Grumello, Como (Italy)"
   organization_url = "https://www.villadelgrumello.it/it/"
-  title = "Summer School 'The Bioeconomy Transformation: Science, Economics, Business and Society'"
+  title = "Spring School 'The Bioeconomy Transformation: Science, Economics, Business and Society'"
   url = ""
   certificate_url = ""
   date_start = "2025-04-14"
