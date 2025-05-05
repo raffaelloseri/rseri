@@ -4,8 +4,8 @@ all_day: true
 authors:
 - Michele Bernasconi
 - admin
-date: "2025-04-30"
-date_end: ""
+date: "2025-04-30T12:30:00Z"
+date_end: "2025-04-30T13:45:00Z"
 event: "Seminar of the group Perceptions of Inequality, London School of Economics and Political Science"
 event_url: "https://www.lse.ac.uk/International-Inequalities/Research/Perceptions-of-Inequality/Perceptions-of-Inequality"
 featured: false
