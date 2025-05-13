@@ -1,6 +1,6 @@
 ---
 abstract: ""
-all_day: false
+all_day: true
 authors:
 - admin
 date: "2023-06-05T00:00:00Z"
