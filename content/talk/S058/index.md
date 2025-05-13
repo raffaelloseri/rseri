@@ -1,6 +1,6 @@
 ---
 abstract: ""
-all_day: true
+all_day: false
 authors:
 - Michele Bernasconi
 - admin
