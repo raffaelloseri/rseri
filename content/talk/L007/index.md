@@ -25,7 +25,7 @@ slides: ""
 summary: "Guest lecture"
 tags:
 - Economics of Innovation
-title: "Principle of economics / Externalities: problems and solutions"
+title: "Principles of economics / Externalities: problems and solutions"
 url_code: ""
 url_pdf: ""
 url_slides: ""
