@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: "Derived from Epstein and Segal (1992), quadratic welfare functions address classical criticisms of Harsanyi's utilitarianism and incorporate concerns about ex ante fairness. The original axiomatisation focuses on the social decision to allocate an indivisible good among equally deserving individuals. We show how the model extends naturally in an income distribution setting, where social preference seeks to account for equality in the distribution of opportunity between social types. Within this approach, we illustrate the interaction between aversions to inequality of outcomes and inequality of opportunities, and derive an overall index of inequality of outcomes and opportunities. A survey experiment is conducted to test people's views on equality of opportunity and to test whether people's social preferences are consistent with the axioms underlying quadratic welfare representation."
 all_day: false
 authors:
 - Michele Bernasconi
