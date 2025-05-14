@@ -23,7 +23,7 @@ projects:
 - "Project002"
 publishDate: "2025-01-01T00:00:00Z"
 slides: ""
-summary: "Seminar"
+summary: "International conference"
 tags:
 - Experimental economics
 title: "Equality of Opportunity with Quadratic Social Welfare Functions"
