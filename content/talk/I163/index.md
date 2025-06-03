@@ -1,13 +1,13 @@
 ---
-abstract: "Derived from Epstein and Segal (1992), quadratic social welfare functions address classical criticisms to Harsanyi’s utilitarianism and incorporate concerns for ex ante fairness. The original axiomatization focuses on the social decision to allocate an indivisible good among equally deserving individuals. We show how the model extends naturally in an income distribution setting, where social preference seeks to account for equality in the distribution of opportunities between social types. Within this approach, we illustrate the interaction between aversions to inequality of outcomes and inequality of opportunities, and derive an overall index of inequality of outcomes and opportunities. A survey is proposed to test whether people’s social preferences are consistent with the axioms underlying the quadratic welfare representation."
+abstract: "In this paper, we address the statistical problem of model selection, i.e. choosing a model from a set of candidates based on a sample of data. The problem is most commonly framed as a response to overfitting, that is the tendency of a model to fit the training data too closely, thereby failing to generalize well to new data or make reliable out-of-sample predictions. A standard approach to mitigating overfitting involves balancing model goodness-of-fit, typically measured by the objective function used in estimation, against model complexity, often quantified by the number of parameters. While most model selection methods aim to approximate or correct certain theoretical quantities in finite samples (e.g., the Kullback–Leibler divergence in the case of AIC), we propose an alternative approach. We formulate model selection as a multi-criteria optimization problem and apply the weighted sum method to balance competing objectives. We identify desirable asymptotic properties for model selection procedures and derive necessary and sufficient conditions on the weights that ensure these properties are satisfied. Additionally, we demonstrate that these conditions are closely connected to limit theorems for objective functions. Our results underscore the differences between model selection in nested model frameworks and in settings where models may be arbitrarily related."
 all_day: true
 authors:
-- Michele Bernasconi
+- Massimo Rusconi
 - admin
-date: "2025-09-18"
-date_end: "2025-09-19"
-event: "The III (International Inequalities Institute) at 10: New Directions in Inequality Research"
-event_url: "https://www.lse.ac.uk/International-Inequalities/10th-Anniversary/Conference"
+date: "2025-07-01"
+date_end: "2025-07-03"
+event: "16th International Conference on Multiple Objective Programming and Goal Programming"
+event_url: "https://mopgp.org"
 featured: false
 image:
   caption: ''
@@ -17,16 +17,17 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: London, UK
+location: Varese, Italy
 math: true
 projects:
-- "Project002"
+- "Project001"
 publishDate: "2025-01-01T00:00:00Z"
 slides: ""
 summary: "International conference"
 tags:
-- Experimental economics
-title: "Equality of Opportunity with Quadratic Social Welfare Functions"
+- Mathematical statistics
+- Operations research
+title: "Model Selection as a Multiple-Objective Programming Problem"
 url_code: ""
 url_pdf: ""
 url_slides: ""
