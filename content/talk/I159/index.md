@@ -25,8 +25,7 @@ publishDate: "2024-01-01"
 slides: ""
 summary: ""
 tags:
-- Bioeconomy
-- Marketing
+- Mathematical statistics
 title: "Model Selection in a Creative Destruction Setting"
 url_code: ""
 url_pdf: ""
