@@ -26,6 +26,7 @@ summary: "Guest lecture"
 tags:
 - Machine learning
 - Econometrics
+- Methodology of economics
 title: "Equifinality and model selection in econometrics"
 url_code: ""
 url_pdf: ""
