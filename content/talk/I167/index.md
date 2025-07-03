@@ -28,7 +28,7 @@ the field of model theory (Bartha, 2010, Knuuttila and Loettgers, 2017).
 Paul Bartha. *By Parallel Reasoning: The Construction and Evaluation of Analogical Arguments*. Oxford University Press, New York, 2010.
 
 
-G.E.P. Box. Robustness in the Strategy of Scientific Model Building. In *Robustness in Statistics*, pages 201–236. Elsevier, 1979. doi: 10.1016/B978-0-12-438150-6.50018-2.
+George E.P. Box. Robustness in the Strategy of Scientific Model Building. In *Robustness in Statistics*, pages 201–236. Elsevier, 1979. doi: 10.1016/B978-0-12-438150-6.50018-2.
 
 
 Till Grüne-Yanoff and Caterina Marchionni. Modeling model selection in model pluralism. *Journal of Economic Methodology*, 25(3):265–275, July 2018. doi: 10.1080/1350178X.2018.1488572.
