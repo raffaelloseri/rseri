@@ -22,19 +22,7 @@ a unified framework for model selection that leverages Utility Theory
 as the central criterion, integrating both conceptual and statistical
 evaluations into a single decision-making process. In doing so, the
 framework relies and enhances the analogical understanding within
-the field of model theory (Bartha, 2010, Knuuttila and Loettgers, 2017).
-
-In this framework, each candidate model $m$ from a set $M$ is evaluated
-by a total utility function $U\left(m\right)$ composed of two distinct
-components: a conceptual utility $U\_{C}\left(m\right)$ and a statistical
-utility $U\_{S}(m\mid\mathcal{D})$, where $\mathcal{D}$ represents
-the observed data. The overall model selection process then amounts
-to choosing the model that maximizes the sum of these utilities:
-\[
-m^{*}=\arg\max\_{m\in M}\left\{ U\_{C}(m)+U\_{S}(m\mid\mathcal{D})\right\}.
-\]
-
-"
+the field of model theory (Bartha, 2010, Knuuttila and Loettgers, 2017)."
 all_day: true
 authors:
 - Massimo Rusconi
