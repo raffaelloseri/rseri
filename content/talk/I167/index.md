@@ -15,7 +15,7 @@ Striking a balance between these perspectives remains a central challenge,
 with both practical and theoretical implications. In fact, while most
 models are usually scrutinized separately in their theoretical consistency
 and empirical performance, the prerequisite for enacting the latter
-\emph{vis a vis} the former, that is the unambigous distinction among
+vis a vis the former, that is the unambigous distinction among
 different families of models on the same phenomenon, remains unfulfilled.
 This paper aims at elucidating such necessary prerequisites and proposes
 a unified framework for model selection that leverages Utility Theory
