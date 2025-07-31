@@ -6,7 +6,7 @@ analysis. Within this landscape, the theory of model selection has
 been broadly constructed around two primary focuses. On the one hand,
 philosophers of science emphasize the conceptual integrity of models
 (e.g., Grüne-Yanoff and Marchionni, 2018, Tieleman, 2022),
-that is how well a model\textquoteright s structure aligns with theoretical
+that is how well a model's structure aligns with theoretical
 frameworks or explanatory aims. On the other hand, econometricians
 focus on output adequacy measured through criteria such as predictive
 performance, hypothesis testing, and information criteria (e.g., Hotelling, 
