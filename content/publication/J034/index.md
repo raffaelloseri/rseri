@@ -5,7 +5,7 @@ authors:
 - Davide Secchi
 - admin
 date: "2025-08-11T00:00:00Z"
-doi: ""
+doi: "10.1080/1350178X.2025.2547639"
 featured: true
 image:
   caption: ''
