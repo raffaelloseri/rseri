@@ -31,9 +31,8 @@ publishDate: "2025-09-18"
 slides: ""
 summary: ""
 tags:
-- Demography
 - Industrial economics
-title: "Protein from Plastics"
+title: "A Patent Landscape Analysis (PLA) of the main technological trends concerning the ProPla project for the microPET conversion into value-added products"
 url_code: ""
 url_pdf: ""
 url_slides: ""
