@@ -12,7 +12,7 @@ image:
   focal_point: ""
   preview_only: true
 projects: [Project003]
-publication: '*Journal of Economic Methodology*'
+publication: '*Journal of Economic Methodology, 32*(3), 170--193'
 publication_short: ""
 publication_types:
 - "2"
