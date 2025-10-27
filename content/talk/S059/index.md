@@ -2,10 +2,13 @@
 abstract: ""
 all_day: true
 authors:
+- Elisa Pontivi
+- Astrid Gamba
 - admin
-date: "2025-01-17"
+- Andrea Vezzulli
+date: "2025-10-27"
 date_end: ""
-event: "Insubria IP Day"
+event: "3rd year PhD Workshop, PhD Program in Methods and Models for Economic Decisions"
 event_url: ""
 featured: false
 image:
@@ -19,14 +22,14 @@ links:
 location: Varese, Italy
 math: true
 projects:
-- ""
-publishDate: "2024-12-13"
+- "Project004"
+publishDate: "2025-01-01"
 slides: ""
 summary: ""
 tags:
-- Industrial economics
-- History of gastronomy
-title: "Alcuni esempi storici di violazione della proprietà intellettuale"
+- Bioeconomy
+- Marketing
+title: "Nudging sustainability: exploring bioplastic preferences through hypothetical consumer choices"
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -16,7 +16,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/rfl_seri
-location: online
+location: Varese (I)
 math: true
 projects:
 - "Project006"
