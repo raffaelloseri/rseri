@@ -7,7 +7,7 @@ date: "2026-05-26"
 date_end: "2026-05-29"
 event: ESHET-HES (European Society for the History of Economic Thought-History of Economics Society) joint conference "Economists under Pressure and the Political Limits to Economics"
 event_url: https://www.eshet-conference.net/joint-eshet-hes-nice
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: Right
