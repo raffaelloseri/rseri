@@ -32,7 +32,7 @@ authors:
 date: "2026-01-14"
 date_end: "2026-01-16"
 event: "Costruire la transizione sostenibile in Italia: ricerca, politiche e società in dialogo"
-event_url: 
+event_url: https://www.prosocialclima.unifi.it/vp-16-conference.html
 featured: false
 image:
   caption: ''
