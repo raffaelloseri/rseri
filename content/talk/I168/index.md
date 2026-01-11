@@ -30,7 +30,7 @@ slides: ""
 summary: ""
 tags:
 - Bioeconomy
-title: "Proteins from Plastics - ProPla project -- Socioeconomic analysis: Innovation, markets and sustainability"
+title: "Proteins from Plastics - ProPla project - Socioeconomic analysis: Innovation, markets and sustainability"
 url_code: ""
 url_pdf: ""
 url_slides: ""
