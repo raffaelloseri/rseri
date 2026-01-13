@@ -1,0 +1,522 @@
+---
+abstract: 'The same dataset can be analysed in different justifiable ways to answer the same research question, potentially challenging the robustness of empirical science. In this crowd initiative, we investigated the degree to which research findings in the social and behavioural sciences are contingent on analysts’ choices. To explore this question, we took a sample of 100 studies published between 2009 and 2018 in criminology, demography, economics and finance, management, marketing and organisational behaviour, political science, psychology, and sociology. For one claim of each study, at least five re-analysts were invited to independently re-analyze the original data. The statistical appropriateness of the re-analyses was assessed in peer evaluations and the robustness indicators were inspected along a range of research characteristics and study designs. Only 31% of the independent re-analyses yielded the same result (within a tolerance region of +/- 0.05 Cohen’s d) as the original report. Even with a four times broader tolerance region, this indicator did not go above 56%. Regarding the conclusions drawn, only 34% of the studies remained analytically robust, meaning that all re-analysts reported evidence for the originally reported claim. Using a more liberal definition of robustness produced comparable result (39% when >80% re-analysis agreement with the original conclusion defined analytical robustness). This explorative study suggests that the common single-path analyses in social and behavioural research cannot be assumed to be robust to alternative — similarly justifiable — analyses. Therefore, we recommend the development and use of practices to explore and communicate this neglected source of uncertainty. '
+authors:
+- Balazs Aczel
+- Barnabas Szaszi
+- Harry T. Clelland
+- Marton Kovacs
+- Hannah Schulz-Kümpel
+- Felix Holzmeister
+- Gustav Nilsonne
+- Sabine Hoffmann
+- Livia Kosa
+- Zoltan A. Torma
+- Yousuf Abdelfatah
+- Chris N. Aberson
+- Oguz A. Acar
+- Ensar Acem
+- Matus Adamkovic
+- Timofey Adamovich
+- Krisna Adiasto
+- Love Ahnström
+- Atakan M. Akil
+- Adil S. Al-Busaidi
+- Ali H. Al-Hoorie
+- Casper J. Albers
+- Peter J. Allen
+- Taym Alsalti
+- Micah Altman
+- Shilaan Alzahawi
+- Ettore Ambrosini
+- Saule Anafinova
+- Rahul Anand
+- Martin Angerer
+- Ariadna Angulo-Brunet
+- Alberto Antonietti
+- Jozsef Arato
+- Andreu Arenas
+- Marco M. Aviña
+- Flavio Azevedo
+- Marko Bachl
+- Bence Bago
+- Štěpán Bahník
+- Bradley J. Baker
+- Elza Balayan
+- Cassandra L. Baldwin
+- Benjamin Banai
+- Kasia Banas
+- František Bartoš
+- Ernest Baskin
+- Jojanneke A. Bastiaansen
+- Nadège Bault
+- Christopher W. Bauman
+- Quintin H. Beazer
+- Maciej Behnke
+- Theiss Bendixen
+- Sebastian Berger
+- Anna Bernard
+- Ursa Bernardic
+- Paul A. Bloom
+- Annika Boldt
+- Ciril Bosch Rosa
+- Rotem Botvinik-Nezer
+- Adam Bouyamourn
+- Özge Bozkurt
+- Laurel Brehm
+- Johannes Breuer
+- Ryan Briggs
+- Hilmar Brohmer
+- Erin Michelle Buchanan
+- Johannes Buckenmaier
+- Jeffrey Buckley
+- Jacek Buczny
+- Matthias Burghart
+- Bilal Hayat Butt
+- Nick Byrd
+- Valentina Cafarelli
+- Patrick Callahan
+- Tabaré Capitán
+- Kevin Carriere
+- Andrea Cataldo
+- Gabriel Cepaluni
+- Eugene Chan
+- Jesse J. Chandler
+- Chia-chen Chang
+- Xi Chen
+- Shirley (Shuo) Chen
+- Fadong Chen
+- Hao Chen
+- Valerii Chirkov
+- Daniela Cialfi
+- Beth Clarke
+- Sophie G. Coelho
+- Clara Cohen
+- Jason Collins
+- Susan W. Cook
+- Gaia Corlazzoli
+- Jamie Cummins
+- Christian Czymara
+- Jonathan D’hondt
+- Anna Dalla Rosa
+- Abi M. B. Davis
+- Charles P. Davis
+- Martin V. Day
+- Freya De Keyzer
+- Joshua R. de Leeuw
+- Tjeerd Rudmer de Vries
+- Ramit Debnath
+- Filip Dechterenko
+- Elif E. Demiral
+- Marc Desgroseilliers
+- Veronica Diveica
+- Stephan Dochow-Sondershaus
+- Simone Dohle
+- LiChen Dong
+- Jonas Dora
+- Angela R. Dorrough
+- Anna Dreber
+- Hongfei Du
+- John E. Edlund
+- Anita Eerland
+- Emir Efendic
+- Jacob Elder
+- Mahmoud Elsherif
+- Mareike Ernst
+- Eduardo Estrada
+- Luis Eudave
+- Thomas R. Evans
+- Arodi Farrera
+- El Mehdi Ferrouhi
+- Lenka Fiala
+- Fabricio M. Fialho
+- Josh Fiechter
+- Miloš Fišar
+- Pablo Ezequiel Flores-Kanter
+- Michał Folwarczny
+- Jessica Fossum
+- Vithor R. Franco
+- René Freichel
+- Danilo Freire
+- Joris Frese
+- Alexander Furnas
+- Johann D. Gaebler
+- Lisa C. Gajary
+- Carl Michael Galang
+- Benjamin Ganschow
+- S. Mason Garrison
+- Agata Gasiorowska
+- Bruno Gasparotto Ponne
+- Romain Gauriot
+- Alice Geminiani
+- Diogo Geraldes
+- Morton Ann Gernsbacher
+- Cinzia Giani
+- Enrico Glerean
+- Vukašin Gligorić
+- Timo Gnambs
+- Amélie Godefroidt
+- Bastián González-Bustamante
+- Andreas Goreis
+- Matěj Grabovský
+- Lorenz Graf-Vlachy
+- Manuel Grieder
+- Dmitry Grigoryev
+- Sandra Grinschgl
+- David J. Grüning
+- Joao Guassi Moreira
+- Clément Guichet
+- Lilas Gurgand
+- Hooman Habibnia
+- Andrew C. Hafenbrack
+- Sebastian Hafenbrädl
+- Carolin Häffner
+- Felix Hagemeister
+- Matthew Haigh
+- Nandor Hajdu
+- Narges Hajimoladarvish
+- Jonathan Hall
+- Maik Hamjediers
+- Robert M. Hardwick
+- Mehmet Harma
+- Nicholas R. Harp
+- Áron D. Hartvig
+- Raphael H. Heiberger
+- Arthur Heim
+- Øystein Hernaes
+- Dennis Hernaus
+- Tom Heyman
+- Joshua Hicks
+- Jeremy Hogeveen
+- Julia C. Höpler
+- Sean Dae Houlihan
+- Christoph Huber
+- Conor Hughes
+- Teresa Hummler
+- Karoline Huth
+- Moritz Ingendahl
+- Tatsunori Ishii
+- Ozan Isler
+- Kamil Izydorczak
+- Iain R. Jackson
+- Andrew Jahn
+- Maitri Jain
+- Alexander Jakubow
+- Daisung Jang
+- JunHyeok Jang
+- Marc Jekel
+- Fanli Jia
+- William Jiménez-Leal
+- Rebecca Johnson
+- Alex Jones
+- Sebastian Jungkunz
+- Pavol Kačmár
+- Caspar Kaiser
+- Yağmur Kalaycı
+- Jaroslaw Kantorowicz
+- Anil Karabulut
+- Julian Karch
+- Hamid Karimi-Rouzbahani
+- Johannes A. Karl
+- Austėja Kažemekaitytė
+- Aliaksandr Kazlou
+- Zoltan Kekecs
+- Jin Kim
+- Michael H. Kirchler
+- Bence Kiss-Dobronyi
+- Kai N. Klasmeier
+- Jack W. Klein
+- Cemal Koba
+- Marta Kołczyńska
+- Pavlos Kolias
+- Max Korbmacher
+- Ziva Korda
+- Marta Kowal
+- André Kretzschmar
+- Vladislav Krivoshchekov
+- Angelos-Miltiadis Krypotos
+- Marcus Kubsch
+- Yoshihiko Kunisato
+- David Lacko
+- Jan R. Landwehr
+- Martin Lange
+- Hongmi Lee
+- Daniel Lee
+- Sangil Lee
+- Edward Lemay
+- Daniel Lempert
+- Andrea Leo
+- Elise Lesage
+- Joel M. Levin
+- Peng Li
+- Jing Lin
+- Luke Lindsay
+- Daria Lisovoj
+- Meng Liu
+- Sihong Liu
+- Tingshu Liu
+- Sergio Lo Iacono
+- Paul Lodder
+- Rubén López-Bueno
+- Ruben Lopez-Nicolas
+- Katharina Loter
+- Nigel Mantou Lou
+- Andrey Lovakov
+- Jackson Lu
+- Jonas Ludwig
+- Finn Luebber
+- Jiří Lukavský
+- Charles Luo
+- Xuanyu Lyu
+- Esther Maassen
+- Martin Máčel
+- Michael Mack
+- Christopher R. Madan
+- Andreas Mädebach
+- Joseph Maffly-Kipp
+- Daniel J. Mallinson
+- Igor Marchetti
+- Tyler Marghetis
+- Matteo M. Marini
+- Diego Marino Fages
+- Mayte Martínez
+- Mario Martinoli
+- Aidas Masiliunas
+- Sébastien Massoni
+- Kaleb C. Mathieu
+- Camille Maumet
+- Stefan Mayer
+- Duncan Mayer
+- Maren Mayer
+- Ethan M. McCormick
+- Ian McDonough
+- Amanda L. McGowan
+- Miranda McIntyre
+- Paul McKee
+- Armando N. Meier
+- Pascal F. Meier
+- Helena Melero
+- Christoph Merkle
+- Raphael Merz
+- Michalis P. Michaelides
+- Patrik Michaelsen
+- Gosia Mikolajczak
+- Wladislaw Mill
+- Philip Millroth
+- Kirill G. Miroshnik
+- Michal Misiak
+- Youri L. Mora
+- David Moreau
+- Chris Moreh
+- Coby Morvinski
+- Faisal Mushtaq
+- Tamás Nagy
+- Christa Nater
+- Elias Naumann
+- Gorka Navarrete
+- Stephan Nebe
+- Andre Nedderhoff
+- Richard Nennstiel
+- Martin Neugebauer
+- Eliana Nicolaisen-Sobesky
+- Yngwie A. Nielsen
+- Guiomar Niso
+- Benjamin Nowak
+- Mehmet Okan
+- Kenneth Ong
+- Adrian Onicas
+- Christian Oswald
+- Kasper Otten
+- Shubham Pandey
+- Myrto Pantazi
+- Paolo Papale
+- Philip Pärnamets
+- Shiva Pauer
+- Yuri G. Pavlov
+- Samuel Pawel
+- Jonathan Peelle
+- Hannah K. Peetz
+- Anton Peez
+- Francesca Pesciarelli
+- Brenton D. Peterson
+- Benjamin Petruželka
+- Jonas Petter
+- Jan Pfänder
+- Gerit Pfuhl
+- Joseph Phillips
+- Matthew T. Pietryka
+- Angelo Pirrone
+- Ilse L. Pit
+- Anna Plachti
+- Irene Sophia Plank
+- Matteo Ploner
+- Russell A. Poldrack
+- Monique Pollmann
+- Simon Porcher
+- Patrick Präg
+- Andrew Pua
+- Jessica Pugel
+- Rohan Puri
+- Marcell Püski
+- Setayesh Radkani
+- Louis Raes
+- Ismaël Rafaï
+- Klara Raiber
+- Steve Rathje
+- Mikhail Reshetnikov
+- Caleb J. Reynolds
+- James P. Reynolds
+- Kévin Rigaud
+- Charlie Rioux
+- Sebastian Rivera
+- Olly Robertson
+- Rafael Román-Caballero
+- Ivan Ropovik
+- Lukas Röseler
+- Robert M. Ross
+- Amanda Rotella
+- Franziska F. Rüffer
+- Felix Rusche
+- Massimo Rusconi
+- Irene Russo
+- Alexander H. J. Sahm
+- Janos Salamon
+- Margaret Samahita
+- Ali Sanaei Sanaei
+- Arshiya Sangchooli
+- Alexandra Sarafoglou
+- Michele Scandola
+- Henning Schaak
+- Michael Schaerer
+- Eric Schares
+- Hayden T. Schilling
+- Xenia Schmalz
+- Kathleen Schmidt
+- Tom Schonberg
+- Marcel Raphael Schreiner
+- Joris Schröder
+- Anna-Lena Schubert
+- Brendan Schuetze
+- Douglas H. Schultz
+- Lars Schulze
+- Shawn T. Schwartz
+- Nicole Schwitter
+- Bermond Scoggins
+- Yashvin Seetahul
+- admin
+- David R. Shanks
+- Stacy T. Shaw
+- Joseph Shaw
+- Qiang Shen
+- Christoph Siemroth
+- Martina Sladekova
+- Angela Somo
+- Arjun Sondhi
+- Burak Sonmez
+- Lisa Spantig
+- Maarten Speekenbrink
+- Angelos Stamos
+- Lukasz Stasielowicz
+- Leonie C. Steckermeier
+- Simon Steinkamp
+- Andrea H. Stoevenbelt
+- Chris N. H. Street
+- Jordan Suchow
+- Dan Sun
+- Hans Fredrik Sunde
+- James Sundquist
+- Vsevolod Suschevskiy
+- Scott Swain
+- Peter Szecsi
+- Raluca D. Szekely-Copîndean
+- Ewa Szumowska
+- Alessandro Tacconelli
+- Eli Talbert
+- John Tang
+- Jorge N. Tendeiro
+- Martina Testori
+- Enrico Toffalini
+- Aleksandar Tomašević
+- Selin Topel
+- Lasse Torkkeli
+- Leonardo Tozzi
+- Jakub Traczyk
+- Alexander Trinidad
+- Darinka Trübutschek
+- Konrad Turek
+- Maximiliane Uhlich
+- Eric L. Uhlmann
+- Karolina Urbanska
+- Jasper Van Assche
+- Marcel A. L. M. van Assen
+- Noah N. N. van Dongen
+- Kenny van Lieshout
+- Don van Ravenzwaaij
+- Roel van Veldhuizen
+- Marton A. Varga
+- Leigh A. Vaughn
+- Fruzsina Venczel
+- Michela Vezzoli
+- Paul Vierus
+- Antonino Visalli
+- Emily Voldal
+- Fabio Votta
+- Eric-Jan Wagenmakers
+- Anica Waldendorf
+- Matthew Walker
+- Matthew B. Wall
+- Henri Wallen
+- Ke Wang
+- Iris Wang
+- Y. Andre Wang
+- Markus Weinmann
+- Martin Weiß
+- Christian Westheide
+- Aaron Wichman
+- Ben Williams
+- David Wisniewski
+- Thomas K. A. Woiczyk
+- Mateusz Woźniak
+- Joshua D. Wright
+- Youyou Wu
+- Jesper N. Wulff
+- Tao Yang
+- Siu Kit Yeung
+- Kenneth S. L. Yuen
+- Michał Zawistowski
+- Rizqy A. Zein
+- Xian Zhao
+- Zefan Zheng
+- Steven Zhou
+- Conrad Ziller
+- David Zimmerman
+- Cristina Zogmaister
+- Ro’i Zultan
+- Timothy M. Errington
+- Brian A. Nosek,
+date: "2025-01-20T00:00:00Z"
+doi: ""
+featured: false
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
+projects: [Project006]
+publication: '*Nature, ??*(??), ??--??'
+publication_short: ""
+publication_types:
+- "3"
+publishDate: "2025-01-20T00:00:00Z"
+slides: ""
+summary: 'The same dataset can be analysed in different justifiable ways to answer the same research question, potentially challenging the robustness of empirical science. In this crowd initiative, we investigated the degree to which research findings in the social and behavioural sciences are contingent on analysts’ choices. To explore this question, we took a sample of 100 studies published between 2009 and 2018 in criminology, demography, economics and finance, management, marketing and organisational behaviour, political science, psychology, and sociology. For one claim of each study, at least five re-analysts were invited to independently re-analyze the original data. The statistical appropriateness of the re-analyses was assessed in peer evaluations and the robustness indicators were inspected along a range of research characteristics and study designs. Only 31% of the independent re-analyses yielded the same result (within a tolerance region of +/- 0.05 Cohen’s d) as the original report. Even with a four times broader tolerance region, this indicator did not go above 56%. Regarding the conclusions drawn, only 34% of the studies remained analytically robust, meaning that all re-analysts reported evidence for the originally reported claim. Using a more liberal definition of robustness produced comparable result (39% when >80% re-analysis agreement with the original conclusion defined analytical robustness). This explorative study suggests that the common single-path analyses in social and behavioural research cannot be assumed to be robust to alternative — similarly justifiable — analyses. Therefore, we recommend the development and use of practices to explore and communicate this neglected source of uncertainty.'
+tags:
+- "Meta-science"
+title: "Investigating the analytical robustness of the social and behavioural sciences"
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---
