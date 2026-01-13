@@ -493,7 +493,7 @@ authors:
 - Ro’i Zultan
 - Timothy M. Errington
 - Brian A. Nosek,
-date: "2025-01-20T00:00:00Z"
+date: "2025-10-31T00:00:00Z"
 doi: ""
 featured: false
 image:
