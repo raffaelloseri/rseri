@@ -1,5 +1,5 @@
 ---
-abstract: "The traditional way to verify the adequacy of a theory to the data has been to perform a single experiment in which the assumptions underlying the theory are tested."
+abstract: "The traditional way to verify the adequacy of a theory to the data has been to perform a single experiment in which the assumptions underlying the theory are tested. While one experiment in itself is not sufficient to guarantee the acceptance or the rejection of a theory, attempts to replicate an already performed experiment have often been met with skepticism."
 all_day: true
 authors:
 - admin
