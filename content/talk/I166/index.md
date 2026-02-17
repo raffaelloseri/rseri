@@ -25,6 +25,9 @@ framework relies and enhances the analogical understanding within
 the field of model theory (Bartha, 2010, Knuuttila and Loettgers, 2017).
 
 
+**References**
+
+
 Paul Bartha. *By Parallel Reasoning: The Construction and Evaluation of Analogical Arguments*. Oxford University Press, New York, 2010.
 
 
