@@ -5,64 +5,64 @@ abstract: "Agent-Based Modeling (ABM) has become an established technique in eco
 **References**
 
 
-Eckhart Arnold. What’s Wrong with Social Simulations? Monist, 97(3):359–377, 2014. doi: 10.5840/monist201497323.
+Eckhart Arnold. What’s Wrong with Social Simulations? *Monist*, 97(3):359–377, 2014. doi: 10.5840/monist201497323.
 
 
-Florian J. Boge. How to infer explanations from computer simulations. Studies in History and Philosophy of Science Part A, 82:25–33, August 2020. doi: 10.1016/j.shpsa.2019.12.003.
+Florian J. Boge. How to infer explanations from computer simulations. *Studies in History and Philosophy of Science Part A*, 82:25–33, August 2020. doi: 10.1016/j.shpsa.2019.12.003.
 
 
-Edmund Chattoe. Why Are We Simulating Anyway? Some Answers from Economics. In Klaus G. Troitzsch, Ulrich Mueller, G. Nigel Gilbert, and Jim E. Doran, editors, Social Science Microsimulation, pages 78–104. Springer Berlin Heidelberg, Berlin, Heidelberg, 1996. doi: 10.1007/978-3-662-03261-94.
+Edmund Chattoe. Why Are We Simulating Anyway? Some Answers from Economics. In Klaus G. Troitzsch, Ulrich Mueller, G. Nigel Gilbert, and Jim E. Doran, editors, *Social Science Microsimulation*, pages 78–104. Springer Berlin Heidelberg, Berlin, Heidelberg, 1996. doi: 10.1007/978-3-662-03261-94.
 
 
-Giovanni Dosi and Andrea Roventini. More is different ... and complex! the case for agent-based macroeconomics. Journal of Evolutionary Economics, 29(1):1–37, March 2019. doi: 10.1007/s00191-019-00609-y.
+Giovanni Dosi and Andrea Roventini. More is different ... and complex! the case for agent-based macroeconomics. *Journal of Evolutionary Economics*, 29(1):1–37, March 2019. doi: 10.1007/s00191-019-00609-y.
 
 
-Bruce Edmonds. Bootstrapping Knowledge About Social Phenomena Using Simulation Models. Journal of Artificial Societies and Social Simulation, 13(1):8, 2010. doi: 10.18564/jasss.1523.
+Bruce Edmonds. Bootstrapping Knowledge About Social Phenomena Using Simulation Models. *Journal of Artificial Societies and Social Simulation*, 13(1):8, 2010. doi: 10.18564/jasss.1523.
 
 
-Daniel Frey and Dunja Šešelja. What is the epistemic function of highly idealized agent-based models of scientific inquiry? Philosophy of the Social Sciences, 48(4):407–433, July 2018. 1552-7441. doi: 10.1177/0048393118767085.
+Daniel Frey and Dunja Šešelja. What is the epistemic function of highly idealized agent-based models of scientific inquiry? *Philosophy of the Social Sciences*, 48(4):407–433, July 2018. 1552-7441. doi: 10.1177/0048393118767085.
 
 
-Clive W.J. Granger. Testing for causality. Journal of Economic Dynamics and Control, 2:329–352, January 1980. doi: 10.1016/0165-1889(80)90069-X.
+Clive W.J. Granger. Testing for causality. *Journal of Economic Dynamics and Control*, 2:329–352, January 1980. doi: 10.1016/0165-1889(80)90069-X.
 
 
-Mattia Guerini and Alessio Moneta. A method for agent-based models validation. Journal of Economic Dynamics and Control, 82:125–141, September 2017. doi: 10.1016/j.jedc.2017.06.001.
+Mattia Guerini and Alessio Moneta. A method for agent-based models validation. *Journal of Economic Dynamics and Control*, 82:125–141, September 2017. doi: 10.1016/j.jedc.2017.06.001.
 
 
-James Heckman and Rodrigo Pinto. Econometric causality: The central role of thought experiments. Journal of Econometrics, 243(1-2):105719, July 2024. doi: 10.1016/j.jeconom.2024.105719.
+James Heckman and Rodrigo Pinto. Econometric causality: The central role of thought experiments. *Journal of Econometrics*, 243(1-2):105719, July 2024. doi: 10.1016/j.jeconom.2024.105719.
 
 
-James J. Heckman. Econometric Causality. International Statistical Review, 76(1):1–27, April 2008. doi: 10.1111/j.1751-5823.2007.00024.x.
+James J. Heckman. Econometric Causality. *International Statistical Review*, 76(1):1–27, April 2008. doi: 10.1111/j.1751-5823.2007.00024.x.
 
 
 James J Heckman and Rodrigo Pinto. Causality and Econometrics. IZA Discussion Papers, No. 15081, 2022.
 
 
-Tobias Henschen. What is macroeconomic causality? Journal of Economic Methodology, 25(1):1–20, January 2018. doi: 10.1080/1350178X.2017.1407435.
+Tobias Henschen. What is macroeconomic causality? *Journal of Economic Methodology*, 25(1):1–20, January 2018. doi: 10.1080/1350178X.2017.1407435.
 
 
-Tobias Henschen. Some problems of causal inference in agent-based macroeconomics. Economics and Philosophy, pages 1–23, March 2025. doi: 10.1017/S0266267125000021.
+Tobias Henschen. Some problems of causal inference in agent-based macroeconomics. *Economics and Philosophy*, pages 1–23, March 2025. doi: 10.1017/S0266267125000021.
 
 
-Paul Humphreys. Extending Ourselves: Computational Science, Empiricism, and Scientific Method. Oxford University Press, New York, 2004.
+Paul Humphreys. *Extending Ourselves: Computational Science, Empiricism, and Scientific Method*. Oxford University Press, New York, 2004.
 
 
-Gianluca Manzo. Agent-Based Models and Causal Inference. Wiley Series in Computational and Quantitative Social Sciences. John Wiley & Sons, Inc, Hoboken, NJ, 2022.
+Gianluca Manzo. *Agent-Based Models and Causal Inference*. Wiley Series in Computational and Quantitative Social Sciences. John Wiley & Sons, Inc, Hoboken, NJ, 2022.
 
 
-Alessio Moneta and Federica Russo. Causal models and evidential pluralism in econometrics. Journal of Economic Methodology, 21(1):54–76, January 2014. doi: 10.1080/1350178X.2014.886473.
+Alessio Moneta and Federica Russo. Causal models and evidential pluralism in econometrics. *Journal of Economic Methodology*, 21(1):54–76, January 2014. doi: 10.1080/1350178X.2014.886473.
 
 
-Judea Pearl. The Foundations of Causal Inference. Sociological Methodology, 40(1):75–149, August 2010. doi: 10.1111/j.1467-9531.2010.01228.x.
+Judea Pearl. The Foundations of Causal Inference. *Sociological Methodology*, 40(1):75–149, August 2010. doi: 10.1111/j.1467-9531.2010.01228.x.
 
 
-Massimo Rusconi, Davide Secchi, and Raffaello Seri. The analogical roots of agent-based modeling in economics and social sciences: The case of innovation dynamics. Journal of Economic Methodology, pages 1–24, August 2025. doi: 10.1080/1350178X.2025.2547639.
+Massimo Rusconi, Davide Secchi, and Raffaello Seri. The analogical roots of agent-based modeling in economics and social sciences: The case of innovation dynamics. *Journal of Economic Methodology*, pages 1–24, August 2025. doi: 10.1080/1350178X.2025.2547639.
 
 
-Michael Weisberg. Simulation and Similarity. Oxford University Press, 2013.
+Michael Weisberg. *Simulation and Similarity*. Oxford University Press, 2013.
 
 
-James Woodward. Making Things Happen: A Theory of Causal Explanation. Oxford Studies in Philosophy of Science. Oxford University Press, Oxford, 2003."
+James Woodward. *Making Things Happen: A Theory of Causal Explanation*. Oxford Studies in Philosophy of Science. Oxford University Press, Oxford, 2003."
 all_day: true
 authors:
 - Massimo Rusconi
