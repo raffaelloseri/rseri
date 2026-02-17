@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: "Ciao"
 all_day: true
 authors:
 - admin
