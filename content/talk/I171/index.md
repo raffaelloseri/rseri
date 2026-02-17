@@ -29,13 +29,13 @@ Clive W.J. Granger. Testing for causality. *Journal of Economic Dynamics and Con
 Mattia Guerini and Alessio Moneta. A method for agent-based models validation. *Journal of Economic Dynamics and Control*, 82:125–141, September 2017. doi: 10.1016/j.jedc.2017.06.001.
 
 
-James Heckman and Rodrigo Pinto. Econometric causality: The central role of thought experiments. *Journal of Econometrics*, 243(1-2):105719, July 2024. doi: 10.1016/j.jeconom.2024.105719.
+James J. Heckman and Rodrigo Pinto. Econometric causality: The central role of thought experiments. *Journal of Econometrics*, 243(1-2):105719, July 2024. doi: 10.1016/j.jeconom.2024.105719.
 
 
 James J. Heckman. Econometric Causality. *International Statistical Review*, 76(1):1–27, April 2008. doi: 10.1111/j.1751-5823.2007.00024.x.
 
 
-James J Heckman and Rodrigo Pinto. Causality and Econometrics. IZA Discussion Papers, No. 15081, 2022.
+James J. Heckman and Rodrigo Pinto. Causality and Econometrics. IZA Discussion Papers, No. 15081, 2022.
 
 
 Tobias Henschen. What is macroeconomic causality? *Journal of Economic Methodology*, 25(1):1–20, January 2018. doi: 10.1080/1350178X.2017.1407435.
