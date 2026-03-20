@@ -30,7 +30,7 @@ slides: ""
 summary: ""
 tags:
 - Bioeconomy
-title: "TBD"
+title: "Proteins from (Micro)Plastics: a Circular Bioeconomy Perspective"
 url_code: ""
 url_pdf: ""
 url_slides: ""
