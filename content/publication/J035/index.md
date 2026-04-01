@@ -1,18 +1,19 @@
 ---
-abstract: 'The same dataset can be analysed in different justifiable ways to answer the same research question, potentially challenging the robustness of empirical science. In this crowd initiative, we investigated the degree to which research findings in the social and behavioural sciences are contingent on analysts’ choices. To explore this question, we took a sample of 100 studies published between 2009 and 2018 in criminology, demography, economics and finance, management, marketing and organisational behaviour, political science, psychology, and sociology. For one claim of each study, at least five re-analysts were invited to independently re-analyze the original data. The statistical appropriateness of the re-analyses was assessed in peer evaluations and the robustness indicators were inspected along a range of research characteristics and study designs. Only 31% of the independent re-analyses yielded the same result (within a tolerance region of +/- 0.05 Cohen’s d) as the original report. Even with a four times broader tolerance region, this indicator did not go above 56%. Regarding the conclusions drawn, only 34% of the studies remained analytically robust, meaning that all re-analysts reported evidence for the originally reported claim. Using a more liberal definition of robustness produced comparable result (39% when >80% re-analysis agreement with the original conclusion defined analytical robustness). This explorative study suggests that the common single-path analyses in social and behavioural research cannot be assumed to be robust to alternative — similarly justifiable — analyses. Therefore, we recommend the development and use of practices to explore and communicate this neglected source of uncertainty. '
+abstract: 'The same dataset can be analysed in different justifiable ways to answer the same research question, potentially challenging the robustness of empirical science. In this crowd initiative, we investigated the degree to which research findings in the social and behavioural sciences are contingent on analysts’ choices. We examined a stratified random sample of 100 studies published between 2009 and 2018, in which, for one claim per study, at least five reanalysts independently reanalysed the original data. The statistical appropriateness of the reanalyses was assessed in peer evaluations, and the robustness indicators were inspected along a range of research characteristics and study designs. We found that 34% of the independent reanalyses yielded the same result (within a tolerance region of ±0.05 Cohen’s d) as the original report; with a four times broader tolerance region, this indicator increased to 57%. Of the reanalyses conducted, 74% reached the same conclusion as the original investigation, 24% yielded no effects or inconclusive results and 2% reported the opposite effect. This exploratory study indicates that the common single-path analyses in social and behavioural research should not be simply assumed to be robust to alternative analyses4. Therefore, we recommend the development and use of practices to explore and communicate this neglected source of uncertainty.'
 authors:
 - Balazs Aczel
 - Barnabas Szaszi
 - Harry T. Clelland
 - Marton Kovacs
-- Hannah Schulz-Kümpel
 - Felix Holzmeister
-- Gustav Nilsonne
+- Don van Ravenzwaaij
+- Hannah Schulz-Kümpel
 - Sabine Hoffmann
+- Gustav Nilsonne
 - Livia Kosa
 - Zoltan A. Torma
 - Yousuf Abdelfatah
-- Chris N. Aberson
+- Christopher L. Aberson
 - Oguz A. Acar
 - Ensar Acem
 - Matus Adamkovic
@@ -58,32 +59,32 @@ authors:
 - Ursa Bernardic
 - Paul A. Bloom
 - Annika Boldt
-- Ciril Bosch Rosa
+- Ciril Bosch-Rosa
 - Rotem Botvinik-Nezer
 - Adam Bouyamourn
-- Özge Bozkurt
+- Ozge Bozkurt
 - Laurel Brehm
 - Johannes Breuer
 - Ryan Briggs
 - Hilmar Brohmer
-- Erin Michelle Buchanan
+- Erin Buchanan
 - Johannes Buckenmaier
 - Jeffrey Buckley
 - Jacek Buczny
 - Matthias Burghart
-- Bilal Hayat Butt
+- Bilal H. Butt
 - Nick Byrd
 - Valentina Cafarelli
 - Patrick Callahan
 - Tabaré Capitán
 - Kevin Carriere
-- Andrea Cataldo
+- Andrea M. Cataldo
 - Gabriel Cepaluni
 - Eugene Chan
 - Jesse J. Chandler
 - Chia-chen Chang
 - Xi Chen
-- Shirley (Shuo) Chen
+- Shirley Shuo Chen
 - Fadong Chen
 - Hao Chen
 - Valerii Chirkov
@@ -108,6 +109,7 @@ authors:
 - Filip Dechterenko
 - Elif E. Demiral
 - Marc Desgroseilliers
+- Dominik Dianovics
 - Veronica Diveica
 - Stephan Dochow-Sondershaus
 - Simone Dohle
@@ -118,9 +120,9 @@ authors:
 - Hongfei Du
 - John E. Edlund
 - Anita Eerland
-- Emir Efendic
+- Emir Efendić
 - Jacob Elder
-- Mahmoud Elsherif
+- Mahmoud M. Elsherif
 - Mareike Ernst
 - Eduardo Estrada
 - Luis Eudave
@@ -128,17 +130,17 @@ authors:
 - Arodi Farrera
 - El Mehdi Ferrouhi
 - Lenka Fiala
-- Fabricio M. Fialho
-- Josh Fiechter
+- Fabrício M. Fialho
+- Joshua L. Fiechter
 - Miloš Fišar
 - Pablo Ezequiel Flores-Kanter
 - Michał Folwarczny
-- Jessica Fossum
+- Jessica L. Fossum
 - Vithor R. Franco
 - René Freichel
 - Danilo Freire
 - Joris Frese
-- Alexander Furnas
+- Alexander C. Furnas
 - Johann D. Gaebler
 - Lisa C. Gajary
 - Carl Michael Galang
@@ -157,13 +159,12 @@ authors:
 - Amélie Godefroidt
 - Bastián González-Bustamante
 - Andreas Goreis
-- Matěj Grabovský
 - Lorenz Graf-Vlachy
 - Manuel Grieder
 - Dmitry Grigoryev
 - Sandra Grinschgl
 - David J. Grüning
-- Joao Guassi Moreira
+- João F. Guassi Moreira
 - Clément Guichet
 - Lilas Gurgand
 - Hooman Habibnia
@@ -174,7 +175,7 @@ authors:
 - Matthew Haigh
 - Nandor Hajdu
 - Narges Hajimoladarvish
-- Jonathan Hall
+- Jonathan D. Hall
 - Maik Hamjediers
 - Robert M. Hardwick
 - Mehmet Harma
@@ -182,12 +183,12 @@ authors:
 - Áron D. Hartvig
 - Raphael H. Heiberger
 - Arthur Heim
-- Øystein Hernaes
+- Øystein Hernæs
 - Dennis Hernaus
 - Tom Heyman
 - Joshua Hicks
 - Jeremy Hogeveen
-- Julia C. Höpler
+- Julia Höpler
 - Sean Dae Houlihan
 - Christoph Huber
 - Conor Hughes
@@ -213,8 +214,8 @@ authors:
 - Caspar Kaiser
 - Yağmur Kalaycı
 - Jaroslaw Kantorowicz
-- Anil Karabulut
-- Julian Karch
+- Anıl Karabulut
+- Julian D. Karch
 - Hamid Karimi-Rouzbahani
 - Johannes A. Karl
 - Austėja Kažemekaitytė
@@ -228,8 +229,9 @@ authors:
 - Cemal Koba
 - Marta Kołczyńska
 - Pavlos Kolias
+- Matěj Kolouch Grabovský
 - Max Korbmacher
-- Ziva Korda
+- Živa Korda
 - Marta Kowal
 - André Kretzschmar
 - Vladislav Krivoshchekov
@@ -242,7 +244,7 @@ authors:
 - Hongmi Lee
 - Daniel Lee
 - Sangil Lee
-- Edward Lemay
+- Edward P. Lemay Jr.
 - Daniel Lempert
 - Andrea Leo
 - Elise Lesage
@@ -261,15 +263,15 @@ authors:
 - Katharina Loter
 - Nigel Mantou Lou
 - Andrey Lovakov
-- Jackson Lu
+- Jackson G. Lu
 - Jonas Ludwig
 - Finn Luebber
 - Jiří Lukavský
-- Charles Luo
+- Charles Q. Luo
 - Xuanyu Lyu
 - Esther Maassen
 - Martin Máčel
-- Michael Mack
+- Michael L. Mack
 - Christopher R. Madan
 - Andreas Mädebach
 - Joseph Maffly-Kipp
@@ -283,14 +285,13 @@ authors:
 - Aidas Masiliunas
 - Sébastien Massoni
 - Kaleb C. Mathieu
-- Camille Maumet
 - Stefan Mayer
-- Duncan Mayer
+- Duncan J. Mayer
 - Maren Mayer
 - Ethan M. McCormick
-- Ian McDonough
+- Ian M. McDonough
 - Amanda L. McGowan
-- Miranda McIntyre
+- Miranda M. McIntyre
 - Paul McKee
 - Armando N. Meier
 - Pascal F. Meier
@@ -323,7 +324,7 @@ authors:
 - Benjamin Nowak
 - Mehmet Okan
 - Kenneth Ong
-- Adrian Onicas
+- Adrian I. Onicas
 - Christian Oswald
 - Kasper Otten
 - Shubham Pandey
@@ -333,7 +334,7 @@ authors:
 - Shiva Pauer
 - Yuri G. Pavlov
 - Samuel Pawel
-- Jonathan Peelle
+- Jonathan E. Peelle
 - Hannah K. Peetz
 - Anton Peez
 - Francesca Pesciarelli
@@ -350,10 +351,10 @@ authors:
 - Irene Sophia Plank
 - Matteo Ploner
 - Russell A. Poldrack
-- Monique Pollmann
+- Monique M. H. Pollmann
 - Simon Porcher
 - Patrick Präg
-- Andrew Pua
+- Andrew Adrian Y. Pua
 - Jessica Pugel
 - Rohan Puri
 - Marcell Püski
@@ -362,6 +363,7 @@ authors:
 - Ismaël Rafaï
 - Klara Raiber
 - Steve Rathje
+- Raphael Rehms
 - Mikhail Reshetnikov
 - Caleb J. Reynolds
 - James P. Reynolds
@@ -381,7 +383,7 @@ authors:
 - Alexander H. J. Sahm
 - Janos Salamon
 - Margaret Samahita
-- Ali Sanaei Sanaei
+- Ali Sanaei
 - Arshiya Sangchooli
 - Alexandra Sarafoglou
 - Michele Scandola
@@ -392,8 +394,8 @@ authors:
 - Xenia Schmalz
 - Kathleen Schmidt
 - Tom Schonberg
-- Marcel Raphael Schreiner
-- Joris Schröder
+- Marcel R. Schreiner
+- Joris M. Schröder
 - Anna-Lena Schubert
 - Brendan Schuetze
 - Douglas H. Schultz
@@ -417,21 +419,20 @@ authors:
 - Angelos Stamos
 - Lukasz Stasielowicz
 - Leonie C. Steckermeier
-- Simon Steinkamp
+- Simon R. Steinkamp
 - Andrea H. Stoevenbelt
 - Chris N. H. Street
-- Jordan Suchow
-- Dan Sun
+- Jordan W. Suchow
 - Hans Fredrik Sunde
 - James Sundquist
 - Vsevolod Suschevskiy
-- Scott Swain
+- Scott D. Swain
 - Peter Szecsi
 - Raluca D. Szekely-Copîndean
 - Ewa Szumowska
 - Alessandro Tacconelli
 - Eli Talbert
-- John Tang
+- John P. Tang
 - Jorge N. Tendeiro
 - Martina Testori
 - Enrico Toffalini
@@ -450,10 +451,9 @@ authors:
 - Marcel A. L. M. van Assen
 - Noah N. N. van Dongen
 - Kenny van Lieshout
-- Don van Ravenzwaaij
 - Roel van Veldhuizen
 - Marton A. Varga
-- Leigh A. Vaughn
+- Leigh Ann Vaughn
 - Fruzsina Venczel
 - Michela Vezzoli
 - Paul Vierus
@@ -462,7 +462,7 @@ authors:
 - Fabio Votta
 - Eric-Jan Wagenmakers
 - Anica Waldendorf
-- Matthew Walker
+- Matthew J. Walker
 - Matthew B. Wall
 - Henri Wallen
 - Ke Wang
@@ -472,12 +472,13 @@ authors:
 - Martin Weiß
 - Christian Westheide
 - Aaron Wichman
-- Ben Williams
+- Juliane C. Wilcke
+- Benedict J. Williams
 - David Wisniewski
 - Thomas K. A. Woiczyk
 - Mateusz Woźniak
 - Joshua D. Wright
-- Youyou Wu
+- Wu Youyou
 - Jesper N. Wulff
 - Tao Yang
 - Siu Kit Yeung
@@ -491,23 +492,24 @@ authors:
 - David Zimmerman
 - Cristina Zogmaister
 - Ro’i Zultan
+- Nicholas Fox
 - Timothy M. Errington
-- Brian A. Nosek,
+- Brian A. Nosek
 date: "2025-10-31T00:00:00Z"
-doi: ""
+doi: "10.1038/s41586-025-09844-9"
 featured: false
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects: [Project006]
-publication: '*Nature, ??*(??), ??--??'
+publication: '*Nature, 652*, 135--142'
 publication_short: ""
 publication_types:
 - "3"
 publishDate: "2025-01-20T00:00:00Z"
 slides: ""
-summary: 'The same dataset can be analysed in different justifiable ways to answer the same research question, potentially challenging the robustness of empirical science. In this crowd initiative, we investigated the degree to which research findings in the social and behavioural sciences are contingent on analysts’ choices. To explore this question, we took a sample of 100 studies published between 2009 and 2018 in criminology, demography, economics and finance, management, marketing and organisational behaviour, political science, psychology, and sociology. For one claim of each study, at least five re-analysts were invited to independently re-analyze the original data. The statistical appropriateness of the re-analyses was assessed in peer evaluations and the robustness indicators were inspected along a range of research characteristics and study designs. Only 31% of the independent re-analyses yielded the same result (within a tolerance region of +/- 0.05 Cohen’s d) as the original report. Even with a four times broader tolerance region, this indicator did not go above 56%. Regarding the conclusions drawn, only 34% of the studies remained analytically robust, meaning that all re-analysts reported evidence for the originally reported claim. Using a more liberal definition of robustness produced comparable result (39% when >80% re-analysis agreement with the original conclusion defined analytical robustness). This explorative study suggests that the common single-path analyses in social and behavioural research cannot be assumed to be robust to alternative — similarly justifiable — analyses. Therefore, we recommend the development and use of practices to explore and communicate this neglected source of uncertainty.'
+summary: 'The same dataset can be analysed in different justifiable ways to answer the same research question, potentially challenging the robustness of empirical science. In this crowd initiative, we investigated the degree to which research findings in the social and behavioural sciences are contingent on analysts’ choices. We examined a stratified random sample of 100 studies published between 2009 and 2018, in which, for one claim per study, at least five reanalysts independently reanalysed the original data. The statistical appropriateness of the reanalyses was assessed in peer evaluations, and the robustness indicators were inspected along a range of research characteristics and study designs. We found that 34% of the independent reanalyses yielded the same result (within a tolerance region of ±0.05 Cohen’s d) as the original report; with a four times broader tolerance region, this indicator increased to 57%. Of the reanalyses conducted, 74% reached the same conclusion as the original investigation, 24% yielded no effects or inconclusive results and 2% reported the opposite effect. This exploratory study indicates that the common single-path analyses in social and behavioural research should not be simply assumed to be robust to alternative analyses4. Therefore, we recommend the development and use of practices to explore and communicate this neglected source of uncertainty.'
 tags:
 - "Meta-science"
 title: "Investigating the analytical robustness of the social and behavioural sciences"
@@ -517,6 +519,6 @@ url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://www.nature.com/articles/s41586-025-09844-9"
 url_video: ""
 ---
