@@ -24,6 +24,12 @@ _[Master Analisi e Valutazione delle Politiche Pubbliche](https://www.unive.it/p
 + Individui, comportamenti ed istituzioni - 20 hrs (A.Y. 2018-19, 2017-18, 2016-17)
 + Politiche per la legalità, di contrasto alla corruzione e all'evasione fiscale - 5 hrs (A.Y. 2016-17)
 
+## [Bordeaux School of Economics, Université de Bordeaux, Bordeaux (France)](https://www.u-bordeaux.fr/en)
+
+_[Doctoral School of Economic Sciences, Management & Demographics](https://www.bse.u-bordeaux.fr/en/doctoral-training/)_
+
++ Survival analysis - 12 hrs (A.Y. 2022-23)
+
 ## [Friedrich-Schiller-Universität Jena, Jena (Germany)](https://www.uni-jena.de/)
 
 _[Central-German Doctoral Program Economics](http://cgde.wifa.uni-leipzig.de/)_
@@ -48,9 +54,10 @@ _[PhD in Econometrics and Empirical Economics](https://economia.uniroma2.it/phd/
 
 _[Department of Economics](http://www.eco.uninsubria.it/)_
 
-+ Econometria per la Finanza - 40 hrs (A.Y. 2024-25)
-+ Econometrics of Competitive and Regulated Markets - 80 hrs (A.Y. 2024-25, 2023-24, 2022-23, 2021-22, 2020-21, 2019-20, 2018-19, 2017-18, 2016-17, 2015-16, 2014-15, 2013-14)
-+ Econometria - 40 hrs (A.Y. 2024-25, 2023-24, 2022-23, 2021-22, 2020-21, 2019-20, 2018-19, 2017-18, 2016-17, 2015-16, 2014-15, 2013-14, 2009-10, 2008-09, 2007-08, 2006-07)
++ Econometrics of Competitive and Regulated Markets - 80 hrs (A.Y. 2025-26, 2024-25, 2023-24, 2022-23, 2021-22, 2020-21, 2019-20, 2018-19, 2017-18, 2016-17, 2015-16, 2014-15, 2013-14)
++ Econometria e Big Data - 40 hrs (A.Y. 2025-26, 2024-25)
++ Econometria per la Finanza - 40 hrs (A.Y. 2025-26, 2024-25)
++ Econometria - 40 hrs (A.Y. 2023-24, 2022-23, 2021-22, 2020-21, 2019-20, 2018-19, 2017-18, 2016-17, 2015-16, 2014-15, 2013-14, 2009-10, 2008-09, 2007-08, 2006-07)
 + Econometria dell'Organizzazione Industriale (Econometrics of Industrial Organization) - 40 hrs (A.Y. 2012-13)
 + Statistica per l'Impresa (Marketing Statistics) - 20 hrs (A.Y. 2011-12)
 + Econometria delle durate (Advanced Econometrics) - 40 hrs (A.Y. 2009-10, 2008-09, 2007-08)
