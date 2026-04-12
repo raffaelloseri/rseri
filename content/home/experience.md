@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Director of InsIDE (Insubria Information & Data for Economics) Lab"
   company = "DiECO, Università degli Studi dell'Insubria"
-  company_url = ""
+  company_url = "https://dieco.uninsubria.it/en/structures/inside-lab"
   location = "Varese (Italy)"
   date_start = "2023-03-28"
   date_end = ""
