@@ -38,7 +38,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Fellow of the Institute for Replication (I4R)"
-  company = "I4R"
+  company = "Institute for Replication (I4R)"
   company_url = "https://i4replication.org"
   location = ""
   date_start = "2026-01-01"
