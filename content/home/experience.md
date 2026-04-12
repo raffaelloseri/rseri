@@ -18,8 +18,8 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Director of InsIDE (Insubria Information & Data for Economics) Lab"
-  company = "InsIDE Lab, DiECO, Università degli Studi dell'Insubria"
+  title = "Director"
+  company = "InsIDE (Insubria Information & Data for Economics) Lab, DiECO, Università degli Studi dell'Insubria"
   company_url = "https://dieco.uninsubria.it/en/structures/inside-lab"
   location = "Varese (Italy)"
   date_start = "2023-03-28"
@@ -28,8 +28,8 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Member of the Research Centre for Computational & Organisational Cognition"
-  company = "CORG, Syddansk Universitet"
+  title = "Member"
+  company = "Research Centre for Computational & Organisational Cognition (CORG), Syddansk Universitet"
   company_url = "https://www.sdu.dk/en/om-sdu/institutter-centre/iks/forskning/forskningsgrupper/corg"
   location = "Slagelse (Denmark)"
   date_start = "2018-07-01"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Fellow of the Institute for Replication (I4R)"
+  title = "Fellow"
   company = "Institute for Replication (I4R)"
   company_url = "https://i4replication.org"
   location = ""
@@ -65,8 +65,8 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Member of the Center for Nonlinear and Complex Systems"
-  company = "CNCS, Università degli Studi dell'Insubria"
+  title = "Member"
+  company = "Center for Nonlinear and Complex Systems, Università degli Studi dell'Insubria"
   company_url = "https://www.researchgate.net/lab/Center-for-Nonlinear-and-Complex-Systems-Giorgio-Mantica"
   location = "Como (Italy)"
   date_start = "2016-01-01"
