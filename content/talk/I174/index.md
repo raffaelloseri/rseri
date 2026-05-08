@@ -36,7 +36,6 @@ Finally, an impact analysis has been developed to emphasize the contribution of 
 
 
 Trippe, A. (2015) *Guidelines for Preparing Patent Landscape Reports*. World Intellectual Property Organization (WIPO) Publication No. 946."
-
 all_day: true
 authors:
 - Paolo Castelnovo
@@ -47,7 +46,7 @@ authors:
 - Andrea Vezzulli
 date: "2026-06-04"
 date_end: "2026-06-05"
-event: Plastics & Environment. Exploring environmental, sustainability and planetary health dimensions - 3rd Edition
+event: Plastics \& Environment. Exploring environmental, sustainability and planetary health dimensions - 3rd Edition
 event_url: https://eventi.unibo.it/workshop-plastiche-ambiente
 featured: false
 image:
