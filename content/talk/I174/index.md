@@ -2,6 +2,18 @@
 abstract: "The unsustainable use and disposal of plastics is causing persistent and widespread environmental contamination.
 
 
+In particular, the pervasiveness of microplastics (MPs) in wastewater has become a major environmental issue in aquatic ecosystems and may cause adverse health effects for humans and other living organisms.
+
+
+In this scenario, the Protein from Plastic (ProPla) project, funded by Fondazione Cariplo, aims at developing an innovative biotechnological application to recover PET microplastics (microPET) from wastewater and exploit the power of protein engineering and system biology approaches to generate a novel bacterial strain able to convert microPET into amino acids, that can be used in many industries (food, cosmetics, etc.) in a circular bioeconomy perspective.
+
+
+This paper presents the socio-economic framework of the ProPla project, which includes a patent landscape analysis (PLA) and a socio-economic assessment, aimed at highlighting the system of values and the economic opportunities embodied in the process.
+
+
+The PLA was crucial in mapping the main technological trends related to the ProPla process, highlighting opportunities with significant economic potential for the isolation of MPs from water, their characterization and the development of a novel E. coli strain for the conversion of PET into amino acids.
+
+
 "
 all_day: true
 authors:
