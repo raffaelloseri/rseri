@@ -46,7 +46,7 @@ authors:
 - Andrea Vezzulli
 date: "2026-06-04"
 date_end: "2026-06-05"
-event: Plastics \& Environment. Exploring environmental, sustainability and planetary health dimensions - 3rd Edition
+event: "Plastics & Environment. Exploring environmental, sustainability and planetary health dimensions - 3rd Edition"
 event_url: https://eventi.unibo.it/workshop-plastiche-ambiente
 featured: false
 image:
