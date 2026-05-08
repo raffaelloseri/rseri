@@ -14,8 +14,7 @@ This paper presents the socio-economic framework of the ProPla project, which in
 The PLA was crucial in mapping the main technological trends related to the ProPla process, highlighting opportunities with significant economic potential for the isolation of MPs from water, their characterization and the development of a novel E. coli strain for the conversion of PET into amino acids.
 
 
-In particular, the main aim of the PLA is to provide an overview of the technological "state of the art" and of the main innovative emerging trends
-concerning:
+In particular, the main aim of the PLA is to provide an overview of the technological "state of the art" and of the main innovative emerging trends concerning:
 
 
 1. The isolation of MPs from water and their characterization.
@@ -37,6 +36,7 @@ Finally, an impact analysis has been developed to emphasize the contribution of 
 
 
 Trippe, A. (2015) *Guidelines for Preparing Patent Landscape Reports*. World Intellectual Property Organization (WIPO) Publication No. 946."
+
 all_day: true
 authors:
 - Paolo Castelnovo
