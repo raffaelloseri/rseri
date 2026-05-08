@@ -1,5 +1,8 @@
 ---
-abstract: ""
+abstract: "The unsustainable use and disposal of plastics is causing persistent and widespread environmental contamination.
+
+
+"
 all_day: true
 authors:
 - Paolo Castelnovo
