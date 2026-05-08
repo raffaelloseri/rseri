@@ -14,7 +14,7 @@ This paper presents the socio-economic framework of the ProPla project, which in
 The PLA was crucial in mapping the main technological trends related to the ProPla process, highlighting opportunities with significant economic potential for the isolation of MPs from water, their characterization and the development of a novel E. coli strain for the conversion of PET into amino acids.
 
 
-In particular, the main aim of the PLA is to provide an overview of the technological "state of the art" and of the main innovative emerging trends concerning:
+In particular, the main aim of the PLA is to provide an overview of the technological 'state of the art' and of the main innovative emerging trends concerning:
 
 
 1. The isolation of MPs from water and their characterization.
@@ -23,7 +23,19 @@ In particular, the main aim of the PLA is to provide an overview of the technolo
 2. The development of a novel E. coli strain for conversion of microPET degradation products into amino acids.
 
 
-"
+The PLA was conducted in accordance with the guidelines prescribed by the World Intellectual Property Organisation (Trippe, 2015), through a patent search strategy that combined a series of queries based on the most relevant patent text keywords and of the most relevant technological IPC/CPC patent classes.
+
+
+The socio-economic assessment aimed at underlining the multiple direct and indirect values arising from the project outcomes and products. The issue of the economic feasibility of microPET conversion into value-added products was examined, together with the evidence of the potential social and economic benefits coming from the valorisation of microPET by way of a bio-based conversion process.
+
+
+Finally, an impact analysis has been developed to emphasize the contribution of the overall project results in the achievement of SDGs, at a public level, and of ESG, at a firm level.
+
+
+**References**
+
+
+Trippe, A. (2015) *Guidelines for Preparing Patent Landscape Reports*. World Intellectual Property Organization (WIPO) Publication No. 946."
 all_day: true
 authors:
 - Paolo Castelnovo
