@@ -111,14 +111,14 @@ authors:
 - Andrea Gregor de Varda
 - Idaliya Grigoryeva
 - Alexi Gugushvili
-- Aaron H.A Fletcher
+- Aaron H. A. Fletcher
 - Florian Habermann
 - Márton Hablicsek
 - Joanne Haddad
-- Jonathan D Hall
+- Jonathan D. Hall
 - Olle Hammar
 - Malek Hassouneh
-- Carina I Hausladen
+- Carina I. Hausladen
 - Sophie C. F. Hendrikse
 - Matthew Hepplewhite
 - Anson T. Y. Ho
@@ -126,7 +126,7 @@ authors:
 - Elliot Howley
 - Gaoyang Huang
 - Héloïse Hulstaert
-- Zlatomira G Ilchovska
+- Zlatomira G. Ilchovska
 - Paola Jaimes Santamaria
 - Niklas Jakobsson
 - Joakim Jansson
@@ -155,7 +155,7 @@ authors:
 - Helix Lo
 - Katharina Loter
 - Felipe Macedo Dias
-- Christopher R Madan
+- Christopher R. Madan
 - Nicolas Mäder
 - Marco Mandas
 - Cesar Mantilla
