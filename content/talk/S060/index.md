@@ -7,7 +7,7 @@ authors:
 - admin
 date: "2026-05-13"
 date_end: ""
-event: "3rd year PhD Workshop, PhD Program in Methods and Models for Economic Decisions"
+event: "Workshop on Applied Economic Methods, PhD Programme in Methods and Models for Economic Decisions"
 event_url: ""
 featured: false
 image:
