@@ -24,7 +24,7 @@ publishDate: "2025-01-01"
 slides: ""
 summary: ""
 tags:
-- Mathematical statistics
+- Meta-science
 title: "Three cheers for replication! The replicability of research findings in the social sciences"
 url_code: ""
 url_pdf: ""
