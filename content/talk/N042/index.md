@@ -6,7 +6,7 @@ authors:
 - Massimo Rusconi
 - admin
 date: "2026-07-09"
-date_end: "2026-07-19"
+date_end: "2026-07-10"
 event: "DCP26: Dynamics and Complexity Pisa 2026"
 event_url: https://www.cissc.unipi.it/DCP/DCP26/
 featured: false
