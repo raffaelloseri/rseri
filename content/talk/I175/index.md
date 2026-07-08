@@ -3,8 +3,8 @@ abstract: ""
 all_day: true
 authors:
 - admin
-date: "2025-06-15"
-date_end: "2025-06-19"
+date: "2026-06-15"
+date_end: "2026-06-19"
 event: "Oxford in Varese Residence Week for Entrepreneurship Scholars"
 event_url: ""
 featured: false
