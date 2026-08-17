@@ -19,6 +19,16 @@ date_format = "2 Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Vanderbilt University, Nashville (USA)"
+  organization_url = "https://www.vanderbilt.edu"
+  title = "Shanks Workshop Energy and Polarization Problems in Mathematics and Statistics, part I"
+  url = "https://www.eppms-workshop.org"
+  certificate_url = ""
+  date_start = "2026-08-17"
+  date_end = "2026-08-19"
+  description = "Organized with Doug P. Hardin and Ed B. Saff, together with the Shanks Endowment."
+
+[[item]]
   organization = "Villa del Grumello, Como (Italy)"
   organization_url = "https://www.villadelgrumello.it/it/"
   title = "Fourth Summer School in Philosophy of Economics"
