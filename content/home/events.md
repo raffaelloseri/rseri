@@ -41,11 +41,11 @@ date_format = "2 Jan 2006"
 [[item]]
   organization = "Villa del Grumello, Como (Italy)"
   organization_url = "https://www.villadelgrumello.it/it/"
-  title = "Spring School 'Bioeconomy School: Science, Economics, Business and Society'"
+  title = "Summer School 'Bioeconomy School: Science, Economics, Business and Society'"
   url = ""
   certificate_url = ""
-  date_start = "2027-??-??"
-  date_end = "2027-??-??"
+  date_start = "2027-06-07"
+  date_end = "2027-06-11"
   description = "Organized with Loredano Pollegioni, Daniela Ubiali, Andrea Vezzulli, together with the Lake Como School of Advanced Studies."
 
 [[item]]
