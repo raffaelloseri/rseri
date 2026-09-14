@@ -29,16 +29,6 @@ date_format = "2 Jan 2006"
   description = "Organized with Eugenio Caverzasi and Alberto Russo."
 
 [[item]]
-  organization = "?? (Italy)"
-  organization_url = ""
-  title = "Workshop Energy and Polarization Problems in Mathematics and Statistics, part II"
-  url = "https://www.eppms-workshop.org"
-  certificate_url = ""
-  date_start = "2027-??-??"
-  date_end = "2027-??-??"
-  description = "Organized with Doug P. Hardin and Ed B. Saff."
-
-[[item]]
   organization = "Villa del Grumello, Como (Italy)"
   organization_url = "https://www.villadelgrumello.it/it/"
   title = "Summer School 'Bioeconomy School: Science, Economics, Business and Society'"
@@ -47,6 +37,16 @@ date_format = "2 Jan 2006"
   date_start = "2027-06-07"
   date_end = "2027-06-11"
   description = "Organized with Loredano Pollegioni, Daniela Ubiali, Andrea Vezzulli, together with the Lake Como School of Advanced Studies."
+
+[[item]]
+  organization = "Villa Toeplitz, Varese (Italy)"
+  organization_url = ""
+  title = "Workshop Energy and Polarization Problems in Mathematics and Statistics, part II"
+  url = "https://www.eppms-workshop.org"
+  certificate_url = ""
+  date_start = "2027-06-02"
+  date_end = "2027-06-04"
+  description = "Organized with Doug P. Hardin and Ed B. Saff."
 
 [[item]]
   organization = "Vanderbilt University, Nashville (USA)"
